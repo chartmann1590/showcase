@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Primary SEO -->
+  <title>Charles Hartmann — App Portfolio | Android, AI Tools &amp; Web Apps</title>
+  <meta name="description" content="Open-source portfolio of Charles Hartmann: 60+ Android apps, AI tools, self-hosted web platforms, Python automation scripts, and games. All free on GitHub.">
+  <meta name="keywords" content="Charles Hartmann, Android apps, Kotlin, AI tools, Ollama, open source, GitHub portfolio, web apps, Python tools">
+  <meta name="author" content="Charles Hartmann">
+  <link rel="canonical" href="https://chartmann1590.github.io/showcase/">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://chartmann1590.github.io/showcase/">
+  <meta property="og:title" content="Charles Hartmann — App Portfolio">
+  <meta property="og:description" content="60+ open-source Android apps, AI tools, web platforms, and Python scripts. Browse the full interactive catalog.">
+  <meta property="og:image" content="https://github.com/chartmann1590.png">
+  <meta property="og:image:width" content="460">
+  <meta property="og:image:height" content="460">
+  <meta property="og:site_name" content="Charles Hartmann Portfolio">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Charles Hartmann — App Portfolio">
+  <meta name="twitter:description" content="60+ open-source Android apps, AI tools, and web platforms. Browse the full interactive showcase.">
+  <meta name="twitter:image" content="https://github.com/chartmann1590.png">
+
+  <!-- JSON-LD Structured Data (populated by app.js) -->
+  <script id="jsonld" type="application/ld+json"></script>
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="assets/css/style.css">
+
+  <!-- Favicon: emoji SVG -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
+  <link rel="apple-touch-icon" href="https://github.com/chartmann1590.png">
+
+  <!-- Sitemap & Robots -->
+  <link rel="sitemap" type="application/xml" href="sitemap.xml">
+</head>
+<body>
+
+  <!-- Ambient background orbs -->
+  <div class="bg-orbs" aria-hidden="true">
+    <div class="orb orb-1"></div>
+    <div class="orb orb-2"></div>
+    <div class="orb orb-3"></div>
+  </div>
+
+  <!-- ── Navigation ── -->
+  <nav class="nav" role="navigation" aria-label="Site navigation">
+    <div class="nav-inner">
+      <a href="#" class="nav-logo" aria-label="Charles Hartmann Portfolio">
+        <span class="logo-icon" aria-hidden="true">⚡</span>
+        <span class="logo-text">CH Portfolio</span>
+      </a>
+      <div class="nav-search-wrap">
+        <input
+          type="search"
+          id="nav-search"
+          class="nav-search"
+          placeholder="Search apps…"
+          autocomplete="off"
+          aria-label="Search apps"
+        >
+      </div>
+      <div class="nav-links">
+        <a href="https://github.com/chartmann1590" target="_blank" rel="noopener noreferrer" class="nav-link">GitHub</a>
+        <a href="https://buymeacoffee.com/charleshartmann" target="_blank" rel="noopener noreferrer" class="btn-coffee nav-coffee" aria-label="Buy Me a Coffee">☕ Coffee</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- ── Hero ── -->
+  <header class="hero" role="banner">
+    <div class="hero-inner">
+      <div class="hero-avatar-wrap">
+        <a href="https://github.com/chartmann1590" target="_blank" rel="noopener noreferrer" aria-label="GitHub Profile">
+          <img
+            id="hero-avatar"
+            src="https://github.com/chartmann1590.png"
+            alt="Charles Hartmann"
+            class="hero-avatar"
+            width="108"
+            height="108"
+            loading="eager"
+          >
+        </a>
+      </div>
+      <div class="hero-content">
+        <div class="hero-badge" aria-label="Role">Open Source Developer</div>
+        <h1 class="hero-title">
+          <span id="hero-name">Charles Hartmann</span>
+        </h1>
+        <p class="hero-bio" id="hero-bio">
+          Hi, I'm Charles — a versatile programmer specializing in Android, AI, and automation.
+          Building apps, tools, and platforms that matter.
+        </p>
+        <div class="hero-stats" id="hero-stats" aria-label="Portfolio statistics">
+          <!-- Populated by app.js -->
+        </div>
+        <div class="hero-ctas">
+          <a href="#catalog" class="btn-primary">Browse All Apps</a>
+          <a href="https://buymeacoffee.com/charleshartmann" target="_blank" rel="noopener noreferrer" class="btn-coffee" aria-label="Support on Buy Me a Coffee">☕ Buy Me a Coffee</a>
+          <a href="https://github.com/chartmann1590" target="_blank" rel="noopener noreferrer" class="btn-ghost">GitHub Profile</a>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- ── Catalog ── -->
+  <main id="catalog" class="catalog" role="main">
+    <div class="catalog-inner">
+
+      <!-- Search + Filter -->
+      <section class="catalog-controls" aria-label="Search and filter">
+        <div class="search-wrap">
+          <svg class="search-icon" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+            <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z"/>
+          </svg>
+          <input
+            type="search"
+            id="search"
+            class="search-input"
+            placeholder="Search by name, description, or technology…"
+            autocomplete="off"
+            aria-label="Search apps"
+          >
+          <span id="search-clear" class="search-clear" hidden aria-label="Clear search">✕</span>
+        </div>
+
+        <div class="filter-pills" id="filter-pills" role="tablist" aria-label="Filter by category">
+          <button class="pill active" data-cat="all" role="tab" aria-selected="true">All <span class="pill-count" id="count-all">0</span></button>
+          <button class="pill" data-cat="android" role="tab" aria-selected="false">📱 Android <span class="pill-count" id="count-android">0</span></button>
+          <button class="pill" data-cat="web" role="tab" aria-selected="false">🌐 Web <span class="pill-count" id="count-web">0</span></button>
+          <button class="pill" data-cat="ai" role="tab" aria-selected="false">🤖 AI Tools <span class="pill-count" id="count-ai">0</span></button>
+          <button class="pill" data-cat="python" role="tab" aria-selected="false">🐍 Python <span class="pill-count" id="count-python">0</span></button>
+          <button class="pill" data-cat="game" role="tab" aria-selected="false">🎮 Games <span class="pill-count" id="count-game">0</span></button>
+          <button class="pill" data-cat="iot" role="tab" aria-selected="false">🔧 IoT <span class="pill-count" id="count-iot">0</span></button>
+        </div>
+      </section>
+
+      <!-- Results header -->
+      <div class="results-info" aria-live="polite">
+        <span id="results-text">Loading apps…</span>
+        <span id="last-updated" class="last-updated"></span>
+      </div>
+
+      <!-- App grid -->
+      <div id="app-grid" class="app-grid" role="list" aria-label="App catalog">
+        <!-- Skeleton placeholders while loading -->
+        <div class="skeleton-card" aria-hidden="true"></div>
+        <div class="skeleton-card" aria-hidden="true"></div>
+        <div class="skeleton-card" aria-hidden="true"></div>
+        <div class="skeleton-card" aria-hidden="true"></div>
+        <div class="skeleton-card" aria-hidden="true"></div>
+        <div class="skeleton-card" aria-hidden="true"></div>
+      </div>
+
+      <!-- Empty state -->
+      <div id="empty-state" class="empty-state" hidden role="status">
+        <div class="empty-icon">🔍</div>
+        <h3>No apps found</h3>
+        <p>Try a different search term or select a different category</p>
+      </div>
+    </div>
+  </main>
+
+  <!-- ── Footer ── -->
+  <footer class="footer" role="contentinfo">
+    <div class="footer-inner">
+      <div class="footer-top">
+        <div class="footer-brand">
+          <span class="footer-logo">⚡ Charles Hartmann</span>
+          <p class="footer-tagline">Building apps, tools, and platforms that matter — all open source.</p>
+        </div>
+        <div class="footer-links">
+          <a href="https://github.com/chartmann1590" target="_blank" rel="noopener noreferrer">GitHub Profile</a>
+          <a href="https://buymeacoffee.com/charleshartmann" target="_blank" rel="noopener noreferrer">Buy Me a Coffee</a>
+        </div>
+      </div>
+      <div class="footer-divider"></div>
+      <div class="footer-bottom">
+        <span class="footer-updated">🤖 Auto-updated daily via GitHub Actions</span>
+        <a href="https://buymeacoffee.com/charleshartmann" target="_blank" rel="noopener noreferrer" class="btn-coffee footer-coffee" aria-label="Support my work on Buy Me a Coffee">
+          ☕ Support This Work
+        </a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="assets/js/app.js"></script>
+</body>
+</html>
