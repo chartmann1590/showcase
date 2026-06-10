@@ -207,6 +207,26 @@ img { display: block; }
   font-size: 0.8rem;
 }
 
+.btn-play {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: #01875f;
+  color: #fff;
+  padding: 11px 20px;
+  border-radius: 999px;
+  font-weight: 700;
+  font-size: 0.875rem;
+  transition: opacity var(--transition), transform var(--transition), box-shadow var(--transition);
+  box-shadow: 0 4px 16px rgba(1, 135, 95, 0.3);
+  white-space: nowrap;
+}
+.btn-play:hover {
+  opacity: 0.9;
+  transform: translateY(-1px);
+  box-shadow: 0 6px 24px rgba(1, 135, 95, 0.45);
+}
+
 .btn-ghost {
   display: inline-flex;
   align-items: center;

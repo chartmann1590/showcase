@@ -9,7 +9,8 @@ from datetime import date
 
 BUYMEACOFFEE_URL = "https://buymeacoffee.com/charleshartmann"
 SHOWCASE_URL = "https://chartmann1590.github.io/showcase"
-GITHUB_PROFILE = "https://github.com/chartmann1590"
+GITHUB_PROFILE  = "https://github.com/chartmann1590"
+GOOGLE_PLAY_URL = "https://play.google.com/store/apps/developer?id=Hartmann+Studios"
 
 
 CATEGORY_META = {
@@ -66,6 +67,7 @@ def main():
         f'[![Apps](https://img.shields.io/badge/Apps-{total}-4f6fff?style=for-the-badge&logo=github&logoColor=white)]({SHOWCASE_URL})',
         f'[![Stars](https://img.shields.io/badge/Total_Stars-{total_stars}-gold?style=for-the-badge&logo=github&logoColor=white)]({GITHUB_PROFILE})',
         f'[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-☕-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]({BUYMEACOFFEE_URL})',
+        f'[![Google Play](https://img.shields.io/badge/Google_Play-Hartmann_Studios-01875f?style=for-the-badge&logo=google-play&logoColor=white)]({GOOGLE_PLAY_URL})',
         "",
         f'### 🌐 [View the Full Interactive Showcase →]({SHOWCASE_URL})',
         "",
@@ -123,6 +125,10 @@ def main():
         "",
         f'<a href="{BUYMEACOFFEE_URL}" target="_blank">',
         f'  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50">',
+        "</a>",
+        "&nbsp;&nbsp;",
+        f'<a href="{GOOGLE_PLAY_URL}" target="_blank">',
+        f'  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">',
         "</a>",
         "",
         f'*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: {updated}*',
