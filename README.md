@@ -56,7 +56,7 @@
 | [StickyNotes](https://github.com/chartmann1590/StickyNotes) | Modern Android sticky notes app with multiple notes and linked home screen widgets. · [Demo](https://chartmann1590.github.io/StickyNotes/) | Java |  |
 | [ToolTok-App](https://github.com/chartmann1590/ToolTok-App) | Android shell for the live ToolTok platform with automated releases, GitHub Pages, and Android E2E validation. · [Demo](https://chartmann1590.github.io/ToolTok-App/) | Kotlin |  |
 
-## 🌐 Web Applications (16)
+## 🌐 Web Applications (17)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
@@ -71,6 +71,7 @@
 | [Local-News-AI](https://github.com/chartmann1590/Local-News-AI) | A simple local news and weather ai for home use. | HTML |  |
 | [Meeting-Notes](https://github.com/chartmann1590/Meeting-Notes) | An AI powered meeting notes web app | JavaScript |  |
 | [Meeting-Notes-App](https://github.com/chartmann1590/Meeting-Notes-App) | Meeting Notes App | TypeScript |  |
+| [showcase](https://github.com/chartmann1590/showcase) | My complete portfolio — Android apps, AI tools, web apps, and more · [Demo](https://chartmann1590.github.io/showcase) | CSS |  |
 | [skypulse-android](https://github.com/chartmann1590/skypulse-android) | SkyPulse — native Android live aircraft tracker (Kotlin/Compose) using free open ADS-B data (ADSB.lol + OpenSky) and OpenFlights. No API key, no login. · [Demo](https://chartmann1590.github.io/skypulse-android/) | HTML |  |
 | [trailsage-ai-android](https://github.com/chartmann1590/trailsage-ai-android) | Offline-first Android GPS audio tour guide with on-device AI · [Demo](https://chartmann1590.github.io/trailsage-ai-android/) | HTML |  |
 | [VirtualPhotobooth](https://github.com/chartmann1590/VirtualPhotobooth) | A simple Web Based Virtual Photobooth with email and sms sending features | HTML |  |
@@ -122,13 +123,12 @@
 | [Photobooth](https://github.com/chartmann1590/Photobooth) | A simple web based photobooth designed for a raspberry pi 3b with cups and tts | HTML |  |
 | [RPI-Dashboard](https://github.com/chartmann1590/RPI-Dashboard) | My raspberry pi dashbaord written in python flask | HTML |  |
 
-## ⚙️ Other Projects (3)
+## ⚙️ Other Projects (2)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
 | [chartmann1590.github.io](https://github.com/chartmann1590/chartmann1590.github.io) | Root GitHub Pages site for app-ads.txt |  |  |
 | [FantasyFootball](https://github.com/chartmann1590/FantasyFootball) | A self hosted Fantasy Football (NFL) League Platform |  |  |
-| [showcase](https://github.com/chartmann1590/showcase) | My complete portfolio — Android apps, AI tools, web apps, and more · [Demo](https://chartmann1590.github.io/showcase) |  |  |
 
 ---
 
