@@ -299,6 +299,27 @@ function injectJsonLd(catalog) {
   if (script) script.textContent = JSON.stringify(ld);
 }
 
+// ---- Video loader ----
+async function loadVideo() {
+  try {
+    const res = await fetch("video_meta.json?" + Date.now());
+    if (!res.ok) return;
+    const meta = await res.json();
+    if (!meta.video) return;
+    const wrap = document.getElementById("video-wrap");
+    if (!wrap) return;
+    wrap.innerHTML = `
+      <video class="promo-video" controls preload="metadata"
+        poster="${escHtml(meta.poster || '')}"
+        aria-label="Charles Hartmann app portfolio promo video">
+        <source src="${escHtml(meta.video)}" type="video/mp4">
+        Your browser does not support video playback.
+      </video>`;
+  } catch (_) {
+    // Video not yet generated — placeholder stays
+  }
+}
+
 // ---- Main ----
 async function init() {
   try {
@@ -323,6 +344,7 @@ async function init() {
     }
 
     injectJsonLd(catalog);
+    loadVideo();
   } catch (err) {
     console.error("Failed to load catalog:", err);
     const grid = document.getElementById("app-grid");
