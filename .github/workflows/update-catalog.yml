@@ -1,4 +1,4 @@
-name: Update Catalog
+name: Update Catalog  # auto-update daily + manual trigger
 
 on:
   schedule:
