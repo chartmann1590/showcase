@@ -1,23 +1,23 @@
 {
-  "updated": "2026-06-10",
+  "updated": "2026-06-11",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
     "bio": "👋 Hi, I'm Charles! A versatile programmer specializing in Python, Flask, and automation. I enjoy crafting web applications, smart home integrations, and innova",
     "avatar_url": "https://avatars.githubusercontent.com/u/73352603?v=4",
     "html_url": "https://github.com/chartmann1590",
-    "public_repos": 92,
+    "public_repos": 93,
     "followers": 5
   },
   "stats": {
-    "total": 61,
+    "total": 62,
     "total_stars": 78,
     "by_category": {
-      "web": 17,
-      "android": 17,
+      "web": 16,
+      "android": 18,
       "ai": 2,
       "game": 6,
-      "python": 14,
+      "python": 15,
       "other": 2,
       "iot": 3
     }
@@ -308,7 +308,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-06-09",
+      "pushed_at": "2026-06-10",
       "created_at": "2026-05-18"
     },
     {
@@ -433,6 +433,19 @@
       "category": "web",
       "pushed_at": "2026-03-09",
       "created_at": "2026-03-09"
+    },
+    {
+      "name": "knightfall",
+      "description": "Beautiful chess for Android - play a grandmaster-strength AI with an on-device coach, battle friends online, climb the leaderboard",
+      "url": "https://github.com/chartmann1590/knightfall",
+      "homepage": "https://chartmann1590.github.io/knightfall/",
+      "language": "Kotlin",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "category": "android",
+      "pushed_at": "2026-06-11",
+      "created_at": "2026-06-10"
     },
     {
       "name": "LifeCaptureOS",
@@ -660,11 +673,11 @@
       "description": "My complete portfolio — Android apps, AI tools, web apps, and more",
       "url": "https://github.com/chartmann1590/showcase",
       "homepage": "https://chartmann1590.github.io/showcase",
-      "language": "CSS",
+      "language": "Python",
       "stars": 0,
       "forks": 0,
       "topics": [],
-      "category": "web",
+      "category": "python",
       "pushed_at": "2026-06-10",
       "created_at": "2026-06-10"
     },

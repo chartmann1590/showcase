@@ -6,7 +6,7 @@
 
 **Android apps · AI tools · Web platforms · Python scripts — all open source**
 
-[![Apps](https://img.shields.io/badge/Apps-61-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
+[![Apps](https://img.shields.io/badge/Apps-62-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
 [![Stars](https://img.shields.io/badge/Total_Stars-78-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-☕-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/charleshartmann)
 [![Google Play](https://img.shields.io/badge/Google_Play-Hartmann_Studios-01875f?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Hartmann+Studios)
@@ -35,7 +35,7 @@
 
 ---
 
-## 📱 Android Apps (17)
+## 📱 Android Apps (18)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
@@ -48,6 +48,7 @@
 | [Flashlight](https://github.com/chartmann1590/Flashlight) | Modern Android flashlight app with real-device screenshots, signed release CI, and ads-enabled release guard. · [Demo](https://chartmann1590.github.io/Flashlight/) | Kotlin |  |
 | [FocusFlow](https://github.com/chartmann1590/FocusFlow) | FocusFlow - Pomodoro Timer and Task Manager for Android. Boost productivity with focus tracking, stats and daily goals. Website: https://chartmann1590.github.io/FocusFlow | Kotlin |  |
 | [GrocyFridgeScanner](https://github.com/chartmann1590/GrocyFridgeScanner) | AI-powered fridge & cupboard inventory scanner for Grocy — uses on-device Gemma 4 E2B to detect food items and sync inventory changes · [Demo](https://chartmann1590.github.io/GrocyFridgeScanner/) | Kotlin |  |
+| [knightfall](https://github.com/chartmann1590/knightfall) | Beautiful chess for Android - play a grandmaster-strength AI with an on-device coach, battle friends online, climb the leaderboard · [Demo](https://chartmann1590.github.io/knightfall/) | Kotlin |  |
 | [LiveTranscribe-Android](https://github.com/chartmann1590/LiveTranscribe-Android) | Live android transcription app · [Demo](https://chartmann1590.github.io/LiveTranscribe-Android/) | Kotlin |  |
 | [ollama-android-client](https://github.com/chartmann1590/ollama-android-client) | simple ollama android client · [Demo](https://ollama-android-7525f.web.app) | Kotlin |  |
 | [path](https://github.com/chartmann1590/path) | A bible study app for android with (self hosted) AI summaries · [Demo](https://path-bible-study.web.app/) | Kotlin |  |
@@ -57,7 +58,7 @@
 | [StickyNotes](https://github.com/chartmann1590/StickyNotes) | Modern Android sticky notes app with multiple notes and linked home screen widgets. · [Demo](https://chartmann1590.github.io/StickyNotes/) | Java |  |
 | [ToolTok-App](https://github.com/chartmann1590/ToolTok-App) | Android shell for the live ToolTok platform with automated releases, GitHub Pages, and Android E2E validation. · [Demo](https://chartmann1590.github.io/ToolTok-App/) | Kotlin |  |
 
-## 🌐 Web Applications (17)
+## 🌐 Web Applications (16)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
@@ -72,7 +73,6 @@
 | [Local-News-AI](https://github.com/chartmann1590/Local-News-AI) | A simple local news and weather ai for home use. | HTML |  |
 | [Meeting-Notes](https://github.com/chartmann1590/Meeting-Notes) | An AI powered meeting notes web app | JavaScript |  |
 | [Meeting-Notes-App](https://github.com/chartmann1590/Meeting-Notes-App) | Meeting Notes App | TypeScript |  |
-| [showcase](https://github.com/chartmann1590/showcase) | My complete portfolio — Android apps, AI tools, web apps, and more · [Demo](https://chartmann1590.github.io/showcase) | CSS |  |
 | [skypulse-android](https://github.com/chartmann1590/skypulse-android) | SkyPulse — native Android live aircraft tracker (Kotlin/Compose) using free open ADS-B data (ADSB.lol + OpenSky) and OpenFlights. No API key, no login. · [Demo](https://chartmann1590.github.io/skypulse-android/) | HTML |  |
 | [trailsage-ai-android](https://github.com/chartmann1590/trailsage-ai-android) | Offline-first Android GPS audio tour guide with on-device AI · [Demo](https://chartmann1590.github.io/trailsage-ai-android/) | HTML |  |
 | [VirtualPhotobooth](https://github.com/chartmann1590/VirtualPhotobooth) | A simple Web Based Virtual Photobooth with email and sms sending features | HTML |  |
@@ -86,7 +86,7 @@
 | [AI-Social](https://github.com/chartmann1590/AI-Social) | A React Native + Expo app that simulates a social media experience powered by a local Ollama model. · [Demo](https://chartmann1590.github.io/AI-Social/) | TypeScript | ⭐ 2 |
 | [AI-Character-Chat](https://github.com/chartmann1590/AI-Character-Chat) | A Python Flask-based web application that mimics the functionality of Character.AI, enabling engaging, interactive conversations with AI-driven characters. This project leverages local AI models powered by Ollama for generating dynamic and context-aware interactions. | HTML |  |
 
-## 🐍 Python Tools (14)
+## 🐍 Python Tools (15)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
@@ -100,6 +100,7 @@
 | [Mumble-AI](https://github.com/chartmann1590/Mumble-AI) | A Docker Stack for a mumble speak bot that utilizes ollama, piper and faster-whisper aloing with a web based contol panel. | Python |  |
 | [NutriCoach-AI](https://github.com/chartmann1590/NutriCoach-AI) | A simple self hosted ai powered nutrition tracker and coach | Python |  |
 | [ollama-client-lite](https://github.com/chartmann1590/ollama-client-lite) | a super lightweight ollama client written in python | Python |  |
+| [showcase](https://github.com/chartmann1590/showcase) | My complete portfolio — Android apps, AI tools, web apps, and more · [Demo](https://chartmann1590.github.io/showcase) | Python |  |
 | [Sip-Bridge](https://github.com/chartmann1590/Sip-Bridge) | A sip bright that accepts calls at a pre configured extension and uses groq for whisper3, local ollama gpt, and openai-egde-tts for tts playback on the sip bridge with a nice user interface | Python |  |
 | [tiktok-live-gift-tracker](https://github.com/chartmann1590/tiktok-live-gift-tracker) | Real-time TikTok live stream gift tracking dashboard. Persistent SQLite storage, auto-reconnect, multi-streamer support, stream history, and top gifters leaderboard. · [Demo](https://chartmann1590.github.io/tiktok-live-gift-tracker/) | Python |  |
 | [Wedding-Outreach](https://github.com/chartmann1590/Wedding-Outreach) | A simple script to automate the process of reaching out to your wedding guests for their address using a CSV upload and Facebook Messenger | Python |  |
@@ -147,6 +148,6 @@ If you find my projects useful, consider buying me a coffee!
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
 </a>
 
-*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-06-10*
+*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-06-11*
 
 </div>
