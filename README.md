@@ -58,13 +58,14 @@
 | [StickyNotes](https://github.com/chartmann1590/StickyNotes) | Modern Android sticky notes app with multiple notes and linked home screen widgets. · [Demo](https://chartmann1590.github.io/StickyNotes/) | Java |  |
 | [ToolTok-App](https://github.com/chartmann1590/ToolTok-App) | Android shell for the live ToolTok platform with automated releases, GitHub Pages, and Android E2E validation. · [Demo](https://chartmann1590.github.io/ToolTok-App/) | Kotlin |  |
 
-## 🌐 Web Applications (16)
+## 🌐 Web Applications (17)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
 | [VowVault](https://github.com/chartmann1590/VowVault) | A beautiful, modern wedding photo gallery and guestbook with SSO authentication, PWA support, and comprehensive admin tools. · [Demo](https://chartmann1590.github.io/VowVault/) | HTML | ⭐ 29 |
 | [bee-ai-web](https://github.com/chartmann1590/bee-ai-web) | A web interface for the Bee AI that uses your api key | HTML | ⭐ 20 |
 | [Memory-AI-Project](https://github.com/chartmann1590/Memory-AI-Project) | An innovative solution combining local AI and recorded memories. | HTML | ⭐ 2 |
+| [chartmann1590.github.io](https://github.com/chartmann1590/chartmann1590.github.io) | Root GitHub Pages site for app-ads.txt | HTML |  |
 | [cognizant](https://github.com/chartmann1590/cognizant) | Peer-powered understanding engine - a unique PWA where you learn by teaching AI students | JavaScript |  |
 | [family-guardian](https://github.com/chartmann1590/family-guardian) | Self-hosted family safety platform | JavaScript |  |
 | [Family-Tracker](https://github.com/chartmann1590/Family-Tracker) | A self hosted family tracking app similar to life360 | TypeScript |  |
@@ -125,11 +126,10 @@
 | [Photobooth](https://github.com/chartmann1590/Photobooth) | A simple web based photobooth designed for a raspberry pi 3b with cups and tts | HTML |  |
 | [RPI-Dashboard](https://github.com/chartmann1590/RPI-Dashboard) | My raspberry pi dashbaord written in python flask | HTML |  |
 
-## ⚙️ Other Projects (2)
+## ⚙️ Other Projects (1)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
-| [chartmann1590.github.io](https://github.com/chartmann1590/chartmann1590.github.io) | Root GitHub Pages site for app-ads.txt |  |  |
 | [FantasyFootball](https://github.com/chartmann1590/FantasyFootball) | A self hosted Fantasy Football (NFL) League Platform |  |  |
 
 ---
@@ -148,6 +148,6 @@ If you find my projects useful, consider buying me a coffee!
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
 </a>
 
-*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-06-11*
+*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-06-12*
 
 </div>
