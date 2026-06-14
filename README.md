@@ -74,7 +74,7 @@
 | [Local-News-AI](https://github.com/chartmann1590/Local-News-AI) | A simple local news and weather ai for home use. | HTML |  |
 | [Meeting-Notes](https://github.com/chartmann1590/Meeting-Notes) | An AI powered meeting notes web app | JavaScript |  |
 | [Meeting-Notes-App](https://github.com/chartmann1590/Meeting-Notes-App) | Meeting Notes App | TypeScript |  |
-| [party-quips](https://github.com/chartmann1590/party-quips) | A Jackbox-style party game platform — play together on TV and phones | TypeScript |  |
+| [party-quips](https://github.com/chartmann1590/party-quips) | A Jackbox-style party game platform — play together on TV and phones · [Demo](https://chartmann1590.github.io/party-quips/) | TypeScript |  |
 | [skypulse-android](https://github.com/chartmann1590/skypulse-android) | SkyPulse — native Android live aircraft tracker (Kotlin/Compose) using free open ADS-B data (ADSB.lol + OpenSky) and OpenFlights. No API key, no login. · [Demo](https://chartmann1590.github.io/skypulse-android/) | HTML |  |
 | [trailsage-ai-android](https://github.com/chartmann1590/trailsage-ai-android) | Offline-first Android GPS audio tour guide with on-device AI · [Demo](https://chartmann1590.github.io/trailsage-ai-android/) | HTML |  |
 | [VirtualPhotobooth](https://github.com/chartmann1590/VirtualPhotobooth) | A simple Web Based Virtual Photobooth with email and sms sending features | HTML |  |
@@ -149,6 +149,6 @@ If you find my projects useful, consider buying me a coffee!
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
 </a>
 
-*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-06-13*
+*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-06-14*
 
 </div>
