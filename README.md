@@ -50,7 +50,7 @@
 | [GrocyFridgeScanner](https://github.com/chartmann1590/GrocyFridgeScanner) | AI-powered fridge & cupboard inventory scanner for Grocy — uses on-device Gemma 4 E2B to detect food items and sync inventory changes · [Demo](https://chartmann1590.github.io/GrocyFridgeScanner/) | Kotlin |  |
 | [knightfall](https://github.com/chartmann1590/knightfall) | Beautiful chess for Android - play a grandmaster-strength AI with an on-device coach, battle friends online, climb the leaderboard · [Demo](https://chartmann1590.github.io/knightfall/) | Kotlin |  |
 | [LiveTranscribe-Android](https://github.com/chartmann1590/LiveTranscribe-Android) | Live android transcription app · [Demo](https://chartmann1590.github.io/LiveTranscribe-Android/) | Kotlin |  |
-| [ollama-android-client](https://github.com/chartmann1590/ollama-android-client) | simple ollama android client · [Demo](https://ollama-android-7525f.web.app) | Kotlin |  |
+| [ollama-android-client](https://github.com/chartmann1590/ollama-android-client) | simple ollama android client · [Demo](https://chartmann1590.github.io/ollama-android-client/) | Kotlin |  |
 | [path](https://github.com/chartmann1590/path) | A bible study app for android with (self hosted) AI summaries · [Demo](https://path-bible-study.web.app/) | Kotlin |  |
 | [Pocket-Assistant](https://github.com/chartmann1590/Pocket-Assistant) | Local-first Android AI assistant — OCR, on-device LLM, semantic search, tasks & reminders · [Demo](https://chartmann1590.github.io/Pocket-Assistant/) | Kotlin |  |
 | [qrcode-scanner-android](https://github.com/chartmann1590/qrcode-scanner-android) | Modern Android QR & Barcode Reader · [Demo](https://chartmann1590.github.io/qrcode-scanner-android/) | Kotlin |  |
@@ -149,6 +149,6 @@ If you find my projects useful, consider buying me a coffee!
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
 </a>
 
-*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-06-15*
+*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-06-16*
 
 </div>
