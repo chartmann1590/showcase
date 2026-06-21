@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20",
+  "updated": "2026-06-21",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
@@ -11,7 +11,7 @@
   },
   "stats": {
     "total": 63,
-    "total_stars": 79,
+    "total_stars": 80,
     "by_category": {
       "web": 18,
       "android": 18,
@@ -102,6 +102,19 @@
       "category": "android",
       "pushed_at": "2026-05-28",
       "created_at": "2026-05-27"
+    },
+    {
+      "name": "DriveVault",
+      "description": "Privacy-first dashcam app for Android. Record drives with GPS overlays, dual-camera support, and full control over your data.",
+      "url": "https://github.com/chartmann1590/DriveVault",
+      "homepage": "https://chartmann1590.github.io/DriveVault/",
+      "language": "Kotlin",
+      "stars": 1,
+      "forks": 0,
+      "topics": [],
+      "category": "android",
+      "pushed_at": "2026-06-20",
+      "created_at": "2026-06-08"
     },
     {
       "name": "Pixel-Fish-Tank",
@@ -286,19 +299,6 @@
       "created_at": "2026-04-27"
     },
     {
-      "name": "DriveVault",
-      "description": "Privacy-first dashcam app for Android. Record drives with GPS overlays, dual-camera support, and full control over your data.",
-      "url": "https://github.com/chartmann1590/DriveVault",
-      "homepage": "",
-      "language": "Kotlin",
-      "stars": 0,
-      "forks": 0,
-      "topics": [],
-      "category": "android",
-      "pushed_at": "2026-06-20",
-      "created_at": "2026-06-08"
-    },
-    {
       "name": "family-guardian",
       "description": "Self-hosted family safety platform",
       "url": "https://github.com/chartmann1590/family-guardian",
@@ -379,7 +379,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-06-19",
+      "pushed_at": "2026-06-20",
       "created_at": "2026-04-18"
     },
     {
@@ -691,7 +691,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-06-19",
+      "pushed_at": "2026-06-20",
       "created_at": "2026-06-10"
     },
     {
