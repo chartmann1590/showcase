@@ -1,19 +1,19 @@
 {
-  "updated": "2026-06-21",
+  "updated": "2026-06-22",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
     "bio": "👋 Hi, I'm Charles! A versatile programmer specializing in Python, Flask, and automation. I enjoy crafting web applications, smart home integrations, and innova",
     "avatar_url": "https://avatars.githubusercontent.com/u/73352603?v=4",
     "html_url": "https://github.com/chartmann1590",
-    "public_repos": 94,
+    "public_repos": 95,
     "followers": 5
   },
   "stats": {
-    "total": 63,
+    "total": 64,
     "total_stars": 80,
     "by_category": {
-      "web": 18,
+      "web": 19,
       "android": 18,
       "ai": 2,
       "game": 6,
@@ -113,7 +113,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-06-20",
+      "pushed_at": "2026-06-22",
       "created_at": "2026-06-08"
     },
     {
@@ -234,6 +234,19 @@
       "created_at": "2026-05-07"
     },
     {
+      "name": "carthing-apps",
+      "description": "DeskThing apps for the Spotify CarThing — gas prices, calendar, bus arrivals, traffic, and local news",
+      "url": "https://github.com/chartmann1590/carthing-apps",
+      "homepage": "",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "category": "web",
+      "pushed_at": "2026-06-21",
+      "created_at": "2026-06-21"
+    },
+    {
       "name": "chartmann1590.github.io",
       "description": "Root GitHub Pages site for app-ads.txt",
       "url": "https://github.com/chartmann1590/chartmann1590.github.io",
@@ -243,7 +256,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-06-19",
+      "pushed_at": "2026-06-21",
       "created_at": "2026-04-15"
     },
     {
@@ -308,7 +321,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-06-19",
+      "pushed_at": "2026-06-21",
       "created_at": "2026-05-18"
     },
     {
@@ -379,7 +392,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-06-20",
+      "pushed_at": "2026-06-21",
       "created_at": "2026-04-18"
     },
     {
@@ -665,7 +678,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-06-08",
+      "pushed_at": "2026-06-21",
       "created_at": "2026-05-28"
     },
     {
@@ -691,7 +704,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-06-20",
+      "pushed_at": "2026-06-21",
       "created_at": "2026-06-10"
     },
     {
