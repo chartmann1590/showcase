@@ -6,7 +6,7 @@
 
 **Android apps · AI tools · Web platforms · Python scripts — all open source**
 
-[![Apps](https://img.shields.io/badge/Apps-64-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
+[![Apps](https://img.shields.io/badge/Apps-65-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
 [![Stars](https://img.shields.io/badge/Total_Stars-80-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-☕-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/charleshartmann)
 [![Google Play](https://img.shields.io/badge/Google_Play-Hartmann_Studios-01875f?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Hartmann+Studios)
@@ -35,7 +35,7 @@
 
 ---
 
-## 📱 Android Apps (18)
+## 📱 Android Apps (19)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
@@ -43,6 +43,7 @@
 | [airgf](https://github.com/chartmann1590/airgf) | AirGF - AI Virtual Companion. On-device AI girlfriend with Gemma 4 LLM, 3D avatars, image sharing, and image generation. · [Demo](https://chartmann1590.github.io/airgf/) | Kotlin | ⭐ 1 |
 | [DriveVault](https://github.com/chartmann1590/DriveVault) | Privacy-first dashcam app for Android. Record drives with GPS overlays, dual-camera support, and full control over your data. · [Demo](https://chartmann1590.github.io/DriveVault/) | Kotlin | ⭐ 1 |
 | [android-photobooth](https://github.com/chartmann1590/android-photobooth) | Modern Android photobooth app built with Kotlin and Jetpack Compose. Fullscreen photobooth experience with event-specific templates, countdown timer, local saving, optional cloud upload (Immich), SMS/email sharing, gallery, and wireless printing. · [Demo](https://chartmann1590.github.io/android-photobooth/) | Kotlin |  |
+| [aria-assistant](https://github.com/chartmann1590/aria-assistant) | Fully on-device AI voice assistant for Android — Gemma 4, Whisper STT, Piper TTS. No cloud. No tracking. · [Demo](https://chartmann1590.github.io/aria-assistant) | Kotlin |  |
 | [captionburn](https://github.com/chartmann1590/captionburn) | Auto-caption and burn subtitles into videos on-device. Whisper transcription, ML Kit translation, full caption styling. · [Demo](https://chartmann1590.github.io/captionburn) | Kotlin |  |
 | [dreamloom](https://github.com/chartmann1590/dreamloom) | Dreamloom: private on-device AI dream journal for Android · [Demo](https://chartmann1590.github.io/dreamloom/) | Kotlin |  |
 | [Flashlight](https://github.com/chartmann1590/Flashlight) | Modern Android flashlight app with real-device screenshots, signed release CI, and ads-enabled release guard. · [Demo](https://chartmann1590.github.io/Flashlight/) | Kotlin |  |
@@ -58,7 +59,7 @@
 | [StickyNotes](https://github.com/chartmann1590/StickyNotes) | Modern Android sticky notes app with multiple notes and linked home screen widgets. · [Demo](https://chartmann1590.github.io/StickyNotes/) | Java |  |
 | [ToolTok-App](https://github.com/chartmann1590/ToolTok-App) | Android shell for the live ToolTok platform with automated releases, GitHub Pages, and Android E2E validation. · [Demo](https://chartmann1590.github.io/ToolTok-App/) | Kotlin |  |
 
-## 🌐 Web Applications (19)
+## 🌐 Web Applications (18)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
@@ -66,7 +67,6 @@
 | [bee-ai-web](https://github.com/chartmann1590/bee-ai-web) | A web interface for the Bee AI that uses your api key | HTML | ⭐ 20 |
 | [Memory-AI-Project](https://github.com/chartmann1590/Memory-AI-Project) | An innovative solution combining local AI and recorded memories. | HTML | ⭐ 2 |
 | [carthing-apps](https://github.com/chartmann1590/carthing-apps) | DeskThing apps for the Spotify CarThing — gas prices, calendar, bus arrivals, traffic, and local news | TypeScript |  |
-| [chartmann1590.github.io](https://github.com/chartmann1590/chartmann1590.github.io) | Root GitHub Pages site for app-ads.txt | HTML |  |
 | [cognizant](https://github.com/chartmann1590/cognizant) | Peer-powered understanding engine - a unique PWA where you learn by teaching AI students | JavaScript |  |
 | [family-guardian](https://github.com/chartmann1590/family-guardian) | Self-hosted family safety platform | JavaScript |  |
 | [Family-Tracker](https://github.com/chartmann1590/Family-Tracker) | A self hosted family tracking app similar to life360 | TypeScript |  |
@@ -89,13 +89,14 @@
 | [AI-Social](https://github.com/chartmann1590/AI-Social) | A React Native + Expo app that simulates a social media experience powered by a local Ollama model. · [Demo](https://chartmann1590.github.io/AI-Social/) | TypeScript | ⭐ 2 |
 | [AI-Character-Chat](https://github.com/chartmann1590/AI-Character-Chat) | A Python Flask-based web application that mimics the functionality of Character.AI, enabling engaging, interactive conversations with AI-driven characters. This project leverages local AI models powered by Ollama for generating dynamic and context-aware interactions. | HTML |  |
 
-## 🐍 Python Tools (15)
+## 🐍 Python Tools (16)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
 | [AI-Call-Bot](https://github.com/chartmann1590/AI-Call-Bot) | Simple python flask ai call bot. Users can call an extension on your voip and interact with your bot via talk to text service and ollama | Python |  |
 | [AI-Call-Bot-V2](https://github.com/chartmann1590/AI-Call-Bot-V2) | The second version of my AI Call Bot for Voip Systems to Awnser calls and chat with an AI | Python |  |
 | [Best-Friend](https://github.com/chartmann1590/Best-Friend) | This is your new best friend! | Python |  |
+| [chartmann1590.github.io](https://github.com/chartmann1590/chartmann1590.github.io) | Root GitHub Pages site for app-ads.txt | Python |  |
 | [Church-Slides-Studio](https://github.com/chartmann1590/Church-Slides-Studio) | Self-hosted web app that converts bulletin text or documents into 1920x1080 JPG slides. Upload title/content backgrounds, generate slides, and optionally verify them with a remote Ollama vision model. | Python |  |
 | [discord-summarizer](https://github.com/chartmann1590/discord-summarizer) | Flask app that monitors Discord channels and generates AI summaries using Ollama | Python |  |
 | [freshdesk-email-kb-automation](https://github.com/chartmann1590/freshdesk-email-kb-automation) | Hosted Freshdesk email KB auto-reply workflow for SoulShine support | Python |  |
@@ -150,6 +151,6 @@ If you find my projects useful, consider buying me a coffee!
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
 </a>
 
-*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-06-25*
+*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-06-26*
 
 </div>

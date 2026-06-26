@@ -1,23 +1,23 @@
 {
-  "updated": "2026-06-25",
+  "updated": "2026-06-26",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
     "bio": "👋 Hi, I'm Charles! A versatile programmer specializing in Python, Flask, and automation. I enjoy crafting web applications, smart home integrations, and innova",
     "avatar_url": "https://avatars.githubusercontent.com/u/73352603?v=4",
     "html_url": "https://github.com/chartmann1590",
-    "public_repos": 95,
+    "public_repos": 96,
     "followers": 5
   },
   "stats": {
-    "total": 64,
+    "total": 65,
     "total_stars": 80,
     "by_category": {
-      "web": 19,
-      "android": 18,
+      "web": 18,
+      "android": 19,
       "ai": 2,
       "game": 6,
-      "python": 15,
+      "python": 16,
       "other": 1,
       "iot": 3
     }
@@ -35,7 +35,7 @@
       "forks": 1,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-03-02",
+      "pushed_at": "2026-06-25",
       "created_at": "2025-07-26"
     },
     {
@@ -48,7 +48,7 @@
       "forks": 2,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-03-07",
+      "pushed_at": "2026-06-25",
       "created_at": "2026-02-28"
     },
     {
@@ -74,7 +74,7 @@
       "forks": 0,
       "topics": [],
       "category": "ai",
-      "pushed_at": "2026-06-06",
+      "pushed_at": "2026-06-25",
       "created_at": "2026-01-06"
     },
     {
@@ -100,7 +100,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-05-28",
+      "pushed_at": "2026-06-25",
       "created_at": "2026-05-27"
     },
     {
@@ -113,7 +113,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-06-22",
+      "pushed_at": "2026-06-25",
       "created_at": "2026-06-08"
     },
     {
@@ -191,8 +191,21 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-06-22",
+      "pushed_at": "2026-06-25",
       "created_at": "2026-03-02"
+    },
+    {
+      "name": "aria-assistant",
+      "description": "Fully on-device AI voice assistant for Android — Gemma 4, Whisper STT, Piper TTS. No cloud. No tracking.",
+      "url": "https://github.com/chartmann1590/aria-assistant",
+      "homepage": "https://chartmann1590.github.io/aria-assistant",
+      "language": "Kotlin",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "category": "android",
+      "pushed_at": "2026-06-26",
+      "created_at": "2026-06-26"
     },
     {
       "name": "Best-Friend",
@@ -230,7 +243,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-06-10",
+      "pushed_at": "2026-06-25",
       "created_at": "2026-05-07"
     },
     {
@@ -251,12 +264,12 @@
       "description": "Root GitHub Pages site for app-ads.txt",
       "url": "https://github.com/chartmann1590/chartmann1590.github.io",
       "homepage": "",
-      "language": "HTML",
+      "language": "Python",
       "stars": 0,
       "forks": 0,
       "topics": [],
-      "category": "web",
-      "pushed_at": "2026-06-24",
+      "category": "python",
+      "pushed_at": "2026-06-25",
       "created_at": "2026-04-15"
     },
     {
@@ -308,7 +321,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-06-08",
+      "pushed_at": "2026-06-25",
       "created_at": "2026-04-27"
     },
     {
@@ -366,7 +379,7 @@
         "jetpack-compose"
       ],
       "category": "android",
-      "pushed_at": "2026-05-01",
+      "pushed_at": "2026-06-25",
       "created_at": "2026-04-30"
     },
     {
@@ -392,7 +405,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-06-24",
+      "pushed_at": "2026-06-25",
       "created_at": "2026-04-18"
     },
     {
@@ -405,7 +418,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-06-08",
+      "pushed_at": "2026-06-25",
       "created_at": "2026-05-27"
     },
     {
@@ -431,7 +444,7 @@
       "forks": 0,
       "topics": [],
       "category": "game",
-      "pushed_at": "2026-05-14",
+      "pushed_at": "2026-06-25",
       "created_at": "2026-05-07"
     },
     {
@@ -457,7 +470,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-06-15",
+      "pushed_at": "2026-06-25",
       "created_at": "2026-06-10"
     },
     {
@@ -483,7 +496,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-04-29",
+      "pushed_at": "2026-06-25",
       "created_at": "2026-04-10"
     },
     {
@@ -535,7 +548,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-03-04",
+      "pushed_at": "2026-06-25",
       "created_at": "2026-03-04"
     },
     {
@@ -574,7 +587,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-06-23",
+      "pushed_at": "2026-06-25",
       "created_at": "2026-01-01"
     },
     {
@@ -600,7 +613,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-06-22",
+      "pushed_at": "2026-06-25",
       "created_at": "2026-06-13"
     },
     {
@@ -639,7 +652,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-04-16",
+      "pushed_at": "2026-06-25",
       "created_at": "2026-03-23"
     },
     {
@@ -652,7 +665,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-06-09",
+      "pushed_at": "2026-06-25",
       "created_at": "2026-06-03"
     },
     {
@@ -678,7 +691,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-06-22",
+      "pushed_at": "2026-06-25",
       "created_at": "2026-05-28"
     },
     {
@@ -704,7 +717,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-06-24",
+      "pushed_at": "2026-06-25",
       "created_at": "2026-06-10"
     },
     {
@@ -730,7 +743,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-06-24",
+      "pushed_at": "2026-06-25",
       "created_at": "2026-06-02"
     },
     {
@@ -743,7 +756,7 @@
       "forks": 0,
       "topics": [],
       "category": "game",
-      "pushed_at": "2026-04-20",
+      "pushed_at": "2026-06-25",
       "created_at": "2026-04-20"
     },
     {
@@ -762,7 +775,7 @@
         "widget"
       ],
       "category": "android",
-      "pushed_at": "2026-05-01",
+      "pushed_at": "2026-06-25",
       "created_at": "2026-05-01"
     },
     {
@@ -775,7 +788,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-05-16",
+      "pushed_at": "2026-06-25",
       "created_at": "2026-05-10"
     },
     {
@@ -788,7 +801,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-04-27",
+      "pushed_at": "2026-06-25",
       "created_at": "2026-04-11"
     },
     {
@@ -801,7 +814,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-06-10",
+      "pushed_at": "2026-06-25",
       "created_at": "2026-06-02"
     },
     {
