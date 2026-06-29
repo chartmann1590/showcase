@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28",
+  "updated": "2026-06-29",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
@@ -11,7 +11,7 @@
   },
   "stats": {
     "total": 66,
-    "total_stars": 80,
+    "total_stars": 81,
     "by_category": {
       "web": 18,
       "android": 20,
@@ -102,6 +102,19 @@
       "category": "android",
       "pushed_at": "2026-06-25",
       "created_at": "2026-05-27"
+    },
+    {
+      "name": "aria-assistant",
+      "description": "Fully on-device AI voice assistant for Android — Gemma 4, Whisper STT, Piper TTS. No cloud. No tracking.",
+      "url": "https://github.com/chartmann1590/aria-assistant",
+      "homepage": "https://chartmann1590.github.io/aria-assistant",
+      "language": "Kotlin",
+      "stars": 1,
+      "forks": 0,
+      "topics": [],
+      "category": "android",
+      "pushed_at": "2026-06-28",
+      "created_at": "2026-06-26"
     },
     {
       "name": "DriveVault",
@@ -195,19 +208,6 @@
       "created_at": "2026-03-02"
     },
     {
-      "name": "aria-assistant",
-      "description": "Fully on-device AI voice assistant for Android — Gemma 4, Whisper STT, Piper TTS. No cloud. No tracking.",
-      "url": "https://github.com/chartmann1590/aria-assistant",
-      "homepage": "https://chartmann1590.github.io/aria-assistant",
-      "language": "Kotlin",
-      "stars": 0,
-      "forks": 0,
-      "topics": [],
-      "category": "android",
-      "pushed_at": "2026-06-28",
-      "created_at": "2026-06-26"
-    },
-    {
       "name": "Best-Friend",
       "description": "This is your new best friend!",
       "url": "https://github.com/chartmann1590/Best-Friend",
@@ -269,7 +269,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-06-27",
+      "pushed_at": "2026-06-28",
       "created_at": "2026-04-15"
     },
     {
@@ -405,7 +405,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-06-27",
+      "pushed_at": "2026-06-28",
       "created_at": "2026-04-18"
     },
     {
@@ -600,7 +600,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-06-25",
+      "pushed_at": "2026-06-28",
       "created_at": "2026-01-01"
     },
     {
@@ -730,7 +730,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-06-27",
+      "pushed_at": "2026-06-28",
       "created_at": "2026-06-10"
     },
     {
