@@ -6,7 +6,7 @@
 
 **Android apps · AI tools · Web platforms · Python scripts — all open source**
 
-[![Apps](https://img.shields.io/badge/Apps-67-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
+[![Apps](https://img.shields.io/badge/Apps-68-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
 [![Stars](https://img.shields.io/badge/Total_Stars-83-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-☕-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/charleshartmann)
 [![Google Play](https://img.shields.io/badge/Google_Play-Hartmann_Studios-01875f?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Hartmann+Studios)
@@ -35,7 +35,7 @@
 
 ---
 
-## 📱 Android Apps (21)
+## 📱 Android Apps (22)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
@@ -44,6 +44,7 @@
 | [aria-assistant](https://github.com/chartmann1590/aria-assistant) | Fully on-device AI voice assistant for Android — Gemma 4, Whisper STT, Piper TTS. No cloud. No tracking. · [Demo](https://chartmann1590.github.io/aria-assistant) | Kotlin | ⭐ 1 |
 | [DriveVault](https://github.com/chartmann1590/DriveVault) | Privacy-first dashcam app for Android. Record drives with GPS overlays, dual-camera support, and full control over your data. · [Demo](https://chartmann1590.github.io/DriveVault/) | Kotlin | ⭐ 1 |
 | [android-photobooth](https://github.com/chartmann1590/android-photobooth) | Modern Android photobooth app built with Kotlin and Jetpack Compose. Fullscreen photobooth experience with event-specific templates, countdown timer, local saving, optional cloud upload (Immich), SMS/email sharing, gallery, and wireless printing. · [Demo](https://chartmann1590.github.io/android-photobooth/) | Kotlin |  |
+| [bluetooth-chat](https://github.com/chartmann1590/bluetooth-chat) | — | Kotlin |  |
 | [captionburn](https://github.com/chartmann1590/captionburn) | Auto-caption and burn subtitles into videos on-device. Whisper transcription, ML Kit translation, full caption styling. · [Demo](https://chartmann1590.github.io/captionburn) | Kotlin |  |
 | [crowdsource-transit](https://github.com/chartmann1590/crowdsource-transit) | Community-powered crowdsourced public transit locator — Android + Web · [Demo](https://chartmann1590.github.io/crowdsource-transit/) | Kotlin |  |
 | [dreamloom](https://github.com/chartmann1590/dreamloom) | Dreamloom: private on-device AI dream journal for Android · [Demo](https://chartmann1590.github.io/dreamloom/) | Kotlin |  |
@@ -153,6 +154,6 @@ If you find my projects useful, consider buying me a coffee!
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
 </a>
 
-*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-07-05*
+*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-07-06*
 
 </div>
