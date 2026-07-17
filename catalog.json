@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16",
+  "updated": "2026-07-17",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
@@ -11,10 +11,10 @@
   },
   "stats": {
     "total": 68,
-    "total_stars": 85,
+    "total_stars": 86,
     "by_category": {
-      "web": 18,
       "android": 22,
+      "web": 18,
       "ai": 2,
       "game": 6,
       "python": 16,
@@ -25,6 +25,19 @@
   "showcase_url": "https://chartmann1590.github.io/showcase",
   "buymeacoffee_url": "https://buymeacoffee.com/charleshartmann",
   "repos": [
+    {
+      "name": "Rokid-Maps",
+      "description": "a standalone app for rokid ai glasses that is used for displaying map and directions on the glasses",
+      "url": "https://github.com/chartmann1590/Rokid-Maps",
+      "homepage": "https://chartmann1590.github.io/Rokid-Maps/",
+      "language": "Kotlin",
+      "stars": 29,
+      "forks": 5,
+      "topics": [],
+      "category": "android",
+      "pushed_at": "2026-06-25",
+      "created_at": "2026-02-28"
+    },
     {
       "name": "VowVault",
       "description": "A beautiful, modern wedding photo gallery and guestbook with SSO authentication, PWA support, and comprehensive admin tools.",
@@ -37,19 +50,6 @@
       "category": "web",
       "pushed_at": "2026-06-25",
       "created_at": "2025-07-26"
-    },
-    {
-      "name": "Rokid-Maps",
-      "description": "a standalone app for rokid ai glasses that is used for displaying map and directions on the glasses",
-      "url": "https://github.com/chartmann1590/Rokid-Maps",
-      "homepage": "https://chartmann1590.github.io/Rokid-Maps/",
-      "language": "Kotlin",
-      "stars": 28,
-      "forks": 5,
-      "topics": [],
-      "category": "android",
-      "pushed_at": "2026-06-25",
-      "created_at": "2026-02-28"
     },
     {
       "name": "bee-ai-web",
@@ -113,7 +113,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-06-28",
+      "pushed_at": "2026-07-17",
       "created_at": "2026-06-26"
     },
     {
@@ -126,7 +126,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-07-15",
+      "pushed_at": "2026-07-16",
       "created_at": "2026-06-08"
     },
     {
@@ -139,7 +139,7 @@
       "forks": 0,
       "topics": [],
       "category": "game",
-      "pushed_at": "2026-07-15",
+      "pushed_at": "2026-07-16",
       "created_at": "2026-01-02"
     },
     {
@@ -230,7 +230,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-07-10",
+      "pushed_at": "2026-07-16",
       "created_at": "2026-07-05"
     },
     {
@@ -282,7 +282,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-07-15",
+      "pushed_at": "2026-07-16",
       "created_at": "2026-04-15"
     },
     {
@@ -321,7 +321,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-07-10",
+      "pushed_at": "2026-07-16",
       "created_at": "2026-06-30"
     },
     {
@@ -360,7 +360,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-06-29",
+      "pushed_at": "2026-07-16",
       "created_at": "2026-05-18"
     },
     {
@@ -431,7 +431,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-07-15",
+      "pushed_at": "2026-07-16",
       "created_at": "2026-04-18"
     },
     {
@@ -730,7 +730,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-07-14",
+      "pushed_at": "2026-07-16",
       "created_at": "2026-05-28"
     },
     {
@@ -756,7 +756,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-07-15",
+      "pushed_at": "2026-07-16",
       "created_at": "2026-06-10"
     },
     {
