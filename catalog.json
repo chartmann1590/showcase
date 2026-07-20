@@ -1,19 +1,19 @@
 {
-  "updated": "2026-07-19",
+  "updated": "2026-07-20",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
     "bio": "👋 Hi, I'm Charles! A versatile programmer specializing in Python, Flask, and automation. I enjoy crafting web applications, smart home integrations, and innova",
     "avatar_url": "https://avatars.githubusercontent.com/u/73352603?v=4",
     "html_url": "https://github.com/chartmann1590",
-    "public_repos": 99,
-    "followers": 5
+    "public_repos": 100,
+    "followers": 6
   },
   "stats": {
-    "total": 68,
+    "total": 69,
     "total_stars": 88,
     "by_category": {
-      "android": 22,
+      "android": 23,
       "web": 18,
       "ai": 2,
       "game": 6,
@@ -282,7 +282,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-07-18",
+      "pushed_at": "2026-07-19",
       "created_at": "2026-04-15"
     },
     {
@@ -431,7 +431,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-07-18",
+      "pushed_at": "2026-07-19",
       "created_at": "2026-04-18"
     },
     {
@@ -682,6 +682,19 @@
       "created_at": "2025-09-11"
     },
     {
+      "name": "pixeldream",
+      "description": "PixelDream — on-device AI image generation Android app",
+      "url": "https://github.com/chartmann1590/pixeldream",
+      "homepage": "",
+      "language": "Kotlin",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "category": "android",
+      "pushed_at": "2026-07-20",
+      "created_at": "2026-07-19"
+    },
+    {
       "name": "Pocket-Assistant",
       "description": "Local-first Android AI assistant — OCR, on-device LLM, semantic search, tasks & reminders",
       "url": "https://github.com/chartmann1590/Pocket-Assistant",
@@ -756,7 +769,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-07-18",
+      "pushed_at": "2026-07-19",
       "created_at": "2026-06-10"
     },
     {

@@ -6,7 +6,7 @@
 
 **Android apps · AI tools · Web platforms · Python scripts — all open source**
 
-[![Apps](https://img.shields.io/badge/Apps-68-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
+[![Apps](https://img.shields.io/badge/Apps-69-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
 [![Stars](https://img.shields.io/badge/Total_Stars-88-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-☕-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/charleshartmann)
 [![Google Play](https://img.shields.io/badge/Google_Play-Hartmann_Studios-01875f?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Hartmann+Studios)
@@ -35,7 +35,7 @@
 
 ---
 
-## 📱 Android Apps (22)
+## 📱 Android Apps (23)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
@@ -56,6 +56,7 @@
 | [nutrisnap](https://github.com/chartmann1590/nutrisnap) | NutriSnap - On-device AI calorie tracker for Android. Private, offline, and free. · [Demo](https://chartmann1590.github.io/nutrisnap/) | Kotlin |  |
 | [ollama-android-client](https://github.com/chartmann1590/ollama-android-client) | simple ollama android client · [Demo](https://chartmann1590.github.io/ollama-android-client/) | Kotlin |  |
 | [path](https://github.com/chartmann1590/path) | A bible study app for android with (self hosted) AI summaries · [Demo](https://path-bible-study.web.app/) | Kotlin |  |
+| [pixeldream](https://github.com/chartmann1590/pixeldream) | PixelDream — on-device AI image generation Android app | Kotlin |  |
 | [Pocket-Assistant](https://github.com/chartmann1590/Pocket-Assistant) | Local-first Android AI assistant — OCR, on-device LLM, semantic search, tasks & reminders · [Demo](https://chartmann1590.github.io/Pocket-Assistant/) | Kotlin |  |
 | [qrcode-scanner-android](https://github.com/chartmann1590/qrcode-scanner-android) | Modern Android QR & Barcode Reader · [Demo](https://chartmann1590.github.io/qrcode-scanner-android/) | Kotlin |  |
 | [ScamRadar](https://github.com/chartmann1590/ScamRadar) | ScamRadar: AI Scam & Phishing Detector — Free, on-device AI that tells you in 3 seconds whether that text, email, or voicemail is a scam. · [Demo](https://chartmann1590.github.io/ScamRadar/) | Kotlin |  |
@@ -154,6 +155,6 @@ If you find my projects useful, consider buying me a coffee!
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
 </a>
 
-*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-07-19*
+*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-07-20*
 
 </div>
