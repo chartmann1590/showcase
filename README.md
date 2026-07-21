@@ -54,9 +54,9 @@
 | [knightfall](https://github.com/chartmann1590/knightfall) | Beautiful chess for Android - play a grandmaster-strength AI with an on-device coach, battle friends online, climb the leaderboard · [Demo](https://chartmann1590.github.io/knightfall/) | Kotlin |  |
 | [LiveTranscribe-Android](https://github.com/chartmann1590/LiveTranscribe-Android) | Live android transcription app · [Demo](https://chartmann1590.github.io/LiveTranscribe-Android/) | Kotlin |  |
 | [nutrisnap](https://github.com/chartmann1590/nutrisnap) | NutriSnap - On-device AI calorie tracker for Android. Private, offline, and free. · [Demo](https://chartmann1590.github.io/nutrisnap/) | Kotlin |  |
-| [ollama-android-client](https://github.com/chartmann1590/ollama-android-client) | simple ollama android client · [Demo](https://chartmann1590.github.io/ollama-android-client/) | Kotlin |  |
+| [ollama-android-client](https://github.com/chartmann1590/ollama-android-client) | Chat with Ollama or run LLMs fully on-device (Gemma, Qwen, DeepSeek, Phi) on Android. Private, open-source, no server required. · [Demo](https://chartmann1590.github.io/ollama-android-client/) | Kotlin |  |
 | [path](https://github.com/chartmann1590/path) | A bible study app for android with (self hosted) AI summaries · [Demo](https://path-bible-study.web.app/) | Kotlin |  |
-| [pixeldream](https://github.com/chartmann1590/pixeldream) | PixelDream — on-device AI image generation Android app | Kotlin |  |
+| [pixeldream](https://github.com/chartmann1590/pixeldream) | PixelDream — on-device AI image generation Android app · [Demo](https://chartmann1590.github.io/pixeldream/) | Kotlin |  |
 | [Pocket-Assistant](https://github.com/chartmann1590/Pocket-Assistant) | Local-first Android AI assistant — OCR, on-device LLM, semantic search, tasks & reminders · [Demo](https://chartmann1590.github.io/Pocket-Assistant/) | Kotlin |  |
 | [qrcode-scanner-android](https://github.com/chartmann1590/qrcode-scanner-android) | Modern Android QR & Barcode Reader · [Demo](https://chartmann1590.github.io/qrcode-scanner-android/) | Kotlin |  |
 | [ScamRadar](https://github.com/chartmann1590/ScamRadar) | ScamRadar: AI Scam & Phishing Detector — Free, on-device AI that tells you in 3 seconds whether that text, email, or voicemail is a scam. · [Demo](https://chartmann1590.github.io/ScamRadar/) | Kotlin |  |
@@ -155,6 +155,6 @@ If you find my projects useful, consider buying me a coffee!
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
 </a>
 
-*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-07-20*
+*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-07-21*
 
 </div>
