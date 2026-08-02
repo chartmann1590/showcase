@@ -1,19 +1,19 @@
 {
-  "updated": "2026-08-01",
+  "updated": "2026-08-02",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
     "bio": "👋 Hi, I'm Charles! A versatile programmer specializing in Python, Flask, and automation. I enjoy crafting web applications, smart home integrations, and innova",
     "avatar_url": "https://avatars.githubusercontent.com/u/73352603?v=4",
     "html_url": "https://github.com/chartmann1590",
-    "public_repos": 101,
+    "public_repos": 102,
     "followers": 7
   },
   "stats": {
-    "total": 69,
-    "total_stars": 90,
+    "total": 70,
+    "total_stars": 91,
     "by_category": {
-      "android": 23,
+      "android": 24,
       "web": 18,
       "ai": 2,
       "game": 6,
@@ -141,6 +141,19 @@
       "category": "android",
       "pushed_at": "2026-07-23",
       "created_at": "2026-06-08"
+    },
+    {
+      "name": "LiveTranscribe-Android",
+      "description": "Live android transcription app",
+      "url": "https://github.com/chartmann1590/LiveTranscribe-Android",
+      "homepage": "https://chartmann1590.github.io/LiveTranscribe-Android/",
+      "language": "Kotlin",
+      "stars": 1,
+      "forks": 0,
+      "topics": [],
+      "category": "android",
+      "pushed_at": "2026-07-23",
+      "created_at": "2026-04-10"
     },
     {
       "name": "Pixel-Fish-Tank",
@@ -282,7 +295,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-07-31",
+      "pushed_at": "2026-08-01",
       "created_at": "2026-04-15"
     },
     {
@@ -360,7 +373,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-07-28",
+      "pushed_at": "2026-08-02",
       "created_at": "2026-05-18"
     },
     {
@@ -431,7 +444,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-07-31",
+      "pushed_at": "2026-08-01",
       "created_at": "2026-04-18"
     },
     {
@@ -511,19 +524,6 @@
       "category": "iot",
       "pushed_at": "2026-07-21",
       "created_at": "2026-01-13"
-    },
-    {
-      "name": "LiveTranscribe-Android",
-      "description": "Live android transcription app",
-      "url": "https://github.com/chartmann1590/LiveTranscribe-Android",
-      "homepage": "https://chartmann1590.github.io/LiveTranscribe-Android/",
-      "language": "Kotlin",
-      "stars": 0,
-      "forks": 0,
-      "topics": [],
-      "category": "android",
-      "pushed_at": "2026-07-23",
-      "created_at": "2026-04-10"
     },
     {
       "name": "Local-News-AI",
@@ -659,6 +659,26 @@
       "created_at": "2025-12-31"
     },
     {
+      "name": "owefolk",
+      "description": "Beautiful Firebase-backed Android shared-expense tracking with honest external payment handoff.",
+      "url": "https://github.com/chartmann1590/owefolk",
+      "homepage": "https://chartmann1590.github.io/owefolk/",
+      "language": "Kotlin",
+      "stars": 0,
+      "forks": 0,
+      "topics": [
+        "android",
+        "cloudflare-workers",
+        "expense-tracker",
+        "firebase",
+        "jetpack-compose",
+        "kotlin"
+      ],
+      "category": "android",
+      "pushed_at": "2026-08-01",
+      "created_at": "2026-08-01"
+    },
+    {
       "name": "party-quips",
       "description": "A Jackbox-style party game platform — play together on TV and phones",
       "url": "https://github.com/chartmann1590/party-quips",
@@ -668,7 +688,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-07-29",
+      "pushed_at": "2026-08-02",
       "created_at": "2026-06-13"
     },
     {
@@ -785,7 +805,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-07-31",
+      "pushed_at": "2026-08-01",
       "created_at": "2026-06-10"
     },
     {
