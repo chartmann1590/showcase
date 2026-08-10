@@ -6,8 +6,8 @@
 
 **Android apps · AI tools · Web platforms · Python scripts — all open source**
 
-[![Apps](https://img.shields.io/badge/Apps-70-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
-[![Stars](https://img.shields.io/badge/Total_Stars-93-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
+[![Apps](https://img.shields.io/badge/Apps-71-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
+[![Stars](https://img.shields.io/badge/Total_Stars-94-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-☕-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/charleshartmann)
 [![Google Play](https://img.shields.io/badge/Google_Play-Hartmann_Studios-01875f?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Hartmann+Studios)
 
@@ -31,7 +31,7 @@
 | [bee-ai-web](https://github.com/chartmann1590/bee-ai-web) | A web interface for the Bee AI that uses your api key | ⭐ 20 |
 | [AI-Social](https://github.com/chartmann1590/AI-Social) | A React Native + Expo app that simulates a social media experience powered by a local Ollama model. · [Live](https://chartmann1590.github.io/AI-Social/) | ⭐ 2 |
 | [airgf](https://github.com/chartmann1590/airgf) | AirGF - AI Virtual Companion. On-device AI girlfriend with Gemma 4 LLM, 3D avatars, image sharing, and image generation. · [Live](https://chartmann1590.github.io/airgf/) | ⭐ 2 |
-| [Memory-AI-Project](https://github.com/chartmann1590/Memory-AI-Project) | An innovative solution combining local AI and recorded memories. | ⭐ 2 |
+| [android-photobooth](https://github.com/chartmann1590/android-photobooth) | Modern Android photobooth app built with Kotlin and Jetpack Compose. Fullscreen photobooth experience with event-specific templates, countdown timer, local saving, optional cloud upload (Immich), SMS/email sharing, gallery, and wireless printing. · [Live](https://chartmann1590.github.io/android-photobooth/) | ⭐ 2 |
 
 ---
 
@@ -41,7 +41,7 @@
 |-----|-------------|----------|-------|
 | [Rokid-Maps](https://github.com/chartmann1590/Rokid-Maps) | a standalone app for rokid ai glasses that is used for displaying map and directions on the glasses · [Demo](https://chartmann1590.github.io/Rokid-Maps/) | Kotlin | ⭐ 33 |
 | [airgf](https://github.com/chartmann1590/airgf) | AirGF - AI Virtual Companion. On-device AI girlfriend with Gemma 4 LLM, 3D avatars, image sharing, and image generation. · [Demo](https://chartmann1590.github.io/airgf/) | Kotlin | ⭐ 2 |
-| [android-photobooth](https://github.com/chartmann1590/android-photobooth) | Modern Android photobooth app built with Kotlin and Jetpack Compose. Fullscreen photobooth experience with event-specific templates, countdown timer, local saving, optional cloud upload (Immich), SMS/email sharing, gallery, and wireless printing. · [Demo](https://chartmann1590.github.io/android-photobooth/) | Kotlin | ⭐ 1 |
+| [android-photobooth](https://github.com/chartmann1590/android-photobooth) | Modern Android photobooth app built with Kotlin and Jetpack Compose. Fullscreen photobooth experience with event-specific templates, countdown timer, local saving, optional cloud upload (Immich), SMS/email sharing, gallery, and wireless printing. · [Demo](https://chartmann1590.github.io/android-photobooth/) | Kotlin | ⭐ 2 |
 | [aria-assistant](https://github.com/chartmann1590/aria-assistant) | Fully on-device AI voice assistant for Android — Gemma 4, Whisper STT, Piper TTS. No cloud. No tracking. · [Demo](https://chartmann1590.github.io/aria-assistant) | Kotlin | ⭐ 1 |
 | [DriveVault](https://github.com/chartmann1590/DriveVault) | Privacy-first dashcam app for Android. Record drives with GPS overlays, dual-camera support, and full control over your data. · [Demo](https://chartmann1590.github.io/DriveVault/) | Kotlin | ⭐ 1 |
 | [LiveTranscribe-Android](https://github.com/chartmann1590/LiveTranscribe-Android) | Live android transcription app · [Demo](https://chartmann1590.github.io/LiveTranscribe-Android/) | Kotlin | ⭐ 1 |
@@ -64,7 +64,7 @@
 | [StickyNotes](https://github.com/chartmann1590/StickyNotes) | Modern Android sticky notes app with multiple notes and linked home screen widgets. · [Demo](https://chartmann1590.github.io/StickyNotes/) | Java |  |
 | [ToolTok-App](https://github.com/chartmann1590/ToolTok-App) | Android shell for the live ToolTok platform with automated releases, GitHub Pages, and Android E2E validation. · [Demo](https://chartmann1590.github.io/ToolTok-App/) | Kotlin |  |
 
-## 🌐 Web Applications (18)
+## 🌐 Web Applications (19)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
@@ -81,6 +81,7 @@
 | [Meeting-Notes](https://github.com/chartmann1590/Meeting-Notes) | An AI powered meeting notes web app | JavaScript |  |
 | [Meeting-Notes-App](https://github.com/chartmann1590/Meeting-Notes-App) | Meeting Notes App | TypeScript |  |
 | [party-quips](https://github.com/chartmann1590/party-quips) | A Jackbox-style party game platform — play together on TV and phones · [Demo](https://chartmann1590.github.io/party-quips/) | TypeScript |  |
+| [shipmate-cruise-social](https://github.com/chartmann1590/shipmate-cruise-social) | — | JavaScript |  |
 | [skypulse-android](https://github.com/chartmann1590/skypulse-android) | SkyPulse — native Android live aircraft tracker (Kotlin/Compose) using free open ADS-B data (ADSB.lol + OpenSky) and OpenFlights. No API key, no login. · [Demo](https://chartmann1590.github.io/skypulse-android/) | HTML |  |
 | [trailsage-ai-android](https://github.com/chartmann1590/trailsage-ai-android) | Offline-first Android GPS audio tour guide with on-device AI · [Demo](https://chartmann1590.github.io/trailsage-ai-android/) | HTML |  |
 | [VirtualPhotobooth](https://github.com/chartmann1590/VirtualPhotobooth) | A simple Web Based Virtual Photobooth with email and sms sending features | HTML |  |
@@ -156,6 +157,6 @@ If you find my projects useful, consider buying me a coffee!
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
 </a>
 
-*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-08-09*
+*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-08-10*
 
 </div>

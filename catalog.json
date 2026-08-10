@@ -1,20 +1,20 @@
 {
-  "updated": "2026-08-09",
+  "updated": "2026-08-10",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
     "bio": "👋 Hi, I'm Charles! A versatile programmer specializing in Python, Flask, and automation. I enjoy crafting web applications, smart home integrations, and innova",
     "avatar_url": "https://avatars.githubusercontent.com/u/73352603?v=4",
     "html_url": "https://github.com/chartmann1590",
-    "public_repos": 102,
+    "public_repos": 103,
     "followers": 7
   },
   "stats": {
-    "total": 70,
-    "total_stars": 93,
+    "total": 71,
+    "total_stars": 94,
     "by_category": {
       "android": 24,
-      "web": 18,
+      "web": 19,
       "ai": 2,
       "game": 6,
       "python": 16,
@@ -91,6 +91,19 @@
       "created_at": "2026-05-27"
     },
     {
+      "name": "android-photobooth",
+      "description": "Modern Android photobooth app built with Kotlin and Jetpack Compose. Fullscreen photobooth experience with event-specific templates, countdown timer, local saving, optional cloud upload (Immich), SMS/email sharing, gallery, and wireless printing.",
+      "url": "https://github.com/chartmann1590/android-photobooth",
+      "homepage": "https://chartmann1590.github.io/android-photobooth/",
+      "language": "Kotlin",
+      "stars": 2,
+      "forks": 0,
+      "topics": [],
+      "category": "android",
+      "pushed_at": "2026-08-08",
+      "created_at": "2026-03-02"
+    },
+    {
       "name": "Memory-AI-Project",
       "description": "An innovative solution combining local AI and recorded memories.",
       "url": "https://github.com/chartmann1590/Memory-AI-Project",
@@ -102,19 +115,6 @@
       "category": "web",
       "pushed_at": "2026-03-07",
       "created_at": "2025-04-08"
-    },
-    {
-      "name": "android-photobooth",
-      "description": "Modern Android photobooth app built with Kotlin and Jetpack Compose. Fullscreen photobooth experience with event-specific templates, countdown timer, local saving, optional cloud upload (Immich), SMS/email sharing, gallery, and wireless printing.",
-      "url": "https://github.com/chartmann1590/android-photobooth",
-      "homepage": "https://chartmann1590.github.io/android-photobooth/",
-      "language": "Kotlin",
-      "stars": 1,
-      "forks": 0,
-      "topics": [],
-      "category": "android",
-      "pushed_at": "2026-08-08",
-      "created_at": "2026-03-02"
     },
     {
       "name": "aria-assistant",
@@ -295,7 +295,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-08-08",
+      "pushed_at": "2026-08-09",
       "created_at": "2026-04-15"
     },
     {
@@ -334,7 +334,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-08-06",
+      "pushed_at": "2026-08-09",
       "created_at": "2026-06-30"
     },
     {
@@ -444,7 +444,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-08-08",
+      "pushed_at": "2026-08-09",
       "created_at": "2026-04-18"
     },
     {
@@ -688,7 +688,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-08-05",
+      "pushed_at": "2026-08-09",
       "created_at": "2026-06-13"
     },
     {
@@ -796,6 +796,19 @@
       "created_at": "2026-05-25"
     },
     {
+      "name": "shipmate-cruise-social",
+      "description": "",
+      "url": "https://github.com/chartmann1590/shipmate-cruise-social",
+      "homepage": "",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "category": "web",
+      "pushed_at": "2026-08-10",
+      "created_at": "2026-08-10"
+    },
+    {
       "name": "showcase",
       "description": "My complete portfolio — Android apps, AI tools, web apps, and more",
       "url": "https://github.com/chartmann1590/showcase",
@@ -805,7 +818,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-08-08",
+      "pushed_at": "2026-08-09",
       "created_at": "2026-06-10"
     },
     {
