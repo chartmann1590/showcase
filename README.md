@@ -6,8 +6,8 @@
 
 **Android apps · AI tools · Web platforms · Python scripts — all open source**
 
-[![Apps](https://img.shields.io/badge/Apps-71-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
-[![Stars](https://img.shields.io/badge/Total_Stars-94-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
+[![Apps](https://img.shields.io/badge/Apps-72-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
+[![Stars](https://img.shields.io/badge/Total_Stars-95-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-☕-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/charleshartmann)
 [![Google Play](https://img.shields.io/badge/Google_Play-Hartmann_Studios-01875f?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Hartmann+Studios)
 
@@ -35,16 +35,16 @@
 
 ---
 
-## 📱 Android Apps (24)
+## 📱 Android Apps (25)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
 | [Rokid-Maps](https://github.com/chartmann1590/Rokid-Maps) | a standalone app for rokid ai glasses that is used for displaying map and directions on the glasses · [Demo](https://chartmann1590.github.io/Rokid-Maps/) | Kotlin | ⭐ 33 |
 | [airgf](https://github.com/chartmann1590/airgf) | AirGF - AI Virtual Companion. On-device AI girlfriend with Gemma 4 LLM, 3D avatars, image sharing, and image generation. · [Demo](https://chartmann1590.github.io/airgf/) | Kotlin | ⭐ 2 |
 | [android-photobooth](https://github.com/chartmann1590/android-photobooth) | Modern Android photobooth app built with Kotlin and Jetpack Compose. Fullscreen photobooth experience with event-specific templates, countdown timer, local saving, optional cloud upload (Immich), SMS/email sharing, gallery, and wireless printing. · [Demo](https://chartmann1590.github.io/android-photobooth/) | Kotlin | ⭐ 2 |
+| [LiveTranscribe-Android](https://github.com/chartmann1590/LiveTranscribe-Android) | Live android transcription app · [Demo](https://chartmann1590.github.io/LiveTranscribe-Android/) | Kotlin | ⭐ 2 |
 | [aria-assistant](https://github.com/chartmann1590/aria-assistant) | Fully on-device AI voice assistant for Android — Gemma 4, Whisper STT, Piper TTS. No cloud. No tracking. · [Demo](https://chartmann1590.github.io/aria-assistant) | Kotlin | ⭐ 1 |
 | [DriveVault](https://github.com/chartmann1590/DriveVault) | Privacy-first dashcam app for Android. Record drives with GPS overlays, dual-camera support, and full control over your data. · [Demo](https://chartmann1590.github.io/DriveVault/) | Kotlin | ⭐ 1 |
-| [LiveTranscribe-Android](https://github.com/chartmann1590/LiveTranscribe-Android) | Live android transcription app · [Demo](https://chartmann1590.github.io/LiveTranscribe-Android/) | Kotlin | ⭐ 1 |
 | [bluetooth-chat](https://github.com/chartmann1590/bluetooth-chat) | — · [Demo](https://chartmann1590.github.io/bluetooth-chat/) | Kotlin |  |
 | [captionburn](https://github.com/chartmann1590/captionburn) | Auto-caption and burn subtitles into videos on-device. Whisper transcription, ML Kit translation, full caption styling. · [Demo](https://chartmann1590.github.io/captionburn) | Kotlin |  |
 | [crowdsource-transit](https://github.com/chartmann1590/crowdsource-transit) | Community-powered crowdsourced public transit locator — Android + Web · [Demo](https://chartmann1590.github.io/crowdsource-transit/) | Kotlin |  |
@@ -61,6 +61,7 @@
 | [Pocket-Assistant](https://github.com/chartmann1590/Pocket-Assistant) | Local-first Android AI assistant — OCR, on-device LLM, semantic search, tasks & reminders · [Demo](https://chartmann1590.github.io/Pocket-Assistant/) | Kotlin |  |
 | [qrcode-scanner-android](https://github.com/chartmann1590/qrcode-scanner-android) | Modern Android QR & Barcode Reader · [Demo](https://chartmann1590.github.io/qrcode-scanner-android/) | Kotlin |  |
 | [ScamRadar](https://github.com/chartmann1590/ScamRadar) | ScamRadar: AI Scam & Phishing Detector — Free, on-device AI that tells you in 3 seconds whether that text, email, or voicemail is a scam. · [Demo](https://chartmann1590.github.io/ScamRadar/) | Kotlin |  |
+| [scripturesearch](https://github.com/chartmann1590/scripturesearch) | — · [Demo](https://chartmann1590.github.io/scripturesearch/) | Java |  |
 | [StickyNotes](https://github.com/chartmann1590/StickyNotes) | Modern Android sticky notes app with multiple notes and linked home screen widgets. · [Demo](https://chartmann1590.github.io/StickyNotes/) | Java |  |
 | [ToolTok-App](https://github.com/chartmann1590/ToolTok-App) | Android shell for the live ToolTok platform with automated releases, GitHub Pages, and Android E2E validation. · [Demo](https://chartmann1590.github.io/ToolTok-App/) | Kotlin |  |
 
@@ -157,6 +158,6 @@ If you find my projects useful, consider buying me a coffee!
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
 </a>
 
-*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-08-12*
+*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-08-13*
 
 </div>
