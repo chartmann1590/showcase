@@ -7,7 +7,7 @@
 **Android apps · AI tools · Web platforms · Python scripts — all open source**
 
 [![Apps](https://img.shields.io/badge/Apps-72-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
-[![Stars](https://img.shields.io/badge/Total_Stars-95-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
+[![Stars](https://img.shields.io/badge/Total_Stars-98-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-☕-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/charleshartmann)
 [![Google Play](https://img.shields.io/badge/Google_Play-Hartmann_Studios-01875f?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Hartmann+Studios)
 
@@ -45,6 +45,7 @@
 | [LiveTranscribe-Android](https://github.com/chartmann1590/LiveTranscribe-Android) | Live android transcription app · [Demo](https://chartmann1590.github.io/LiveTranscribe-Android/) | Kotlin | ⭐ 2 |
 | [aria-assistant](https://github.com/chartmann1590/aria-assistant) | Fully on-device AI voice assistant for Android — Gemma 4, Whisper STT, Piper TTS. No cloud. No tracking. · [Demo](https://chartmann1590.github.io/aria-assistant) | Kotlin | ⭐ 1 |
 | [DriveVault](https://github.com/chartmann1590/DriveVault) | Privacy-first dashcam app for Android. Record drives with GPS overlays, dual-camera support, and full control over your data. · [Demo](https://chartmann1590.github.io/DriveVault/) | Kotlin | ⭐ 1 |
+| [Pocket-Assistant](https://github.com/chartmann1590/Pocket-Assistant) | Local-first Android AI assistant — OCR, on-device LLM, semantic search, tasks & reminders · [Demo](https://chartmann1590.github.io/Pocket-Assistant/) | Kotlin | ⭐ 1 |
 | [bluetooth-chat](https://github.com/chartmann1590/bluetooth-chat) | — · [Demo](https://chartmann1590.github.io/bluetooth-chat/) | Kotlin |  |
 | [captionburn](https://github.com/chartmann1590/captionburn) | Auto-caption and burn subtitles into videos on-device. Whisper transcription, ML Kit translation, full caption styling. · [Demo](https://chartmann1590.github.io/captionburn) | Kotlin |  |
 | [crowdsource-transit](https://github.com/chartmann1590/crowdsource-transit) | Community-powered crowdsourced public transit locator — Android + Web · [Demo](https://chartmann1590.github.io/crowdsource-transit/) | Kotlin |  |
@@ -58,7 +59,6 @@
 | [owefolk](https://github.com/chartmann1590/owefolk) | Beautiful Firebase-backed Android shared-expense tracking with honest external payment handoff. · [Demo](https://chartmann1590.github.io/owefolk/) | Kotlin |  |
 | [path](https://github.com/chartmann1590/path) | A bible study app for android with (self hosted) AI summaries · [Demo](https://path-bible-study.web.app/) | Kotlin |  |
 | [pixeldream](https://github.com/chartmann1590/pixeldream) | PixelDream — on-device AI image generation Android app · [Demo](https://chartmann1590.github.io/pixeldream/) | Kotlin |  |
-| [Pocket-Assistant](https://github.com/chartmann1590/Pocket-Assistant) | Local-first Android AI assistant — OCR, on-device LLM, semantic search, tasks & reminders · [Demo](https://chartmann1590.github.io/Pocket-Assistant/) | Kotlin |  |
 | [qrcode-scanner-android](https://github.com/chartmann1590/qrcode-scanner-android) | Modern Android QR & Barcode Reader · [Demo](https://chartmann1590.github.io/qrcode-scanner-android/) | Kotlin |  |
 | [ScamRadar](https://github.com/chartmann1590/ScamRadar) | ScamRadar: AI Scam & Phishing Detector — Free, on-device AI that tells you in 3 seconds whether that text, email, or voicemail is a scam. · [Demo](https://chartmann1590.github.io/ScamRadar/) | Kotlin |  |
 | [scripturesearch](https://github.com/chartmann1590/scripturesearch) | — · [Demo](https://chartmann1590.github.io/scripturesearch/) | Java |  |
@@ -100,6 +100,7 @@
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
+| [ollama-client-lite](https://github.com/chartmann1590/ollama-client-lite) | a super lightweight ollama client written in python | Python | ⭐ 1 |
 | [AI-Call-Bot](https://github.com/chartmann1590/AI-Call-Bot) | Simple python flask ai call bot. Users can call an extension on your voip and interact with your bot via talk to text service and ollama | Python |  |
 | [AI-Call-Bot-V2](https://github.com/chartmann1590/AI-Call-Bot-V2) | The second version of my AI Call Bot for Voip Systems to Awnser calls and chat with an AI | Python |  |
 | [Best-Friend](https://github.com/chartmann1590/Best-Friend) | This is your new best friend! | Python |  |
@@ -110,7 +111,6 @@
 | [mls-home-portal](https://github.com/chartmann1590/mls-home-portal) | AI-assisted MLS-style home search portal with Ollama, Scrapling, and saved searches · [Demo](https://chartmann1590.github.io/mls-home-portal/) | Python |  |
 | [Mumble-AI](https://github.com/chartmann1590/Mumble-AI) | A Docker Stack for a mumble speak bot that utilizes ollama, piper and faster-whisper aloing with a web based contol panel. | Python |  |
 | [NutriCoach-AI](https://github.com/chartmann1590/NutriCoach-AI) | A simple self hosted ai powered nutrition tracker and coach | Python |  |
-| [ollama-client-lite](https://github.com/chartmann1590/ollama-client-lite) | a super lightweight ollama client written in python | Python |  |
 | [showcase](https://github.com/chartmann1590/showcase) | My complete portfolio — Android apps, AI tools, web apps, and more · [Demo](https://chartmann1590.github.io/showcase) | Python |  |
 | [Sip-Bridge](https://github.com/chartmann1590/Sip-Bridge) | A sip bright that accepts calls at a pre configured extension and uses groq for whisper3, local ollama gpt, and openai-egde-tts for tts playback on the sip bridge with a nice user interface | Python |  |
 | [tiktok-live-gift-tracker](https://github.com/chartmann1590/tiktok-live-gift-tracker) | Real-time TikTok live stream gift tracking dashboard. Persistent SQLite storage, auto-reconnect, multi-streamer support, stream history, and top gifters leaderboard. · [Demo](https://chartmann1590.github.io/tiktok-live-gift-tracker/) | Python |  |
@@ -121,10 +121,10 @@
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
+| [jury-simulator](https://github.com/chartmann1590/jury-simulator) | Decide justice from your phone. Android jury duty simulator with on-device AI, eleven jurors, and the verdict in your hands. · [Demo](https://chartmann1590.github.io/jury-simulator/) | Kotlin | ⭐ 1 |
 | [Pixel-Fish-Tank](https://github.com/chartmann1590/Pixel-Fish-Tank) | A cozy Android virtual pet game where players care for a cute pixel-art fish by feeding it, cleaning its tank, playing mini-games, and decorating its environment as the fish grows and levels up. · [Demo](https://pixel-fish-tank.web.app/) | Kotlin | ⭐ 1 |
 | [AI-Chess](https://github.com/chartmann1590/AI-Chess) | A simple python based chess game that uses ollama models to play an opponent  | Python |  |
 | [Business-Simulator](https://github.com/chartmann1590/Business-Simulator) | A fun Business Simulator game that uses ai to run a business | HTML |  |
-| [jury-simulator](https://github.com/chartmann1590/jury-simulator) | Decide justice from your phone. Android jury duty simulator with on-device AI, eleven jurors, and the verdict in your hands. · [Demo](https://chartmann1590.github.io/jury-simulator/) | Kotlin |  |
 | [shards-of-eldoria](https://github.com/chartmann1590/shards-of-eldoria) | Shards of Eldoria - A fantasy turn-based RPG built with React Native + Expo | TypeScript |  |
 | [SpaceShooter](https://github.com/chartmann1590/SpaceShooter) | A feature-rich space shooter game for Android with boss battles, power-ups, achievements, and multiple game modes. · [Demo](https://chartmann1590.github.io/SpaceShooter) | Java |  |
 
@@ -158,6 +158,6 @@ If you find my projects useful, consider buying me a coffee!
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
 </a>
 
-*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-08-14*
+*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-08-15*
 
 </div>
