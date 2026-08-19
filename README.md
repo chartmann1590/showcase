@@ -6,7 +6,7 @@
 
 **Android apps · AI tools · Web platforms · Python scripts — all open source**
 
-[![Apps](https://img.shields.io/badge/Apps-73-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
+[![Apps](https://img.shields.io/badge/Apps-74-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
 [![Stars](https://img.shields.io/badge/Total_Stars-98-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-☕-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/charleshartmann)
 [![Google Play](https://img.shields.io/badge/Google_Play-Hartmann_Studios-01875f?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Hartmann+Studios)
@@ -66,7 +66,7 @@
 | [ToolTok-App](https://github.com/chartmann1590/ToolTok-App) | Android shell for the live ToolTok platform with automated releases, GitHub Pages, and Android E2E validation. · [Demo](https://chartmann1590.github.io/ToolTok-App/) | Kotlin |  |
 | [warmword](https://github.com/chartmann1590/warmword) | WarmWord — an on-device AI mental health companion (Android, Compose, Gemma) | Kotlin |  |
 
-## 🌐 Web Applications (19)
+## 🌐 Web Applications (20)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
@@ -87,6 +87,7 @@
 | [skypulse-android](https://github.com/chartmann1590/skypulse-android) | SkyPulse — native Android live aircraft tracker (Kotlin/Compose) using free open ADS-B data (ADSB.lol + OpenSky) and OpenFlights. No API key, no login. · [Demo](https://chartmann1590.github.io/skypulse-android/) | HTML |  |
 | [trailsage-ai-android](https://github.com/chartmann1590/trailsage-ai-android) | Offline-first Android GPS audio tour guide with on-device AI · [Demo](https://chartmann1590.github.io/trailsage-ai-android/) | HTML |  |
 | [VirtualPhotobooth](https://github.com/chartmann1590/VirtualPhotobooth) | A simple Web Based Virtual Photobooth with email and sms sending features | HTML |  |
+| [warmword-site](https://github.com/chartmann1590/warmword-site) | WarmWord landing page and privacy policy | HTML |  |
 | [WeTime](https://github.com/chartmann1590/WeTime) | A shared calendar service geared towards couples | TypeScript |  |
 | [Zenith-Task-A-Minimalist-Todo](https://github.com/chartmann1590/Zenith-Task-A-Minimalist-Todo) | A Minimalist Todo with Email Notifications | TypeScript |  |
 
@@ -159,6 +160,6 @@ If you find my projects useful, consider buying me a coffee!
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
 </a>
 
-*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-08-18*
+*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-08-19*
 
 </div>
