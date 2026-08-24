@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23",
+  "updated": "2026-08-24",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
@@ -11,7 +11,7 @@
   },
   "stats": {
     "total": 75,
-    "total_stars": 98,
+    "total_stars": 97,
     "by_category": {
       "android": 27,
       "web": 20,
@@ -44,7 +44,7 @@
       "url": "https://github.com/chartmann1590/VowVault",
       "homepage": "https://chartmann1590.github.io/VowVault/",
       "language": "HTML",
-      "stars": 29,
+      "stars": 28,
       "forks": 1,
       "topics": [],
       "category": "web",
@@ -334,7 +334,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-08-22",
+      "pushed_at": "2026-08-23",
       "created_at": "2026-04-15"
     },
     {
@@ -483,7 +483,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-08-22",
+      "pushed_at": "2026-08-23",
       "created_at": "2026-04-18"
     },
     {
@@ -668,7 +668,7 @@
         "self-hosted"
       ],
       "category": "android",
-      "pushed_at": "2026-08-13",
+      "pushed_at": "2026-08-23",
       "created_at": "2026-01-01"
     },
     {
@@ -831,7 +831,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-08-22",
+      "pushed_at": "2026-08-23",
       "created_at": "2026-06-10"
     },
     {

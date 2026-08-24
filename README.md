@@ -7,7 +7,7 @@
 **Android apps · AI tools · Web platforms · Python scripts — all open source**
 
 [![Apps](https://img.shields.io/badge/Apps-75-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
-[![Stars](https://img.shields.io/badge/Total_Stars-98-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
+[![Stars](https://img.shields.io/badge/Total_Stars-97-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-☕-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/charleshartmann)
 [![Google Play](https://img.shields.io/badge/Google_Play-Hartmann_Studios-01875f?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Hartmann+Studios)
 
@@ -27,7 +27,7 @@
 | Project | Description | Stars |
 |---------|-------------|-------|
 | [Rokid-Maps](https://github.com/chartmann1590/Rokid-Maps) | a standalone app for rokid ai glasses that is used for displaying map and directions on the glasses · [Live](https://chartmann1590.github.io/Rokid-Maps/) | ⭐ 33 |
-| [VowVault](https://github.com/chartmann1590/VowVault) | A beautiful, modern wedding photo gallery and guestbook with SSO authentication, PWA support, and comprehensive admin tools. · [Live](https://chartmann1590.github.io/VowVault/) | ⭐ 29 |
+| [VowVault](https://github.com/chartmann1590/VowVault) | A beautiful, modern wedding photo gallery and guestbook with SSO authentication, PWA support, and comprehensive admin tools. · [Live](https://chartmann1590.github.io/VowVault/) | ⭐ 28 |
 | [bee-ai-web](https://github.com/chartmann1590/bee-ai-web) | A web interface for the Bee AI that uses your api key | ⭐ 20 |
 | [AI-Social](https://github.com/chartmann1590/AI-Social) | A React Native + Expo app that simulates a social media experience powered by a local Ollama model. · [Live](https://chartmann1590.github.io/AI-Social/) | ⭐ 2 |
 | [airgf](https://github.com/chartmann1590/airgf) | AirGF - AI Virtual Companion. On-device AI girlfriend with Gemma 4 LLM, 3D avatars, image sharing, and image generation. · [Live](https://chartmann1590.github.io/airgf/) | ⭐ 2 |
@@ -71,7 +71,7 @@
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
-| [VowVault](https://github.com/chartmann1590/VowVault) | A beautiful, modern wedding photo gallery and guestbook with SSO authentication, PWA support, and comprehensive admin tools. · [Demo](https://chartmann1590.github.io/VowVault/) | HTML | ⭐ 29 |
+| [VowVault](https://github.com/chartmann1590/VowVault) | A beautiful, modern wedding photo gallery and guestbook with SSO authentication, PWA support, and comprehensive admin tools. · [Demo](https://chartmann1590.github.io/VowVault/) | HTML | ⭐ 28 |
 | [bee-ai-web](https://github.com/chartmann1590/bee-ai-web) | A web interface for the Bee AI that uses your api key | HTML | ⭐ 20 |
 | [Memory-AI-Project](https://github.com/chartmann1590/Memory-AI-Project) | An innovative solution combining local AI and recorded memories. | HTML | ⭐ 2 |
 | [carthing-apps](https://github.com/chartmann1590/carthing-apps) | DeskThing apps for the Spotify CarThing — gas prices, calendar, bus arrivals, traffic, and local news | TypeScript |  |
@@ -161,6 +161,6 @@ If you find my projects useful, consider buying me a coffee!
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
 </a>
 
-*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-08-23*
+*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-08-24*
 
 </div>
