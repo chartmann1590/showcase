@@ -28,7 +28,7 @@
 |---------|-------------|-------|
 | [Rokid-Maps](https://github.com/chartmann1590/Rokid-Maps) | a standalone app for rokid ai glasses that is used for displaying map and directions on the glasses · [Live](https://chartmann1590.github.io/Rokid-Maps/) | ⭐ 33 |
 | [VowVault](https://github.com/chartmann1590/VowVault) | A beautiful, modern wedding photo gallery and guestbook with SSO authentication, PWA support, and comprehensive admin tools. · [Live](https://chartmann1590.github.io/VowVault/) | ⭐ 28 |
-| [bee-ai-web](https://github.com/chartmann1590/bee-ai-web) | A web interface for the Bee AI that uses your api key | ⭐ 20 |
+| [bee-ai-web](https://github.com/chartmann1590/bee-ai-web) | A web interface for the Bee AI that uses your api key | ⭐ 19 |
 | [AI-Social](https://github.com/chartmann1590/AI-Social) | A React Native + Expo app that simulates a social media experience powered by a local Ollama model. · [Live](https://chartmann1590.github.io/AI-Social/) | ⭐ 2 |
 | [airgf](https://github.com/chartmann1590/airgf) | AirGF - AI Virtual Companion. On-device AI girlfriend with Gemma 4 LLM, 3D avatars, image sharing, and image generation. · [Live](https://chartmann1590.github.io/airgf/) | ⭐ 2 |
 | [android-photobooth](https://github.com/chartmann1590/android-photobooth) | Modern Android photobooth app built with Kotlin and Jetpack Compose. Fullscreen photobooth experience with event-specific templates, countdown timer, local saving, optional cloud upload (Immich), SMS/email sharing, gallery, and wireless printing. · [Live](https://chartmann1590.github.io/android-photobooth/) | ⭐ 2 |
@@ -45,6 +45,7 @@
 | [LiveTranscribe-Android](https://github.com/chartmann1590/LiveTranscribe-Android) | Live android transcription app · [Demo](https://chartmann1590.github.io/LiveTranscribe-Android/) | Kotlin | ⭐ 2 |
 | [aria-assistant](https://github.com/chartmann1590/aria-assistant) | Fully on-device AI voice assistant for Android — Gemma 4, Whisper STT, Piper TTS. No cloud. No tracking. · [Demo](https://chartmann1590.github.io/aria-assistant) | Kotlin | ⭐ 1 |
 | [DriveVault](https://github.com/chartmann1590/DriveVault) | Privacy-first dashcam app for Android. Record drives with GPS overlays, dual-camera support, and full control over your data. · [Demo](https://chartmann1590.github.io/DriveVault/) | Kotlin | ⭐ 1 |
+| [ollama-android-client](https://github.com/chartmann1590/ollama-android-client) | Chat with Ollama or run LLMs fully on-device (Gemma, Qwen, DeepSeek, Phi) on Android. Private, open-source, no server required. · [Demo](https://chartmann1590.github.io/ollama-android-client/) | Kotlin | ⭐ 1 |
 | [Pocket-Assistant](https://github.com/chartmann1590/Pocket-Assistant) | Local-first Android AI assistant — OCR, on-device LLM, semantic search, tasks & reminders · [Demo](https://chartmann1590.github.io/Pocket-Assistant/) | Kotlin | ⭐ 1 |
 | [bluetooth-chat](https://github.com/chartmann1590/bluetooth-chat) | — · [Demo](https://chartmann1590.github.io/bluetooth-chat/) | Kotlin |  |
 | [captionburn](https://github.com/chartmann1590/captionburn) | Auto-caption and burn subtitles into videos on-device. Whisper transcription, ML Kit translation, full caption styling. · [Demo](https://chartmann1590.github.io/captionburn) | Kotlin |  |
@@ -55,7 +56,6 @@
 | [GrocyFridgeScanner](https://github.com/chartmann1590/GrocyFridgeScanner) | AI-powered fridge & cupboard inventory scanner for Grocy — uses on-device Gemma 4 E2B to detect food items and sync inventory changes · [Demo](https://chartmann1590.github.io/GrocyFridgeScanner/) | Kotlin |  |
 | [knightfall](https://github.com/chartmann1590/knightfall) | Beautiful chess for Android - play a grandmaster-strength AI with an on-device coach, battle friends online, climb the leaderboard · [Demo](https://chartmann1590.github.io/knightfall/) | Kotlin |  |
 | [nutrisnap](https://github.com/chartmann1590/nutrisnap) | NutriSnap - On-device AI calorie tracker for Android. Private, offline, and free. · [Demo](https://chartmann1590.github.io/nutrisnap/) | Kotlin |  |
-| [ollama-android-client](https://github.com/chartmann1590/ollama-android-client) | Chat with Ollama or run LLMs fully on-device (Gemma, Qwen, DeepSeek, Phi) on Android. Private, open-source, no server required. · [Demo](https://chartmann1590.github.io/ollama-android-client/) | Kotlin |  |
 | [owefolk](https://github.com/chartmann1590/owefolk) | Beautiful Firebase-backed Android shared-expense tracking with honest external payment handoff. · [Demo](https://chartmann1590.github.io/owefolk/) | Kotlin |  |
 | [path](https://github.com/chartmann1590/path) | A bible study app for android with (self hosted) AI summaries · [Demo](https://path-bible-study.web.app/) | Kotlin |  |
 | [pixeldream](https://github.com/chartmann1590/pixeldream) | PixelDream — on-device AI image generation Android app · [Demo](https://chartmann1590.github.io/pixeldream/) | Kotlin |  |
@@ -72,7 +72,7 @@
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
 | [VowVault](https://github.com/chartmann1590/VowVault) | A beautiful, modern wedding photo gallery and guestbook with SSO authentication, PWA support, and comprehensive admin tools. · [Demo](https://chartmann1590.github.io/VowVault/) | HTML | ⭐ 28 |
-| [bee-ai-web](https://github.com/chartmann1590/bee-ai-web) | A web interface for the Bee AI that uses your api key | HTML | ⭐ 20 |
+| [bee-ai-web](https://github.com/chartmann1590/bee-ai-web) | A web interface for the Bee AI that uses your api key | HTML | ⭐ 19 |
 | [Memory-AI-Project](https://github.com/chartmann1590/Memory-AI-Project) | An innovative solution combining local AI and recorded memories. | HTML | ⭐ 2 |
 | [carthing-apps](https://github.com/chartmann1590/carthing-apps) | DeskThing apps for the Spotify CarThing — gas prices, calendar, bus arrivals, traffic, and local news | TypeScript |  |
 | [cognizant](https://github.com/chartmann1590/cognizant) | Peer-powered understanding engine - a unique PWA where you learn by teaching AI students | JavaScript |  |
@@ -161,6 +161,6 @@ If you find my projects useful, consider buying me a coffee!
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
 </a>
 
-*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-08-24*
+*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-08-25*
 
 </div>

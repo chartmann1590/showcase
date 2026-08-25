@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24",
+  "updated": "2026-08-25",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
@@ -57,7 +57,7 @@
       "url": "https://github.com/chartmann1590/bee-ai-web",
       "homepage": "",
       "language": "HTML",
-      "stars": 20,
+      "stars": 19,
       "forks": 0,
       "topics": [],
       "category": "web",
@@ -100,7 +100,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-08-22",
+      "pushed_at": "2026-08-25",
       "created_at": "2026-03-02"
     },
     {
@@ -113,7 +113,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-08-19",
+      "pushed_at": "2026-08-24",
       "created_at": "2026-04-10"
     },
     {
@@ -167,6 +167,35 @@
       "category": "game",
       "pushed_at": "2026-08-13",
       "created_at": "2026-05-07"
+    },
+    {
+      "name": "ollama-android-client",
+      "description": "Chat with Ollama or run LLMs fully on-device (Gemma, Qwen, DeepSeek, Phi) on Android. Private, open-source, no server required.",
+      "url": "https://github.com/chartmann1590/ollama-android-client",
+      "homepage": "https://chartmann1590.github.io/ollama-android-client/",
+      "language": "Kotlin",
+      "stars": 1,
+      "forks": 0,
+      "topics": [
+        "ai-chat",
+        "android",
+        "chatbot",
+        "gemma",
+        "jetpack-compose",
+        "kotlin",
+        "litert",
+        "llm",
+        "local-llm",
+        "offline-ai",
+        "ollama",
+        "on-device-ai",
+        "open-source",
+        "privacy",
+        "self-hosted"
+      ],
+      "category": "android",
+      "pushed_at": "2026-08-24",
+      "created_at": "2026-01-01"
     },
     {
       "name": "ollama-client-lite",
@@ -334,7 +363,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-08-23",
+      "pushed_at": "2026-08-24",
       "created_at": "2026-04-15"
     },
     {
@@ -483,7 +512,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-08-23",
+      "pushed_at": "2026-08-24",
       "created_at": "2026-04-18"
     },
     {
@@ -643,35 +672,6 @@
       "created_at": "2026-06-27"
     },
     {
-      "name": "ollama-android-client",
-      "description": "Chat with Ollama or run LLMs fully on-device (Gemma, Qwen, DeepSeek, Phi) on Android. Private, open-source, no server required.",
-      "url": "https://github.com/chartmann1590/ollama-android-client",
-      "homepage": "https://chartmann1590.github.io/ollama-android-client/",
-      "language": "Kotlin",
-      "stars": 0,
-      "forks": 0,
-      "topics": [
-        "ai-chat",
-        "android",
-        "chatbot",
-        "gemma",
-        "jetpack-compose",
-        "kotlin",
-        "litert",
-        "llm",
-        "local-llm",
-        "offline-ai",
-        "ollama",
-        "on-device-ai",
-        "open-source",
-        "privacy",
-        "self-hosted"
-      ],
-      "category": "android",
-      "pushed_at": "2026-08-23",
-      "created_at": "2026-01-01"
-    },
-    {
       "name": "owefolk",
       "description": "Beautiful Firebase-backed Android shared-expense tracking with honest external payment handoff.",
       "url": "https://github.com/chartmann1590/owefolk",
@@ -779,7 +779,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-08-13",
+      "pushed_at": "2026-08-24",
       "created_at": "2026-05-28"
     },
     {
@@ -831,7 +831,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-08-23",
+      "pushed_at": "2026-08-24",
       "created_at": "2026-06-10"
     },
     {
@@ -941,7 +941,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-08-20",
+      "pushed_at": "2026-08-24",
       "created_at": "2026-08-19"
     },
     {
