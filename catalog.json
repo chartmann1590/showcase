@@ -1,19 +1,19 @@
 {
-  "updated": "2026-08-27",
+  "updated": "2026-08-28",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
     "bio": "👋 Hi, I'm Charles! A versatile programmer specializing in Python, Flask, and automation. I enjoy crafting web applications, smart home integrations, and innova",
     "avatar_url": "https://avatars.githubusercontent.com/u/73352603?v=4",
     "html_url": "https://github.com/chartmann1590",
-    "public_repos": 107,
+    "public_repos": 109,
     "followers": 7
   },
   "stats": {
-    "total": 75,
+    "total": 77,
     "total_stars": 97,
     "by_category": {
-      "android": 27,
+      "android": 29,
       "web": 20,
       "ai": 2,
       "game": 6,
@@ -289,6 +289,19 @@
       "created_at": "2025-11-13"
     },
     {
+      "name": "auracast-weather",
+      "description": "AuraCast Weather — AI-narrated, on-device weather app for Android (Kotlin/Compose). Live radar, Gemma 4 weather podcast, no account needed.",
+      "url": "https://github.com/chartmann1590/auracast-weather",
+      "homepage": "https://auracast-weather.web.app",
+      "language": "Kotlin",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "category": "android",
+      "pushed_at": "2026-08-27",
+      "created_at": "2026-08-27"
+    },
+    {
       "name": "Best-Friend",
       "description": "This is your new best friend!",
       "url": "https://github.com/chartmann1590/Best-Friend",
@@ -363,7 +376,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-08-26",
+      "pushed_at": "2026-08-27",
       "created_at": "2026-04-15"
     },
     {
@@ -402,8 +415,32 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-08-20",
+      "pushed_at": "2026-08-27",
       "created_at": "2026-06-30"
+    },
+    {
+      "name": "cruise-app",
+      "description": "🚢 Cruise Planner — plan your entire cruise without Wi-Fi. Offline itinerary, real ports, weather & offline Bluetooth party chat for cruisers. 🌐 cruise-app-2026.web.app",
+      "url": "https://github.com/chartmann1590/cruise-app",
+      "homepage": "https://cruise-app-2026.web.app",
+      "language": "Kotlin",
+      "stars": 0,
+      "forks": 0,
+      "topics": [
+        "android",
+        "bluetooth",
+        "cruise",
+        "firebase",
+        "jetpack-compose",
+        "kotlin",
+        "nearby-connections",
+        "offline-first",
+        "open-meteo",
+        "room"
+      ],
+      "category": "android",
+      "pushed_at": "2026-08-28",
+      "created_at": "2026-08-27"
     },
     {
       "name": "discord-summarizer",
@@ -512,7 +549,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-08-27",
+      "pushed_at": "2026-08-28",
       "created_at": "2026-04-18"
     },
     {
@@ -831,7 +868,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-08-26",
+      "pushed_at": "2026-08-27",
       "created_at": "2026-06-10"
     },
     {
@@ -941,7 +978,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-08-24",
+      "pushed_at": "2026-08-27",
       "created_at": "2026-08-19"
     },
     {
