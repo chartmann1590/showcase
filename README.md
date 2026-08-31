@@ -94,13 +94,12 @@
 | [WeTime](https://github.com/chartmann1590/WeTime) | A shared calendar service geared towards couples | TypeScript |  |
 | [Zenith-Task-A-Minimalist-Todo](https://github.com/chartmann1590/Zenith-Task-A-Minimalist-Todo) | A Minimalist Todo with Email Notifications | TypeScript |  |
 
-## 🤖 AI & LLM Tools (3)
+## 🤖 AI & LLM Tools (2)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
 | [AI-Social](https://github.com/chartmann1590/AI-Social) | A React Native + Expo app that simulates a social media experience powered by a local Ollama model. · [Demo](https://chartmann1590.github.io/AI-Social/) | TypeScript | ⭐ 2 |
 | [AI-Character-Chat](https://github.com/chartmann1590/AI-Character-Chat) | A Python Flask-based web application that mimics the functionality of Character.AI, enabling engaging, interactive conversations with AI-driven characters. This project leverages local AI models powered by Ollama for generating dynamic and context-aware interactions. | HTML |  |
-| [arcane-dark](https://github.com/chartmann1590/arcane-dark) | AI Dungeon Master RPG for mobile — solo or with friends, powered by an on-device Gemma model. | Dart |  |
 
 ## 🐍 Python Tools (16)
 
@@ -123,13 +122,14 @@
 | [Wedding-Outreach](https://github.com/chartmann1590/Wedding-Outreach) | A simple script to automate the process of reaching out to your wedding guests for their address using a CSV upload and Facebook Messenger | Python |  |
 | [YT-Bulk-Downloader](https://github.com/chartmann1590/YT-Bulk-Downloader) | Python based Bulk YT Video donwloader | Python |  |
 
-## 🎮 Games (6)
+## 🎮 Games (7)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
 | [jury-simulator](https://github.com/chartmann1590/jury-simulator) | Decide justice from your phone. Android jury duty simulator with on-device AI, eleven jurors, and the verdict in your hands. · [Demo](https://chartmann1590.github.io/jury-simulator/) | Kotlin | ⭐ 1 |
 | [Pixel-Fish-Tank](https://github.com/chartmann1590/Pixel-Fish-Tank) | A cozy Android virtual pet game where players care for a cute pixel-art fish by feeding it, cleaning its tank, playing mini-games, and decorating its environment as the fish grows and levels up. · [Demo](https://pixel-fish-tank.web.app/) | Kotlin | ⭐ 1 |
 | [AI-Chess](https://github.com/chartmann1590/AI-Chess) | A simple python based chess game that uses ollama models to play an opponent  | Python |  |
+| [arcane-dark](https://github.com/chartmann1590/arcane-dark) | Your AI Dungeon Master lives on your phone — solo offline & private, or with up to 5 friends. Coming soon to Google Play for Android. · [Demo](https://chartmann1590.github.io/arcane-dark/) | Dart |  |
 | [Business-Simulator](https://github.com/chartmann1590/Business-Simulator) | A fun Business Simulator game that uses ai to run a business | HTML |  |
 | [shards-of-eldoria](https://github.com/chartmann1590/shards-of-eldoria) | Shards of Eldoria - A fantasy turn-based RPG built with React Native + Expo | TypeScript |  |
 | [SpaceShooter](https://github.com/chartmann1590/SpaceShooter) | A feature-rich space shooter game for Android with boss battles, power-ups, achievements, and multiple game modes. · [Demo](https://chartmann1590.github.io/SpaceShooter) | Java |  |
@@ -164,6 +164,6 @@ If you find my projects useful, consider buying me a coffee!
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
 </a>
 
-*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-08-30*
+*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-08-31*
 
 </div>

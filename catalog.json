@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30",
+  "updated": "2026-08-31",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
@@ -15,8 +15,8 @@
     "by_category": {
       "android": 29,
       "web": 20,
-      "ai": 3,
-      "game": 6,
+      "ai": 2,
+      "game": 7,
       "python": 16,
       "other": 1,
       "iot": 3
@@ -290,14 +290,24 @@
     },
     {
       "name": "arcane-dark",
-      "description": "AI Dungeon Master RPG for mobile — solo or with friends, powered by an on-device Gemma model.",
+      "description": "Your AI Dungeon Master lives on your phone — solo offline & private, or with up to 5 friends. Coming soon to Google Play for Android.",
       "url": "https://github.com/chartmann1590/arcane-dark",
-      "homepage": "",
+      "homepage": "https://chartmann1590.github.io/arcane-dark/",
       "language": "Dart",
       "stars": 0,
       "forks": 0,
-      "topics": [],
-      "category": "ai",
+      "topics": [
+        "ai",
+        "dnd",
+        "dungeon-master",
+        "flutter",
+        "gemma",
+        "litert",
+        "mobile-game",
+        "offline",
+        "rpg"
+      ],
+      "category": "game",
       "pushed_at": "2026-08-30",
       "created_at": "2026-08-30"
     },
@@ -389,7 +399,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-08-29",
+      "pushed_at": "2026-08-30",
       "created_at": "2026-04-15"
     },
     {
@@ -738,7 +748,7 @@
         "kotlin"
       ],
       "category": "android",
-      "pushed_at": "2026-08-25",
+      "pushed_at": "2026-08-30",
       "created_at": "2026-08-01"
     },
     {
@@ -881,7 +891,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-08-29",
+      "pushed_at": "2026-08-30",
       "created_at": "2026-06-10"
     },
     {
