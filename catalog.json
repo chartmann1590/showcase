@@ -1,20 +1,20 @@
 {
-  "updated": "2026-09-02",
+  "updated": "2026-09-03",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
     "bio": "👋 Hi, I'm Charles! A versatile programmer specializing in Python, Flask, and automation. I enjoy crafting web applications, smart home integrations, and innova",
     "avatar_url": "https://avatars.githubusercontent.com/u/73352603?v=4",
     "html_url": "https://github.com/chartmann1590",
-    "public_repos": 110,
+    "public_repos": 111,
     "followers": 7
   },
   "stats": {
-    "total": 78,
+    "total": 79,
     "total_stars": 97,
     "by_category": {
       "android": 29,
-      "web": 20,
+      "web": 21,
       "ai": 2,
       "game": 7,
       "python": 16,
@@ -399,7 +399,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-09-01",
+      "pushed_at": "2026-09-02",
       "created_at": "2026-04-15"
     },
     {
@@ -572,7 +572,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-09-01",
+      "pushed_at": "2026-09-03",
       "created_at": "2026-04-18"
     },
     {
@@ -732,6 +732,19 @@
       "created_at": "2026-06-27"
     },
     {
+      "name": "octopulse",
+      "description": "OctoPulse — Beautiful OctoPrint companion for Android (auto-discovery, 1-click pairing, camera, G-code 2D/3D). Coming soon to Google Play. Contains ads. Website + Privacy Policy on GitHub Pages.",
+      "url": "https://github.com/chartmann1590/octopulse",
+      "homepage": "https://chartmann1590.github.io/octopulse/",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "category": "web",
+      "pushed_at": "2026-09-02",
+      "created_at": "2026-08-31"
+    },
+    {
       "name": "owefolk",
       "description": "Beautiful Firebase-backed Android shared-expense tracking with honest external payment handoff.",
       "url": "https://github.com/chartmann1590/owefolk",
@@ -761,7 +774,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-08-31",
+      "pushed_at": "2026-09-02",
       "created_at": "2026-06-13"
     },
     {
@@ -891,7 +904,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-09-01",
+      "pushed_at": "2026-09-02",
       "created_at": "2026-06-10"
     },
     {
@@ -917,7 +930,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-08-26",
+      "pushed_at": "2026-09-02",
       "created_at": "2026-06-02"
     },
     {
