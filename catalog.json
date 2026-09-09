@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-08",
+  "updated": "2026-09-09",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
     "bio": "👋 Hi, I'm Charles! A versatile programmer specializing in Python, Flask, and automation. I enjoy crafting web applications, smart home integrations, and innova",
     "avatar_url": "https://avatars.githubusercontent.com/u/73352603?v=4",
     "html_url": "https://github.com/chartmann1590",
-    "public_repos": 111,
+    "public_repos": 112,
     "followers": 7
   },
   "stats": {
-    "total": 79,
-    "total_stars": 100,
+    "total": 80,
+    "total_stars": 102,
     "by_category": {
       "android": 29,
       "web": 21,
@@ -19,7 +19,7 @@
       "game": 7,
       "python": 16,
       "other": 1,
-      "iot": 3
+      "iot": 4
     }
   },
   "showcase_url": "https://chartmann1590.github.io/showcase",
@@ -65,6 +65,19 @@
       "created_at": "2025-04-20"
     },
     {
+      "name": "LiveTranscribe-Android",
+      "description": "Live android transcription app",
+      "url": "https://github.com/chartmann1590/LiveTranscribe-Android",
+      "homepage": "https://chartmann1590.github.io/LiveTranscribe-Android/",
+      "language": "Kotlin",
+      "stars": 4,
+      "forks": 0,
+      "topics": [],
+      "category": "android",
+      "pushed_at": "2026-09-08",
+      "created_at": "2026-04-10"
+    },
+    {
       "name": "AI-Social",
       "description": "A React Native + Expo app that simulates a social media experience powered by a local Ollama model.",
       "url": "https://github.com/chartmann1590/AI-Social",
@@ -102,19 +115,6 @@
       "category": "android",
       "pushed_at": "2026-08-31",
       "created_at": "2026-03-02"
-    },
-    {
-      "name": "LiveTranscribe-Android",
-      "description": "Live android transcription app",
-      "url": "https://github.com/chartmann1590/LiveTranscribe-Android",
-      "homepage": "https://chartmann1590.github.io/LiveTranscribe-Android/",
-      "language": "Kotlin",
-      "stars": 2,
-      "forks": 0,
-      "topics": [],
-      "category": "android",
-      "pushed_at": "2026-09-06",
-      "created_at": "2026-04-10"
     },
     {
       "name": "Memory-AI-Project",
@@ -412,7 +412,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-09-07",
+      "pushed_at": "2026-09-08",
       "created_at": "2026-04-15"
     },
     {
@@ -585,7 +585,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-09-08",
+      "pushed_at": "2026-09-09",
       "created_at": "2026-04-18"
     },
     {
@@ -830,6 +830,19 @@
       "created_at": "2026-06-03"
     },
     {
+      "name": "retro-tv",
+      "description": "Raspberry Pi cable-TV simulator for a personal media library",
+      "url": "https://github.com/chartmann1590/retro-tv",
+      "homepage": "",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "category": "iot",
+      "pushed_at": "2026-09-09",
+      "created_at": "2026-09-09"
+    },
+    {
       "name": "RPI-Dashboard",
       "description": "My raspberry pi dashbaord written in python flask",
       "url": "https://github.com/chartmann1590/RPI-Dashboard",
@@ -904,7 +917,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-09-07",
+      "pushed_at": "2026-09-08",
       "created_at": "2026-06-10"
     },
     {
