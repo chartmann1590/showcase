@@ -6,8 +6,8 @@
 
 **Android apps · AI tools · Web platforms · Python scripts — all open source**
 
-[![Apps](https://img.shields.io/badge/Apps-80-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
-[![Stars](https://img.shields.io/badge/Total_Stars-104-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
+[![Apps](https://img.shields.io/badge/Apps-81-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
+[![Stars](https://img.shields.io/badge/Total_Stars-105-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-☕-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/charleshartmann)
 [![Google Play](https://img.shields.io/badge/Google_Play-Hartmann_Studios-01875f?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Hartmann+Studios)
 
@@ -26,7 +26,7 @@
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [Rokid-Maps](https://github.com/chartmann1590/Rokid-Maps) | a standalone app for rokid ai glasses that is used for displaying map and directions on the glasses · [Live](https://chartmann1590.github.io/Rokid-Maps/) | ⭐ 34 |
+| [Rokid-Maps](https://github.com/chartmann1590/Rokid-Maps) | a standalone app for rokid ai glasses that is used for displaying map and directions on the glasses · [Live](https://chartmann1590.github.io/Rokid-Maps/) | ⭐ 35 |
 | [VowVault](https://github.com/chartmann1590/VowVault) | A beautiful, modern wedding photo gallery and guestbook with SSO authentication, PWA support, and comprehensive admin tools. · [Live](https://chartmann1590.github.io/VowVault/) | ⭐ 28 |
 | [bee-ai-web](https://github.com/chartmann1590/bee-ai-web) | A web interface for the Bee AI that uses your api key | ⭐ 20 |
 | [LiveTranscribe-Android](https://github.com/chartmann1590/LiveTranscribe-Android) | Live android transcription app · [Live](https://chartmann1590.github.io/LiveTranscribe-Android/) | ⭐ 6 |
@@ -35,11 +35,11 @@
 
 ---
 
-## 📱 Android Apps (29)
+## 📱 Android Apps (30)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
-| [Rokid-Maps](https://github.com/chartmann1590/Rokid-Maps) | a standalone app for rokid ai glasses that is used for displaying map and directions on the glasses · [Demo](https://chartmann1590.github.io/Rokid-Maps/) | Kotlin | ⭐ 34 |
+| [Rokid-Maps](https://github.com/chartmann1590/Rokid-Maps) | a standalone app for rokid ai glasses that is used for displaying map and directions on the glasses · [Demo](https://chartmann1590.github.io/Rokid-Maps/) | Kotlin | ⭐ 35 |
 | [LiveTranscribe-Android](https://github.com/chartmann1590/LiveTranscribe-Android) | Live android transcription app · [Demo](https://chartmann1590.github.io/LiveTranscribe-Android/) | Kotlin | ⭐ 6 |
 | [airgf](https://github.com/chartmann1590/airgf) | AirGF - AI Virtual Companion. On-device AI girlfriend with Gemma 4 LLM, 3D avatars, image sharing, and image generation. · [Demo](https://chartmann1590.github.io/airgf/) | Kotlin | ⭐ 2 |
 | [android-photobooth](https://github.com/chartmann1590/android-photobooth) | Modern Android photobooth app built with Kotlin and Jetpack Compose. Fullscreen photobooth experience with event-specific templates, countdown timer, local saving, optional cloud upload (Immich), SMS/email sharing, gallery, and wireless printing. · [Demo](https://chartmann1590.github.io/android-photobooth/) | Kotlin | ⭐ 2 |
@@ -61,6 +61,7 @@
 | [owefolk](https://github.com/chartmann1590/owefolk) | Beautiful Firebase-backed Android shared-expense tracking with honest external payment handoff. · [Demo](https://chartmann1590.github.io/owefolk/) | Kotlin |  |
 | [path](https://github.com/chartmann1590/path) | A bible study app for android with (self hosted) AI summaries · [Demo](https://path-bible-study.web.app/) | Kotlin |  |
 | [pixeldream](https://github.com/chartmann1590/pixeldream) | PixelDream — on-device AI image generation Android app · [Demo](https://chartmann1590.github.io/pixeldream/) | Kotlin |  |
+| [pocket-kin](https://github.com/chartmann1590/pocket-kin) | Pocket Kin — A cozy storybook virtual-pet game for Android with Wear OS companion, health tracking, and home screen widget | Kotlin |  |
 | [qrcode-scanner-android](https://github.com/chartmann1590/qrcode-scanner-android) | Modern Android QR & Barcode Reader · [Demo](https://chartmann1590.github.io/qrcode-scanner-android/) | Kotlin |  |
 | [ScamRadar](https://github.com/chartmann1590/ScamRadar) | ScamRadar: AI Scam & Phishing Detector — Free, on-device AI that tells you in 3 seconds whether that text, email, or voicemail is a scam. · [Demo](https://chartmann1590.github.io/ScamRadar/) | Kotlin |  |
 | [scripturesearch](https://github.com/chartmann1590/scripturesearch) | — · [Demo](https://chartmann1590.github.io/scripturesearch/) | Java |  |
@@ -166,6 +167,6 @@ If you find my projects useful, consider buying me a coffee!
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
 </a>
 
-*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-09-15*
+*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-09-16*
 
 </div>
