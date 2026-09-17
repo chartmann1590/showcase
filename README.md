@@ -35,7 +35,7 @@
 
 ---
 
-## 📱 Android Apps (30)
+## 📱 Android Apps (29)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
@@ -61,7 +61,6 @@
 | [owefolk](https://github.com/chartmann1590/owefolk) | Beautiful Firebase-backed Android shared-expense tracking with honest external payment handoff. · [Demo](https://chartmann1590.github.io/owefolk/) | Kotlin |  |
 | [path](https://github.com/chartmann1590/path) | A bible study app for android with (self hosted) AI summaries · [Demo](https://path-bible-study.web.app/) | Kotlin |  |
 | [pixeldream](https://github.com/chartmann1590/pixeldream) | PixelDream — on-device AI image generation Android app · [Demo](https://chartmann1590.github.io/pixeldream/) | Kotlin |  |
-| [pocket-kin](https://github.com/chartmann1590/pocket-kin) | Pocket Kin — A cozy storybook virtual-pet game for Android with Wear OS companion, health tracking, and home screen widget | Kotlin |  |
 | [qrcode-scanner-android](https://github.com/chartmann1590/qrcode-scanner-android) | Modern Android QR & Barcode Reader · [Demo](https://chartmann1590.github.io/qrcode-scanner-android/) | Kotlin |  |
 | [ScamRadar](https://github.com/chartmann1590/ScamRadar) | ScamRadar: AI Scam & Phishing Detector — Free, on-device AI that tells you in 3 seconds whether that text, email, or voicemail is a scam. · [Demo](https://chartmann1590.github.io/ScamRadar/) | Kotlin |  |
 | [scripturesearch](https://github.com/chartmann1590/scripturesearch) | — · [Demo](https://chartmann1590.github.io/scripturesearch/) | Java |  |
@@ -145,11 +144,12 @@
 | [retro-tv](https://github.com/chartmann1590/retro-tv) | Raspberry Pi cable-TV simulator for a personal media library | Python |  |
 | [RPI-Dashboard](https://github.com/chartmann1590/RPI-Dashboard) | My raspberry pi dashbaord written in python flask | HTML |  |
 
-## ⚙️ Other Projects (1)
+## ⚙️ Other Projects (2)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
 | [FantasyFootball](https://github.com/chartmann1590/FantasyFootball) | A self hosted Fantasy Football (NFL) League Platform |  |  |
+| [pocket-kin](https://github.com/chartmann1590/pocket-kin) | Pocket Kin — A cozy storybook virtual-pet game for Android with Wear OS companion, health tracking, and home screen widget | GDScript |  |
 
 ---
 
@@ -167,6 +167,6 @@ If you find my projects useful, consider buying me a coffee!
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
 </a>
 
-*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-09-16*
+*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-09-17*
 
 </div>
