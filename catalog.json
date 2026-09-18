@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-17",
+  "updated": "2026-09-18",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
     "bio": "👋 Hi, I'm Charles! A versatile programmer specializing in Python, Flask, and automation. I enjoy crafting web applications, smart home integrations, and innova",
     "avatar_url": "https://avatars.githubusercontent.com/u/73352603?v=4",
     "html_url": "https://github.com/chartmann1590",
-    "public_repos": 113,
+    "public_repos": 115,
     "followers": 7
   },
   "stats": {
-    "total": 81,
-    "total_stars": 105,
+    "total": 83,
+    "total_stars": 106,
     "by_category": {
-      "android": 29,
+      "android": 31,
       "web": 21,
       "ai": 2,
       "game": 7,
@@ -78,6 +78,19 @@
       "created_at": "2026-04-10"
     },
     {
+      "name": "DriveVault",
+      "description": "Privacy-first dashcam app for Android. Record drives with GPS overlays, dual-camera support, and full control over your data.",
+      "url": "https://github.com/chartmann1590/DriveVault",
+      "homepage": "https://chartmann1590.github.io/DriveVault/",
+      "language": "Kotlin",
+      "stars": 3,
+      "forks": 0,
+      "topics": [],
+      "category": "android",
+      "pushed_at": "2026-09-11",
+      "created_at": "2026-06-08"
+    },
+    {
       "name": "AI-Social",
       "description": "A React Native + Expo app that simulates a social media experience powered by a local Ollama model.",
       "url": "https://github.com/chartmann1590/AI-Social",
@@ -115,19 +128,6 @@
       "category": "android",
       "pushed_at": "2026-09-14",
       "created_at": "2026-03-02"
-    },
-    {
-      "name": "DriveVault",
-      "description": "Privacy-first dashcam app for Android. Record drives with GPS overlays, dual-camera support, and full control over your data.",
-      "url": "https://github.com/chartmann1590/DriveVault",
-      "homepage": "https://chartmann1590.github.io/DriveVault/",
-      "language": "Kotlin",
-      "stars": 2,
-      "forks": 0,
-      "topics": [],
-      "category": "android",
-      "pushed_at": "2026-09-11",
-      "created_at": "2026-06-08"
     },
     {
       "name": "Memory-AI-Project",
@@ -261,6 +261,19 @@
       "category": "python",
       "pushed_at": "2025-08-07",
       "created_at": "2025-08-03"
+    },
+    {
+      "name": "ai-caller",
+      "description": "Privacy-First Autonomous On-Device AI Phone-Calling Android Agent",
+      "url": "https://github.com/chartmann1590/ai-caller",
+      "homepage": "",
+      "language": "Kotlin",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "category": "android",
+      "pushed_at": "2026-09-18",
+      "created_at": "2026-09-18"
     },
     {
       "name": "AI-Character-Chat",
@@ -399,7 +412,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-09-16",
+      "pushed_at": "2026-09-17",
       "created_at": "2026-04-15"
     },
     {
@@ -438,7 +451,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-09-11",
+      "pushed_at": "2026-09-17",
       "created_at": "2026-06-30"
     },
     {
@@ -572,7 +585,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-09-17",
+      "pushed_at": "2026-09-18",
       "created_at": "2026-04-18"
     },
     {
@@ -704,6 +717,19 @@
       "category": "python",
       "pushed_at": "2025-10-28",
       "created_at": "2025-10-01"
+    },
+    {
+      "name": "neighborhood-safe-street",
+      "description": "Worldwide Local Public Safety & Incident Awareness App with Wear OS Companion",
+      "url": "https://github.com/chartmann1590/neighborhood-safe-street",
+      "homepage": "",
+      "language": "Kotlin",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "category": "android",
+      "pushed_at": "2026-09-17",
+      "created_at": "2026-09-17"
     },
     {
       "name": "NutriCoach-AI",
@@ -930,7 +956,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-09-16",
+      "pushed_at": "2026-09-17",
       "created_at": "2026-06-10"
     },
     {
@@ -1040,7 +1066,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-09-10",
+      "pushed_at": "2026-09-17",
       "created_at": "2026-08-19"
     },
     {
