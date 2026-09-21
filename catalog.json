@@ -1,20 +1,20 @@
 {
-  "updated": "2026-09-20",
+  "updated": "2026-09-21",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
     "bio": "👋 Hi, I'm Charles! A versatile programmer specializing in Python, Flask, and automation. I enjoy crafting web applications, smart home integrations, and innova",
     "avatar_url": "https://avatars.githubusercontent.com/u/73352603?v=4",
     "html_url": "https://github.com/chartmann1590",
-    "public_repos": 115,
+    "public_repos": 117,
     "followers": 7
   },
   "stats": {
-    "total": 83,
-    "total_stars": 106,
+    "total": 85,
+    "total_stars": 108,
     "by_category": {
-      "android": 31,
-      "web": 21,
+      "android": 32,
+      "web": 22,
       "ai": 2,
       "game": 7,
       "python": 16,
@@ -32,7 +32,7 @@
       "homepage": "https://chartmann1590.github.io/Rokid-Maps/",
       "language": "Kotlin",
       "stars": 35,
-      "forks": 7,
+      "forks": 8,
       "topics": [],
       "category": "android",
       "pushed_at": "2026-07-21",
@@ -70,7 +70,7 @@
       "url": "https://github.com/chartmann1590/LiveTranscribe-Android",
       "homepage": "https://chartmann1590.github.io/LiveTranscribe-Android/",
       "language": "Kotlin",
-      "stars": 6,
+      "stars": 7,
       "forks": 1,
       "topics": [],
       "category": "android",
@@ -224,6 +224,19 @@
       "created_at": "2026-01-02"
     },
     {
+      "name": "pixeldream",
+      "description": "PixelDream — on-device AI image generation Android app",
+      "url": "https://github.com/chartmann1590/pixeldream",
+      "homepage": "https://chartmann1590.github.io/pixeldream/",
+      "language": "Kotlin",
+      "stars": 1,
+      "forks": 0,
+      "topics": [],
+      "category": "android",
+      "pushed_at": "2026-09-20",
+      "created_at": "2026-07-19"
+    },
+    {
       "name": "Pocket-Assistant",
       "description": "Local-first Android AI assistant — OCR, on-device LLM, semantic search, tasks & reminders",
       "url": "https://github.com/chartmann1590/Pocket-Assistant",
@@ -272,7 +285,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-09-19",
+      "pushed_at": "2026-09-20",
       "created_at": "2026-09-18"
     },
     {
@@ -412,7 +425,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-09-19",
+      "pushed_at": "2026-09-20",
       "created_at": "2026-04-15"
     },
     {
@@ -585,7 +598,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-09-19",
+      "pushed_at": "2026-09-20",
       "created_at": "2026-04-18"
     },
     {
@@ -830,19 +843,6 @@
       "created_at": "2025-09-11"
     },
     {
-      "name": "pixeldream",
-      "description": "PixelDream — on-device AI image generation Android app",
-      "url": "https://github.com/chartmann1590/pixeldream",
-      "homepage": "https://chartmann1590.github.io/pixeldream/",
-      "language": "Kotlin",
-      "stars": 0,
-      "forks": 0,
-      "topics": [],
-      "category": "android",
-      "pushed_at": "2026-08-13",
-      "created_at": "2026-07-19"
-    },
-    {
       "name": "pocket-kin",
       "description": "Pocket Kin — A cozy storybook virtual-pet game for Android with Wear OS companion, health tracking, and home screen widget",
       "url": "https://github.com/chartmann1590/pocket-kin",
@@ -956,7 +956,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-09-19",
+      "pushed_at": "2026-09-20",
       "created_at": "2026-06-10"
     },
     {
@@ -999,6 +999,19 @@
       "created_at": "2026-04-20"
     },
     {
+      "name": "sports-dashboard",
+      "description": "",
+      "url": "https://github.com/chartmann1590/sports-dashboard",
+      "homepage": "",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "category": "web",
+      "pushed_at": "2026-09-20",
+      "created_at": "2026-09-20"
+    },
+    {
       "name": "StickyNotes",
       "description": "Modern Android sticky notes app with multiple notes and linked home screen widgets.",
       "url": "https://github.com/chartmann1590/StickyNotes",
@@ -1029,6 +1042,19 @@
       "category": "python",
       "pushed_at": "2026-06-25",
       "created_at": "2026-05-10"
+    },
+    {
+      "name": "TipsyBuddy",
+      "description": "",
+      "url": "https://github.com/chartmann1590/TipsyBuddy",
+      "homepage": "",
+      "language": "Kotlin",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "category": "android",
+      "pushed_at": "2026-09-21",
+      "created_at": "2026-09-20"
     },
     {
       "name": "ToolTok-App",
