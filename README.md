@@ -6,7 +6,7 @@
 
 **Android apps · AI tools · Web platforms · Python scripts — all open source**
 
-[![Apps](https://img.shields.io/badge/Apps-86-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
+[![Apps](https://img.shields.io/badge/Apps-87-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
 [![Stars](https://img.shields.io/badge/Total_Stars-108-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-☕-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/charleshartmann)
 [![Google Play](https://img.shields.io/badge/Google_Play-Hartmann_Studios-01875f?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Hartmann+Studios)
@@ -35,7 +35,7 @@
 
 ---
 
-## 📱 Android Apps (32)
+## 📱 Android Apps (33)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
@@ -54,6 +54,7 @@
 | [captionburn](https://github.com/chartmann1590/captionburn) | Auto-caption and burn subtitles into videos on-device. Whisper transcription, ML Kit translation, full caption styling. · [Demo](https://chartmann1590.github.io/captionburn) | Kotlin |  |
 | [crowdsource-transit](https://github.com/chartmann1590/crowdsource-transit) | Community-powered crowdsourced public transit locator — Android + Web · [Demo](https://chartmann1590.github.io/crowdsource-transit/) | Kotlin |  |
 | [cruise-app](https://github.com/chartmann1590/cruise-app) | 🚢 Cruise Planner — plan your entire cruise without Wi-Fi. Offline itinerary, real ports, weather & offline Bluetooth party chat for cruisers. 🌐 cruise-app-2026.web.app · [Demo](https://cruise-app-2026.web.app) | Kotlin |  |
+| [cruise-monitor](https://github.com/chartmann1590/cruise-monitor) | Free CruiseSignal-style cruise fare price-drop tracker for Android · [Demo](https://cruisewatch-app.web.app/) | Kotlin |  |
 | [dreamloom](https://github.com/chartmann1590/dreamloom) | Dreamloom: private on-device AI dream journal for Android · [Demo](https://chartmann1590.github.io/dreamloom/) | Kotlin |  |
 | [Flashlight](https://github.com/chartmann1590/Flashlight) | Modern Android flashlight app with real-device screenshots, signed release CI, and ads-enabled release guard. · [Demo](https://chartmann1590.github.io/Flashlight/) | Kotlin |  |
 | [FocusFlow](https://github.com/chartmann1590/FocusFlow) | FocusFlow - Pomodoro Timer and Task Manager for Android. Boost productivity with focus tracking, stats and daily goals. Website: https://chartmann1590.github.io/FocusFlow | Kotlin |  |
@@ -172,6 +173,6 @@ If you find my projects useful, consider buying me a coffee!
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
 </a>
 
-*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-09-25*
+*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-09-26*
 
 </div>
