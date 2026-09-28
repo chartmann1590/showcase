@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27",
+  "updated": "2026-09-28",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
@@ -7,11 +7,11 @@
     "avatar_url": "https://avatars.githubusercontent.com/u/73352603?v=4",
     "html_url": "https://github.com/chartmann1590",
     "public_repos": 119,
-    "followers": 7
+    "followers": 8
   },
   "stats": {
     "total": 87,
-    "total_stars": 109,
+    "total_stars": 110,
     "by_category": {
       "android": 34,
       "web": 22,
@@ -250,6 +250,19 @@
       "created_at": "2026-03-23"
     },
     {
+      "name": "skypulse-android",
+      "description": "SkyPulse — native Android live aircraft tracker (Kotlin/Compose) using free open ADS-B data (ADSB.lol + OpenSky) and OpenFlights. No API key, no login.",
+      "url": "https://github.com/chartmann1590/skypulse-android",
+      "homepage": "https://chartmann1590.github.io/skypulse-android/",
+      "language": "HTML",
+      "stars": 1,
+      "forks": 0,
+      "topics": [],
+      "category": "web",
+      "pushed_at": "2026-09-11",
+      "created_at": "2026-06-02"
+    },
+    {
       "name": "AI-Call-Bot",
       "description": "Simple python flask ai call bot. Users can call an extension on your voip and interact with your bot via talk to text service and ollama",
       "url": "https://github.com/chartmann1590/AI-Call-Bot",
@@ -425,7 +438,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-09-26",
+      "pushed_at": "2026-09-27",
       "created_at": "2026-04-15"
     },
     {
@@ -501,7 +514,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-09-25",
+      "pushed_at": "2026-09-27",
       "created_at": "2026-09-08"
     },
     {
@@ -878,7 +891,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-09-27",
+      "pushed_at": "2026-09-28",
       "created_at": "2026-09-23"
     },
     {
@@ -898,13 +911,13 @@
       "name": "retro-tv",
       "description": "Raspberry Pi cable-TV simulator for a personal media library",
       "url": "https://github.com/chartmann1590/retro-tv",
-      "homepage": "",
+      "homepage": "https://chartmann1590.github.io/retro-tv/",
       "language": "Python",
       "stars": 0,
       "forks": 0,
       "topics": [],
       "category": "iot",
-      "pushed_at": "2026-09-26",
+      "pushed_at": "2026-09-28",
       "created_at": "2026-09-09"
     },
     {
@@ -982,7 +995,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-09-26",
+      "pushed_at": "2026-09-27",
       "created_at": "2026-06-10"
     },
     {
@@ -997,19 +1010,6 @@
       "category": "python",
       "pushed_at": "2025-12-14",
       "created_at": "2025-12-09"
-    },
-    {
-      "name": "skypulse-android",
-      "description": "SkyPulse — native Android live aircraft tracker (Kotlin/Compose) using free open ADS-B data (ADSB.lol + OpenSky) and OpenFlights. No API key, no login.",
-      "url": "https://github.com/chartmann1590/skypulse-android",
-      "homepage": "https://chartmann1590.github.io/skypulse-android/",
-      "language": "HTML",
-      "stars": 0,
-      "forks": 0,
-      "topics": [],
-      "category": "web",
-      "pushed_at": "2026-09-11",
-      "created_at": "2026-06-02"
     },
     {
       "name": "SpaceShooter",

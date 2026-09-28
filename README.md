@@ -7,7 +7,7 @@
 **Android apps · AI tools · Web platforms · Python scripts — all open source**
 
 [![Apps](https://img.shields.io/badge/Apps-87-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
-[![Stars](https://img.shields.io/badge/Total_Stars-109-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
+[![Stars](https://img.shields.io/badge/Total_Stars-110-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-☕-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/charleshartmann)
 [![Google Play](https://img.shields.io/badge/Google_Play-Hartmann_Studios-01875f?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Hartmann+Studios)
 
@@ -81,6 +81,7 @@
 | [VowVault](https://github.com/chartmann1590/VowVault) | A beautiful, modern wedding photo gallery and guestbook with SSO authentication, PWA support, and comprehensive admin tools. · [Demo](https://chartmann1590.github.io/VowVault/) | HTML | ⭐ 28 |
 | [bee-ai-web](https://github.com/chartmann1590/bee-ai-web) | A web interface for the Bee AI that uses your api key | HTML | ⭐ 20 |
 | [Memory-AI-Project](https://github.com/chartmann1590/Memory-AI-Project) | An innovative solution combining local AI and recorded memories. | HTML | ⭐ 2 |
+| [skypulse-android](https://github.com/chartmann1590/skypulse-android) | SkyPulse — native Android live aircraft tracker (Kotlin/Compose) using free open ADS-B data (ADSB.lol + OpenSky) and OpenFlights. No API key, no login. · [Demo](https://chartmann1590.github.io/skypulse-android/) | HTML | ⭐ 1 |
 | [carthing-apps](https://github.com/chartmann1590/carthing-apps) | DeskThing apps for the Spotify CarThing — gas prices, calendar, bus arrivals, traffic, and local news | TypeScript |  |
 | [cognizant](https://github.com/chartmann1590/cognizant) | Peer-powered understanding engine - a unique PWA where you learn by teaching AI students | JavaScript |  |
 | [family-guardian](https://github.com/chartmann1590/family-guardian) | Self-hosted family safety platform | JavaScript |  |
@@ -93,7 +94,6 @@
 | [octopulse](https://github.com/chartmann1590/octopulse) | OctoPulse — Beautiful OctoPrint companion for Android (auto-discovery, 1-click pairing, camera, G-code 2D/3D). Coming soon to Google Play. Contains ads. Website + Privacy Policy on GitHub Pages. · [Demo](https://chartmann1590.github.io/octopulse/) | TypeScript |  |
 | [party-quips](https://github.com/chartmann1590/party-quips) | A Jackbox-style party game platform — play together on TV and phones · [Demo](https://chartmann1590.github.io/party-quips/) | TypeScript |  |
 | [shipmate-cruise-social](https://github.com/chartmann1590/shipmate-cruise-social) | — | JavaScript |  |
-| [skypulse-android](https://github.com/chartmann1590/skypulse-android) | SkyPulse — native Android live aircraft tracker (Kotlin/Compose) using free open ADS-B data (ADSB.lol + OpenSky) and OpenFlights. No API key, no login. · [Demo](https://chartmann1590.github.io/skypulse-android/) | HTML |  |
 | [sports-dashboard](https://github.com/chartmann1590/sports-dashboard) | — | JavaScript |  |
 | [trailsage-ai-android](https://github.com/chartmann1590/trailsage-ai-android) | Offline-first Android GPS audio tour guide with on-device AI · [Demo](https://chartmann1590.github.io/trailsage-ai-android/) | HTML |  |
 | [VirtualPhotobooth](https://github.com/chartmann1590/VirtualPhotobooth) | A simple Web Based Virtual Photobooth with email and sms sending features | HTML |  |
@@ -147,7 +147,7 @@
 |-----|-------------|----------|-------|
 | [LifeCaptureOS](https://github.com/chartmann1590/LifeCaptureOS) | A production-minded MVP wearable camera system built with ESP32-CAM, Android, and a self-hostable backend with AI analysis. | C |  |
 | [Photobooth](https://github.com/chartmann1590/Photobooth) | A simple web based photobooth designed for a raspberry pi 3b with cups and tts | HTML |  |
-| [retro-tv](https://github.com/chartmann1590/retro-tv) | Raspberry Pi cable-TV simulator for a personal media library | Python |  |
+| [retro-tv](https://github.com/chartmann1590/retro-tv) | Raspberry Pi cable-TV simulator for a personal media library · [Demo](https://chartmann1590.github.io/retro-tv/) | Python |  |
 | [RPI-Dashboard](https://github.com/chartmann1590/RPI-Dashboard) | My raspberry pi dashbaord written in python flask | HTML |  |
 
 ## ⚙️ Other Projects (2)
@@ -173,6 +173,6 @@ If you find my projects useful, consider buying me a coffee!
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
 </a>
 
-*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-09-27*
+*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-09-28*
 
 </div>
