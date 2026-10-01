@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30",
+  "updated": "2026-10-01",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
@@ -11,7 +11,7 @@
   },
   "stats": {
     "total": 88,
-    "total_stars": 115,
+    "total_stars": 116,
     "by_category": {
       "android": 35,
       "web": 22,
@@ -32,7 +32,7 @@
       "homepage": "https://chartmann1590.github.io/Rokid-Maps/",
       "language": "Kotlin",
       "stars": 36,
-      "forks": 8,
+      "forks": 9,
       "topics": [],
       "category": "android",
       "pushed_at": "2026-07-21",
@@ -100,7 +100,7 @@
       "forks": 0,
       "topics": [],
       "category": "ai",
-      "pushed_at": "2026-09-24",
+      "pushed_at": "2026-10-01",
       "created_at": "2026-01-06"
     },
     {
@@ -141,6 +141,19 @@
       "category": "web",
       "pushed_at": "2026-03-07",
       "created_at": "2025-04-08"
+    },
+    {
+      "name": "Pixel-Fish-Tank",
+      "description": "A cozy Android virtual pet game where players care for a cute pixel-art fish by feeding it, cleaning its tank, playing mini-games, and decorating its environment as the fish grows and levels up.",
+      "url": "https://github.com/chartmann1590/Pixel-Fish-Tank",
+      "homepage": "https://pixel-fish-tank.web.app/",
+      "language": "Kotlin",
+      "stars": 2,
+      "forks": 0,
+      "topics": [],
+      "category": "game",
+      "pushed_at": "2026-08-13",
+      "created_at": "2026-01-02"
     },
     {
       "name": "aria-assistant",
@@ -248,19 +261,6 @@
       "created_at": "2025-12-31"
     },
     {
-      "name": "Pixel-Fish-Tank",
-      "description": "A cozy Android virtual pet game where players care for a cute pixel-art fish by feeding it, cleaning its tank, playing mini-games, and decorating its environment as the fish grows and levels up.",
-      "url": "https://github.com/chartmann1590/Pixel-Fish-Tank",
-      "homepage": "https://pixel-fish-tank.web.app/",
-      "language": "Kotlin",
-      "stars": 1,
-      "forks": 0,
-      "topics": [],
-      "category": "game",
-      "pushed_at": "2026-08-13",
-      "created_at": "2026-01-02"
-    },
-    {
       "name": "pixeldream",
       "description": "PixelDream — on-device AI image generation Android app",
       "url": "https://github.com/chartmann1590/pixeldream",
@@ -296,7 +296,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-09-28",
+      "pushed_at": "2026-09-30",
       "created_at": "2026-06-02"
     },
     {
@@ -462,7 +462,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-09-29",
+      "pushed_at": "2026-09-30",
       "created_at": "2026-04-15"
     },
     {
@@ -648,7 +648,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-09-30",
+      "pushed_at": "2026-10-01",
       "created_at": "2026-04-18"
     },
     {
@@ -915,7 +915,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-09-30",
+      "pushed_at": "2026-10-01",
       "created_at": "2026-09-23"
     },
     {
@@ -941,7 +941,7 @@
       "forks": 0,
       "topics": [],
       "category": "iot",
-      "pushed_at": "2026-09-29",
+      "pushed_at": "2026-09-30",
       "created_at": "2026-09-09"
     },
     {
@@ -1019,7 +1019,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-09-29",
+      "pushed_at": "2026-09-30",
       "created_at": "2026-06-10"
     },
     {

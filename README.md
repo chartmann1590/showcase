@@ -7,7 +7,7 @@
 **Android apps · AI tools · Web platforms · Python scripts — all open source**
 
 [![Apps](https://img.shields.io/badge/Apps-88-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
-[![Stars](https://img.shields.io/badge/Total_Stars-115-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
+[![Stars](https://img.shields.io/badge/Total_Stars-116-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-☕-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/charleshartmann)
 [![Google Play](https://img.shields.io/badge/Google_Play-Hartmann_Studios-01875f?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Hartmann+Studios)
 
@@ -134,8 +134,8 @@
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
+| [Pixel-Fish-Tank](https://github.com/chartmann1590/Pixel-Fish-Tank) | A cozy Android virtual pet game where players care for a cute pixel-art fish by feeding it, cleaning its tank, playing mini-games, and decorating its environment as the fish grows and levels up. · [Demo](https://pixel-fish-tank.web.app/) | Kotlin | ⭐ 2 |
 | [jury-simulator](https://github.com/chartmann1590/jury-simulator) | Decide justice from your phone. Android jury duty simulator with on-device AI, eleven jurors, and the verdict in your hands. · [Demo](https://chartmann1590.github.io/jury-simulator/) | Kotlin | ⭐ 1 |
-| [Pixel-Fish-Tank](https://github.com/chartmann1590/Pixel-Fish-Tank) | A cozy Android virtual pet game where players care for a cute pixel-art fish by feeding it, cleaning its tank, playing mini-games, and decorating its environment as the fish grows and levels up. · [Demo](https://pixel-fish-tank.web.app/) | Kotlin | ⭐ 1 |
 | [AI-Chess](https://github.com/chartmann1590/AI-Chess) | A simple python based chess game that uses ollama models to play an opponent  | Python |  |
 | [arcane-dark](https://github.com/chartmann1590/arcane-dark) | Your AI Dungeon Master lives on your phone — solo offline & private, or with up to 5 friends. Coming soon to Google Play for Android. · [Demo](https://chartmann1590.github.io/arcane-dark/) | Dart |  |
 | [Business-Simulator](https://github.com/chartmann1590/Business-Simulator) | A fun Business Simulator game that uses ai to run a business | HTML |  |
@@ -174,6 +174,6 @@ If you find my projects useful, consider buying me a coffee!
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
 </a>
 
-*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-09-30*
+*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-10-01*
 
 </div>
