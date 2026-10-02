@@ -156,7 +156,7 @@
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
 | [FantasyFootball](https://github.com/chartmann1590/FantasyFootball) | A self hosted Fantasy Football (NFL) League Platform |  |  |
-| [pocket-kin](https://github.com/chartmann1590/pocket-kin) | Pocket Kin — A cozy storybook virtual-pet game for Android with Wear OS companion, health tracking, and home screen widget | GDScript |  |
+| [pocket-kin](https://github.com/chartmann1590/pocket-kin) | Pocket Kin — A cozy storybook virtual-pet game for Android with Wear OS companion, health tracking, and home screen widget · [Demo](https://chartmann1590.github.io/pocket-kin/) | GDScript |  |
 
 ---
 
@@ -174,6 +174,6 @@ If you find my projects useful, consider buying me a coffee!
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
 </a>
 
-*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-10-01*
+*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-10-02*
 
 </div>
