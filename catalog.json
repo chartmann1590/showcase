@@ -1,23 +1,23 @@
 {
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
     "bio": "👋 Hi, I'm Charles! A versatile programmer specializing in Python, Flask, and automation. I enjoy crafting web applications, smart home integrations, and innova",
     "avatar_url": "https://avatars.githubusercontent.com/u/73352603?v=4",
     "html_url": "https://github.com/chartmann1590",
-    "public_repos": 120,
+    "public_repos": 121,
     "followers": 8
   },
   "stats": {
-    "total": 88,
+    "total": 89,
     "total_stars": 117,
     "by_category": {
       "android": 35,
       "web": 22,
       "ai": 2,
       "game": 7,
-      "python": 16,
+      "python": 17,
       "other": 2,
       "iot": 4
     }
@@ -48,7 +48,7 @@
       "forks": 1,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-06-25",
+      "pushed_at": "2026-10-07",
       "created_at": "2025-07-26"
     },
     {
@@ -74,7 +74,7 @@
       "forks": 2,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-04",
+      "pushed_at": "2026-10-07",
       "created_at": "2026-04-10"
     },
     {
@@ -87,7 +87,7 @@
       "forks": 1,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-02",
+      "pushed_at": "2026-10-07",
       "created_at": "2026-06-08"
     },
     {
@@ -100,7 +100,7 @@
       "forks": 0,
       "topics": [],
       "category": "ai",
-      "pushed_at": "2026-10-01",
+      "pushed_at": "2026-10-08",
       "created_at": "2026-01-06"
     },
     {
@@ -113,7 +113,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-08-13",
+      "pushed_at": "2026-10-08",
       "created_at": "2026-05-27"
     },
     {
@@ -126,7 +126,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-05",
+      "pushed_at": "2026-10-07",
       "created_at": "2026-03-02"
     },
     {
@@ -152,7 +152,7 @@
       "forks": 0,
       "topics": [],
       "category": "game",
-      "pushed_at": "2026-08-13",
+      "pushed_at": "2026-10-08",
       "created_at": "2026-01-02"
     },
     {
@@ -178,7 +178,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-09-30",
+      "pushed_at": "2026-10-08",
       "created_at": "2026-06-26"
     },
     {
@@ -191,7 +191,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-09-29",
+      "pushed_at": "2026-10-07",
       "created_at": "2026-05-07"
     },
     {
@@ -215,7 +215,7 @@
         "weight-tracking"
       ],
       "category": "android",
-      "pushed_at": "2026-10-05",
+      "pushed_at": "2026-10-08",
       "created_at": "2026-09-29"
     },
     {
@@ -257,7 +257,7 @@
         "self-hosted"
       ],
       "category": "android",
-      "pushed_at": "2026-10-05",
+      "pushed_at": "2026-10-07",
       "created_at": "2026-01-01"
     },
     {
@@ -283,7 +283,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-08-13",
+      "pushed_at": "2026-10-08",
       "created_at": "2026-03-23"
     },
     {
@@ -296,7 +296,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-10-02",
+      "pushed_at": "2026-10-07",
       "created_at": "2026-06-02"
     },
     {
@@ -309,7 +309,7 @@
       "forks": 1,
       "topics": [],
       "category": "python",
-      "pushed_at": "2025-08-02",
+      "pushed_at": "2026-10-07",
       "created_at": "2025-08-01"
     },
     {
@@ -335,7 +335,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-09-20",
+      "pushed_at": "2026-10-08",
       "created_at": "2026-09-18"
     },
     {
@@ -397,7 +397,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-09-04",
+      "pushed_at": "2026-10-07",
       "created_at": "2026-08-27"
     },
     {
@@ -423,7 +423,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-01",
+      "pushed_at": "2026-10-07",
       "created_at": "2026-07-05"
     },
     {
@@ -436,7 +436,7 @@
       "forks": 0,
       "topics": [],
       "category": "game",
-      "pushed_at": "2025-11-23",
+      "pushed_at": "2026-10-07",
       "created_at": "2025-11-16"
     },
     {
@@ -449,7 +449,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-06-21",
+      "pushed_at": "2026-10-08",
       "created_at": "2026-06-21"
     },
     {
@@ -462,7 +462,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-10-05",
+      "pushed_at": "2026-10-07",
       "created_at": "2026-04-15"
     },
     {
@@ -475,7 +475,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-01-08",
+      "pushed_at": "2026-10-07",
       "created_at": "2026-01-07"
     },
     {
@@ -501,7 +501,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-05",
+      "pushed_at": "2026-10-08",
       "created_at": "2026-06-30"
     },
     {
@@ -525,7 +525,7 @@
         "room"
       ],
       "category": "android",
-      "pushed_at": "2026-09-04",
+      "pushed_at": "2026-10-07",
       "created_at": "2026-08-27"
     },
     {
@@ -538,7 +538,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-09-27",
+      "pushed_at": "2026-10-07",
       "created_at": "2026-09-08"
     },
     {
@@ -551,8 +551,21 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2025-07-23",
+      "pushed_at": "2026-10-07",
       "created_at": "2025-07-22"
+    },
+    {
+      "name": "doorbell-cam",
+      "description": "Know who's at your door — instantly, privately, with no monthly fees. Self-hosted smart doorbell with live view, person and face alerts, and a companion phone app.",
+      "url": "https://github.com/chartmann1590/doorbell-cam",
+      "homepage": "",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "category": "python",
+      "pushed_at": "2026-10-07",
+      "created_at": "2026-10-07"
     },
     {
       "name": "dreamloom",
@@ -564,7 +577,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-05",
+      "pushed_at": "2026-10-08",
       "created_at": "2026-04-27"
     },
     {
@@ -577,7 +590,7 @@
       "forks": 1,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-10-04",
+      "pushed_at": "2026-10-08",
       "created_at": "2026-05-18"
     },
     {
@@ -590,7 +603,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2025-12-03",
+      "pushed_at": "2026-10-07",
       "created_at": "2025-11-30"
     },
     {
@@ -622,7 +635,7 @@
         "jetpack-compose"
       ],
       "category": "android",
-      "pushed_at": "2026-08-27",
+      "pushed_at": "2026-10-08",
       "created_at": "2026-04-30"
     },
     {
@@ -635,7 +648,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-07-21",
+      "pushed_at": "2026-10-07",
       "created_at": "2026-04-19"
     },
     {
@@ -661,7 +674,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-08-13",
+      "pushed_at": "2026-10-07",
       "created_at": "2026-05-27"
     },
     {
@@ -674,7 +687,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2025-10-29",
+      "pushed_at": "2026-10-08",
       "created_at": "2025-10-29"
     },
     {
@@ -700,7 +713,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-08-13",
+      "pushed_at": "2026-10-07",
       "created_at": "2026-06-10"
     },
     {
@@ -713,7 +726,7 @@
       "forks": 0,
       "topics": [],
       "category": "iot",
-      "pushed_at": "2026-07-21",
+      "pushed_at": "2026-10-08",
       "created_at": "2026-01-13"
     },
     {
@@ -726,7 +739,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2025-11-09",
+      "pushed_at": "2026-10-07",
       "created_at": "2025-10-29"
     },
     {
@@ -739,7 +752,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2025-09-17",
+      "pushed_at": "2026-10-08",
       "created_at": "2025-09-17"
     },
     {
@@ -752,7 +765,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2025-09-25",
+      "pushed_at": "2026-10-07",
       "created_at": "2025-09-24"
     },
     {
@@ -765,7 +778,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-06-25",
+      "pushed_at": "2026-10-07",
       "created_at": "2026-03-04"
     },
     {
@@ -778,7 +791,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2025-10-28",
+      "pushed_at": "2026-10-08",
       "created_at": "2025-10-01"
     },
     {
@@ -791,7 +804,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-09-17",
+      "pushed_at": "2026-10-08",
       "created_at": "2026-09-17"
     },
     {
@@ -804,7 +817,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-03-07",
+      "pushed_at": "2026-10-07",
       "created_at": "2025-08-30"
     },
     {
@@ -817,7 +830,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-05",
+      "pushed_at": "2026-10-07",
       "created_at": "2026-06-27"
     },
     {
@@ -830,7 +843,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-09-03",
+      "pushed_at": "2026-10-08",
       "created_at": "2026-08-31"
     },
     {
@@ -850,7 +863,7 @@
         "kotlin"
       ],
       "category": "android",
-      "pushed_at": "2026-09-10",
+      "pushed_at": "2026-10-08",
       "created_at": "2026-08-01"
     },
     {
@@ -863,7 +876,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-10-06",
+      "pushed_at": "2026-10-07",
       "created_at": "2026-06-13"
     },
     {
@@ -876,7 +889,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-08-13",
+      "pushed_at": "2026-10-07",
       "created_at": "2025-12-28"
     },
     {
@@ -889,7 +902,7 @@
       "forks": 1,
       "topics": [],
       "category": "iot",
-      "pushed_at": "2025-09-16",
+      "pushed_at": "2026-10-07",
       "created_at": "2025-09-11"
     },
     {
@@ -902,7 +915,7 @@
       "forks": 0,
       "topics": [],
       "category": "other",
-      "pushed_at": "2026-10-05",
+      "pushed_at": "2026-10-07",
       "created_at": "2026-09-15"
     },
     {
@@ -915,7 +928,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-07",
+      "pushed_at": "2026-10-08",
       "created_at": "2026-09-23"
     },
     {
@@ -928,7 +941,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-08-13",
+      "pushed_at": "2026-10-08",
       "created_at": "2026-06-03"
     },
     {
@@ -941,7 +954,7 @@
       "forks": 0,
       "topics": [],
       "category": "iot",
-      "pushed_at": "2026-09-30",
+      "pushed_at": "2026-10-08",
       "created_at": "2026-09-09"
     },
     {
@@ -954,7 +967,7 @@
       "forks": 0,
       "topics": [],
       "category": "iot",
-      "pushed_at": "2026-01-26",
+      "pushed_at": "2026-10-07",
       "created_at": "2025-12-02"
     },
     {
@@ -967,7 +980,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-06",
+      "pushed_at": "2026-10-07",
       "created_at": "2026-05-28"
     },
     {
@@ -980,7 +993,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-08-12",
+      "pushed_at": "2026-10-08",
       "created_at": "2026-08-12"
     },
     {
@@ -1006,7 +1019,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-08-10",
+      "pushed_at": "2026-10-07",
       "created_at": "2026-08-10"
     },
     {
@@ -1019,7 +1032,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-10-06",
+      "pushed_at": "2026-10-07",
       "created_at": "2026-06-10"
     },
     {
@@ -1032,7 +1045,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2025-12-14",
+      "pushed_at": "2026-10-08",
       "created_at": "2025-12-09"
     },
     {
@@ -1058,7 +1071,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-09-26",
+      "pushed_at": "2026-10-07",
       "created_at": "2026-09-20"
     },
     {
@@ -1077,7 +1090,7 @@
         "widget"
       ],
       "category": "android",
-      "pushed_at": "2026-06-25",
+      "pushed_at": "2026-10-08",
       "created_at": "2026-05-01"
     },
     {
@@ -1103,7 +1116,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-09-24",
+      "pushed_at": "2026-10-08",
       "created_at": "2026-09-20"
     },
     {
@@ -1116,7 +1129,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-07-21",
+      "pushed_at": "2026-10-07",
       "created_at": "2026-04-11"
     },
     {
@@ -1129,7 +1142,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-08-13",
+      "pushed_at": "2026-10-07",
       "created_at": "2026-06-02"
     },
     {
@@ -1142,7 +1155,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-01",
+      "pushed_at": "2026-10-07",
       "created_at": "2026-08-19"
     },
     {
@@ -1155,7 +1168,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2025-08-15",
+      "pushed_at": "2026-10-07",
       "created_at": "2025-08-11"
     },
     {
@@ -1194,7 +1207,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2025-08-19",
+      "pushed_at": "2026-10-07",
       "created_at": "2025-08-18"
     },
     {
@@ -1207,7 +1220,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2025-11-13",
+      "pushed_at": "2026-10-07",
       "created_at": "2025-11-12"
     },
     {
@@ -1233,7 +1246,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2025-09-26",
+      "pushed_at": "2026-10-07",
       "created_at": "2025-09-25"
     }
   ]

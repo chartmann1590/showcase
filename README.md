@@ -6,7 +6,7 @@
 
 **Android apps · AI tools · Web platforms · Python scripts — all open source**
 
-[![Apps](https://img.shields.io/badge/Apps-88-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
+[![Apps](https://img.shields.io/badge/Apps-89-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
 [![Stars](https://img.shields.io/badge/Total_Stars-117-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-☕-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/charleshartmann)
 [![Google Play](https://img.shields.io/badge/Google_Play-Hartmann_Studios-01875f?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Hartmann+Studios)
@@ -109,7 +109,7 @@
 | [AI-Social](https://github.com/chartmann1590/AI-Social) | A React Native + Expo app that simulates a social media experience powered by a local Ollama model. · [Demo](https://chartmann1590.github.io/AI-Social/) | TypeScript | ⭐ 2 |
 | [AI-Character-Chat](https://github.com/chartmann1590/AI-Character-Chat) | A Python Flask-based web application that mimics the functionality of Character.AI, enabling engaging, interactive conversations with AI-driven characters. This project leverages local AI models powered by Ollama for generating dynamic and context-aware interactions. | HTML |  |
 
-## 🐍 Python Tools (16)
+## 🐍 Python Tools (17)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
@@ -120,6 +120,7 @@
 | [chartmann1590.github.io](https://github.com/chartmann1590/chartmann1590.github.io) | Root GitHub Pages site for app-ads.txt | Python |  |
 | [Church-Slides-Studio](https://github.com/chartmann1590/Church-Slides-Studio) | Self-hosted web app that converts bulletin text or documents into 1920x1080 JPG slides. Upload title/content backgrounds, generate slides, and optionally verify them with a remote Ollama vision model. | Python |  |
 | [discord-summarizer](https://github.com/chartmann1590/discord-summarizer) | Flask app that monitors Discord channels and generates AI summaries using Ollama | Python |  |
+| [doorbell-cam](https://github.com/chartmann1590/doorbell-cam) | Know who's at your door — instantly, privately, with no monthly fees. Self-hosted smart doorbell with live view, person and face alerts, and a companion phone app. | Python |  |
 | [freshdesk-email-kb-automation](https://github.com/chartmann1590/freshdesk-email-kb-automation) | Hosted Freshdesk email KB auto-reply workflow for SoulShine support | Python |  |
 | [mls-home-portal](https://github.com/chartmann1590/mls-home-portal) | AI-assisted MLS-style home search portal with Ollama, Scrapling, and saved searches · [Demo](https://chartmann1590.github.io/mls-home-portal/) | Python |  |
 | [Mumble-AI](https://github.com/chartmann1590/Mumble-AI) | A Docker Stack for a mumble speak bot that utilizes ollama, piper and faster-whisper aloing with a web based contol panel. | Python |  |
@@ -174,6 +175,6 @@ If you find my projects useful, consider buying me a coffee!
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
 </a>
 
-*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-10-07*
+*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-10-08*
 
 </div>
