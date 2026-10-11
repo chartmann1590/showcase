@@ -6,8 +6,8 @@
 
 **Android apps · AI tools · Web platforms · Python scripts — all open source**
 
-[![Apps](https://img.shields.io/badge/Apps-89-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
-[![Stars](https://img.shields.io/badge/Total_Stars-119-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
+[![Apps](https://img.shields.io/badge/Apps-90-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
+[![Stars](https://img.shields.io/badge/Total_Stars-120-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-☕-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/charleshartmann)
 [![Google Play](https://img.shields.io/badge/Google_Play-Hartmann_Studios-01875f?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Hartmann+Studios)
 
@@ -30,7 +30,7 @@
 | [VowVault](https://github.com/chartmann1590/VowVault) | A beautiful, modern wedding photo gallery and guestbook with SSO authentication, PWA support, and comprehensive admin tools. · [Live](https://chartmann1590.github.io/VowVault/) | ⭐ 28 |
 | [bee-ai-web](https://github.com/chartmann1590/bee-ai-web) | A web interface for the Bee AI that uses your api key | ⭐ 20 |
 | [LiveTranscribe-Android](https://github.com/chartmann1590/LiveTranscribe-Android) | Live android transcription app · [Live](https://chartmann1590.github.io/LiveTranscribe-Android/) | ⭐ 10 |
-| [DriveVault](https://github.com/chartmann1590/DriveVault) | Privacy-first dashcam app for Android. Record drives with GPS overlays, dual-camera support, and full control over your data. · [Live](https://chartmann1590.github.io/DriveVault/) | ⭐ 3 |
+| [DriveVault](https://github.com/chartmann1590/DriveVault) | Privacy-first dashcam app for Android. Record drives with GPS overlays, dual-camera support, and full control over your data. · [Live](https://chartmann1590.github.io/DriveVault/) | ⭐ 4 |
 | [AI-Social](https://github.com/chartmann1590/AI-Social) | A React Native + Expo app that simulates a social media experience powered by a local Ollama model. · [Live](https://chartmann1590.github.io/AI-Social/) | ⭐ 2 |
 
 ---
@@ -41,7 +41,7 @@
 |-----|-------------|----------|-------|
 | [Rokid-Maps](https://github.com/chartmann1590/Rokid-Maps) | a standalone app for rokid ai glasses that is used for displaying map and directions on the glasses · [Demo](https://chartmann1590.github.io/Rokid-Maps/) | Kotlin | ⭐ 38 |
 | [LiveTranscribe-Android](https://github.com/chartmann1590/LiveTranscribe-Android) | Live android transcription app · [Demo](https://chartmann1590.github.io/LiveTranscribe-Android/) | Kotlin | ⭐ 10 |
-| [DriveVault](https://github.com/chartmann1590/DriveVault) | Privacy-first dashcam app for Android. Record drives with GPS overlays, dual-camera support, and full control over your data. · [Demo](https://chartmann1590.github.io/DriveVault/) | Kotlin | ⭐ 3 |
+| [DriveVault](https://github.com/chartmann1590/DriveVault) | Privacy-first dashcam app for Android. Record drives with GPS overlays, dual-camera support, and full control over your data. · [Demo](https://chartmann1590.github.io/DriveVault/) | Kotlin | ⭐ 4 |
 | [airgf](https://github.com/chartmann1590/airgf) | AirGF - AI Virtual Companion. On-device AI girlfriend with Gemma 4 LLM, 3D avatars, image sharing, and image generation. · [Demo](https://chartmann1590.github.io/airgf/) | Kotlin | ⭐ 2 |
 | [android-photobooth](https://github.com/chartmann1590/android-photobooth) | Modern Android photobooth app built with Kotlin and Jetpack Compose. Fullscreen photobooth experience with event-specific templates, countdown timer, local saving, optional cloud upload (Immich), SMS/email sharing, gallery, and wireless printing. · [Demo](https://chartmann1590.github.io/android-photobooth/) | Kotlin | ⭐ 2 |
 | [pixeldream](https://github.com/chartmann1590/pixeldream) | PixelDream — on-device AI image generation Android app · [Demo](https://chartmann1590.github.io/pixeldream/) | Kotlin | ⭐ 2 |
@@ -75,7 +75,7 @@
 | [verselight-android](https://github.com/chartmann1590/verselight-android) | — · [Demo](https://verselight-daily-2026.web.app/) | Kotlin |  |
 | [warmword](https://github.com/chartmann1590/warmword) | WarmWord — an on-device AI mental health companion (Android, Compose, Gemma) | Kotlin |  |
 
-## 🌐 Web Applications (22)
+## 🌐 Web Applications (23)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
@@ -87,6 +87,7 @@
 | [cognizant](https://github.com/chartmann1590/cognizant) | Peer-powered understanding engine - a unique PWA where you learn by teaching AI students | JavaScript |  |
 | [family-guardian](https://github.com/chartmann1590/family-guardian) | Self-hosted family safety platform | JavaScript |  |
 | [Family-Tracker](https://github.com/chartmann1590/Family-Tracker) | A self hosted family tracking app similar to life360 | TypeScript |  |
+| [homelab-the-right-way](https://github.com/chartmann1590/homelab-the-right-way) | Homelab the Right Way — practical Proxmox, OPNsense, Home Assistant and backup guides. Blog + link tree. · [Demo](https://chartmann1590.github.io/homelab-the-right-way/) | HTML |  |
 | [journal-ai](https://github.com/chartmann1590/journal-ai) | An online Journaling Platform that Leverages AI | JavaScript |  |
 | [kitchen-heritage](https://github.com/chartmann1590/kitchen-heritage) | 🍳 Voice-powered family recipe recorder - Preserve your family flavors, one recipe at a time | JavaScript |  |
 | [Local-News-AI](https://github.com/chartmann1590/Local-News-AI) | A simple local news and weather ai for home use. | HTML |  |
@@ -175,6 +176,6 @@ If you find my projects useful, consider buying me a coffee!
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
 </a>
 
-*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-10-10*
+*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-10-11*
 
 </div>
