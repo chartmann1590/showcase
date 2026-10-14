@@ -1,20 +1,20 @@
 {
-  "updated": "2026-10-13",
+  "updated": "2026-10-14",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
     "bio": "👋 Hi, I'm Charles! A versatile programmer specializing in Python, Flask, and automation. I enjoy crafting web applications, smart home integrations, and innova",
     "avatar_url": "https://avatars.githubusercontent.com/u/73352603?v=4",
     "html_url": "https://github.com/chartmann1590",
-    "public_repos": 122,
+    "public_repos": 123,
     "followers": 8
   },
   "stats": {
-    "total": 90,
-    "total_stars": 120,
+    "total": 91,
+    "total_stars": 121,
     "by_category": {
       "android": 35,
-      "web": 23,
+      "web": 24,
       "ai": 2,
       "game": 7,
       "python": 17,
@@ -74,7 +74,7 @@
       "forks": 3,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-07",
+      "pushed_at": "2026-10-13",
       "created_at": "2026-04-10"
     },
     {
@@ -100,7 +100,7 @@
       "forks": 0,
       "topics": [],
       "category": "ai",
-      "pushed_at": "2026-10-08",
+      "pushed_at": "2026-10-13",
       "created_at": "2026-01-06"
     },
     {
@@ -169,6 +169,19 @@
       "created_at": "2026-07-19"
     },
     {
+      "name": "Pocket-Assistant",
+      "description": "Local-first Android AI assistant — OCR, on-device LLM, semantic search, tasks & reminders",
+      "url": "https://github.com/chartmann1590/Pocket-Assistant",
+      "homepage": "https://chartmann1590.github.io/Pocket-Assistant/",
+      "language": "Kotlin",
+      "stars": 2,
+      "forks": 0,
+      "topics": [],
+      "category": "android",
+      "pushed_at": "2026-10-08",
+      "created_at": "2026-03-23"
+    },
+    {
       "name": "aria-assistant",
       "description": "Fully on-device AI voice assistant for Android — Gemma 4, Whisper STT, Piper TTS. No cloud. No tracking.",
       "url": "https://github.com/chartmann1590/aria-assistant",
@@ -215,7 +228,7 @@
         "weight-tracking"
       ],
       "category": "android",
-      "pushed_at": "2026-10-09",
+      "pushed_at": "2026-10-13",
       "created_at": "2026-09-29"
     },
     {
@@ -272,19 +285,6 @@
       "category": "python",
       "pushed_at": "2025-12-31",
       "created_at": "2025-12-31"
-    },
-    {
-      "name": "Pocket-Assistant",
-      "description": "Local-first Android AI assistant — OCR, on-device LLM, semantic search, tasks & reminders",
-      "url": "https://github.com/chartmann1590/Pocket-Assistant",
-      "homepage": "https://chartmann1590.github.io/Pocket-Assistant/",
-      "language": "Kotlin",
-      "stars": 1,
-      "forks": 0,
-      "topics": [],
-      "category": "android",
-      "pushed_at": "2026-10-08",
-      "created_at": "2026-03-23"
     },
     {
       "name": "skypulse-android",
@@ -661,7 +661,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-10-12",
+      "pushed_at": "2026-10-13",
       "created_at": "2026-04-18"
     },
     {
@@ -687,7 +687,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-10-12",
+      "pushed_at": "2026-10-14",
       "created_at": "2026-10-10"
     },
     {
@@ -821,6 +821,19 @@
       "created_at": "2026-09-17"
     },
     {
+      "name": "nightsay-site",
+      "description": "Website, privacy policy and terms for Nightsay: Snore & Sleep Talk (Android)",
+      "url": "https://github.com/chartmann1590/nightsay-site",
+      "homepage": "https://chartmann1590.github.io/nightsay-site/",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "category": "web",
+      "pushed_at": "2026-10-14",
+      "created_at": "2026-10-14"
+    },
+    {
       "name": "NutriCoach-AI",
       "description": "A simple self hosted ai powered nutrition tracker and coach",
       "url": "https://github.com/chartmann1590/NutriCoach-AI",
@@ -941,7 +954,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-12",
+      "pushed_at": "2026-10-14",
       "created_at": "2026-09-23"
     },
     {
@@ -1045,7 +1058,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-10-12",
+      "pushed_at": "2026-10-13",
       "created_at": "2026-06-10"
     },
     {

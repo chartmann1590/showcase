@@ -6,8 +6,8 @@
 
 **Android apps · AI tools · Web platforms · Python scripts — all open source**
 
-[![Apps](https://img.shields.io/badge/Apps-90-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
-[![Stars](https://img.shields.io/badge/Total_Stars-120-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
+[![Apps](https://img.shields.io/badge/Apps-91-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
+[![Stars](https://img.shields.io/badge/Total_Stars-121-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-☕-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/charleshartmann)
 [![Google Play](https://img.shields.io/badge/Google_Play-Hartmann_Studios-01875f?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Hartmann+Studios)
 
@@ -45,11 +45,11 @@
 | [airgf](https://github.com/chartmann1590/airgf) | AirGF - AI Virtual Companion. On-device AI girlfriend with Gemma 4 LLM, 3D avatars, image sharing, and image generation. · [Demo](https://chartmann1590.github.io/airgf/) | Kotlin | ⭐ 2 |
 | [android-photobooth](https://github.com/chartmann1590/android-photobooth) | Modern Android photobooth app built with Kotlin and Jetpack Compose. Fullscreen photobooth experience with event-specific templates, countdown timer, local saving, optional cloud upload (Immich), SMS/email sharing, gallery, and wireless printing. · [Demo](https://chartmann1590.github.io/android-photobooth/) | Kotlin | ⭐ 2 |
 | [pixeldream](https://github.com/chartmann1590/pixeldream) | PixelDream — on-device AI image generation Android app · [Demo](https://chartmann1590.github.io/pixeldream/) | Kotlin | ⭐ 2 |
+| [Pocket-Assistant](https://github.com/chartmann1590/Pocket-Assistant) | Local-first Android AI assistant — OCR, on-device LLM, semantic search, tasks & reminders · [Demo](https://chartmann1590.github.io/Pocket-Assistant/) | Kotlin | ⭐ 2 |
 | [aria-assistant](https://github.com/chartmann1590/aria-assistant) | Fully on-device AI voice assistant for Android — Gemma 4, Whisper STT, Piper TTS. No cloud. No tracking. · [Demo](https://chartmann1590.github.io/aria-assistant) | Kotlin | ⭐ 1 |
 | [captionburn](https://github.com/chartmann1590/captionburn) | Auto-caption and burn subtitles into videos on-device. Whisper transcription, ML Kit translation, full caption styling. · [Demo](https://chartmann1590.github.io/captionburn) | Kotlin | ⭐ 1 |
 | [dosely](https://github.com/chartmann1590/dosely) | 💉 Private, on-device GLP-1 injection, pen-stock & weight tracker for Android — with an offline AI coach. Coming soon to Google Play. · [Demo](https://chartmann1590.github.io/dosely/) | Kotlin | ⭐ 1 |
 | [ollama-android-client](https://github.com/chartmann1590/ollama-android-client) | Chat with Ollama or run LLMs fully on-device (Gemma, Qwen, DeepSeek, Phi) on Android. Private, open-source, no server required. · [Demo](https://chartmann1590.github.io/ollama-android-client/) | Kotlin | ⭐ 1 |
-| [Pocket-Assistant](https://github.com/chartmann1590/Pocket-Assistant) | Local-first Android AI assistant — OCR, on-device LLM, semantic search, tasks & reminders · [Demo](https://chartmann1590.github.io/Pocket-Assistant/) | Kotlin | ⭐ 1 |
 | [ai-caller](https://github.com/chartmann1590/ai-caller) | Privacy-First Autonomous On-Device AI Phone-Calling Android Agent | Kotlin |  |
 | [auracast-weather](https://github.com/chartmann1590/auracast-weather) | AuraCast Weather — AI-narrated, on-device weather app for Android (Kotlin/Compose). Live radar, Gemma 4 weather podcast, no account needed. · [Demo](https://auracast-weather.web.app) | Kotlin |  |
 | [bluetooth-chat](https://github.com/chartmann1590/bluetooth-chat) | — · [Demo](https://chartmann1590.github.io/bluetooth-chat/) | Kotlin |  |
@@ -75,7 +75,7 @@
 | [verselight-android](https://github.com/chartmann1590/verselight-android) | — · [Demo](https://verselight-daily-2026.web.app/) | Kotlin |  |
 | [warmword](https://github.com/chartmann1590/warmword) | WarmWord — an on-device AI mental health companion (Android, Compose, Gemma) | Kotlin |  |
 
-## 🌐 Web Applications (23)
+## 🌐 Web Applications (24)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
@@ -93,6 +93,7 @@
 | [Local-News-AI](https://github.com/chartmann1590/Local-News-AI) | A simple local news and weather ai for home use. | HTML |  |
 | [Meeting-Notes](https://github.com/chartmann1590/Meeting-Notes) | An AI powered meeting notes web app | JavaScript |  |
 | [Meeting-Notes-App](https://github.com/chartmann1590/Meeting-Notes-App) | Meeting Notes App | TypeScript |  |
+| [nightsay-site](https://github.com/chartmann1590/nightsay-site) | Website, privacy policy and terms for Nightsay: Snore & Sleep Talk (Android) · [Demo](https://chartmann1590.github.io/nightsay-site/) | HTML |  |
 | [octopulse](https://github.com/chartmann1590/octopulse) | OctoPulse — Beautiful OctoPrint companion for Android (auto-discovery, 1-click pairing, camera, G-code 2D/3D). Coming soon to Google Play. Contains ads. Website + Privacy Policy on GitHub Pages. · [Demo](https://chartmann1590.github.io/octopulse/) | TypeScript |  |
 | [party-quips](https://github.com/chartmann1590/party-quips) | A Jackbox-style party game platform — play together on TV and phones · [Demo](https://chartmann1590.github.io/party-quips/) | TypeScript |  |
 | [shipmate-cruise-social](https://github.com/chartmann1590/shipmate-cruise-social) | — | JavaScript |  |
@@ -176,6 +177,6 @@ If you find my projects useful, consider buying me a coffee!
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
 </a>
 
-*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-10-13*
+*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-10-14*
 
 </div>
