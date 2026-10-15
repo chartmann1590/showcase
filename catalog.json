@@ -1,20 +1,20 @@
 {
-  "updated": "2026-10-14",
+  "updated": "2026-10-15",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
     "bio": "👋 Hi, I'm Charles! A versatile programmer specializing in Python, Flask, and automation. I enjoy crafting web applications, smart home integrations, and innova",
     "avatar_url": "https://avatars.githubusercontent.com/u/73352603?v=4",
     "html_url": "https://github.com/chartmann1590",
-    "public_repos": 123,
+    "public_repos": 125,
     "followers": 8
   },
   "stats": {
-    "total": 91,
-    "total_stars": 121,
+    "total": 93,
+    "total_stars": 123,
     "by_category": {
       "android": 35,
-      "web": 24,
+      "web": 26,
       "ai": 2,
       "game": 7,
       "python": 17,
@@ -70,11 +70,11 @@
       "url": "https://github.com/chartmann1590/LiveTranscribe-Android",
       "homepage": "https://chartmann1590.github.io/LiveTranscribe-Android/",
       "language": "Kotlin",
-      "stars": 10,
+      "stars": 12,
       "forks": 3,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-13",
+      "pushed_at": "2026-10-14",
       "created_at": "2026-04-10"
     },
     {
@@ -296,7 +296,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-10-07",
+      "pushed_at": "2026-10-14",
       "created_at": "2026-06-02"
     },
     {
@@ -462,7 +462,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-10-12",
+      "pushed_at": "2026-10-14",
       "created_at": "2026-04-15"
     },
     {
@@ -661,7 +661,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-10-13",
+      "pushed_at": "2026-10-14",
       "created_at": "2026-04-18"
     },
     {
@@ -919,6 +919,19 @@
       "created_at": "2025-12-28"
     },
     {
+      "name": "pawdub-site",
+      "description": "Website, privacy policy and support for Pawdub, the Android app that gives your pet subtitles.",
+      "url": "https://github.com/chartmann1590/pawdub-site",
+      "homepage": "https://chartmann1590.github.io/pawdub-site/",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "category": "web",
+      "pushed_at": "2026-10-15",
+      "created_at": "2026-10-15"
+    },
+    {
       "name": "Photobooth",
       "description": "A simple web based photobooth designed for a raspberry pi 3b with cups and tts",
       "url": "https://github.com/chartmann1590/Photobooth",
@@ -954,7 +967,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-14",
+      "pushed_at": "2026-10-15",
       "created_at": "2026-09-23"
     },
     {
@@ -1023,6 +1036,19 @@
       "created_at": "2026-08-12"
     },
     {
+      "name": "shapeshade-site",
+      "description": "Website, privacy policy and terms for Shape & Shade: Face Shape (Android)",
+      "url": "https://github.com/chartmann1590/shapeshade-site",
+      "homepage": "https://chartmann1590.github.io/shapeshade-site/",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "category": "web",
+      "pushed_at": "2026-10-14",
+      "created_at": "2026-10-14"
+    },
+    {
       "name": "shards-of-eldoria",
       "description": "Shards of Eldoria - A fantasy turn-based RPG built with React Native + Expo",
       "url": "https://github.com/chartmann1590/shards-of-eldoria",
@@ -1058,7 +1084,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-10-13",
+      "pushed_at": "2026-10-14",
       "created_at": "2026-06-10"
     },
     {
