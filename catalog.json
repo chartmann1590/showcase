@@ -1,25 +1,25 @@
 {
-  "updated": "2026-10-15",
+  "updated": "2026-10-16",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
     "bio": "👋 Hi, I'm Charles! A versatile programmer specializing in Python, Flask, and automation. I enjoy crafting web applications, smart home integrations, and innova",
     "avatar_url": "https://avatars.githubusercontent.com/u/73352603?v=4",
     "html_url": "https://github.com/chartmann1590",
-    "public_repos": 125,
+    "public_repos": 126,
     "followers": 8
   },
   "stats": {
-    "total": 93,
-    "total_stars": 123,
+    "total": 94,
+    "total_stars": 124,
     "by_category": {
-      "android": 35,
-      "web": 26,
+      "android": 34,
+      "web": 27,
       "ai": 2,
-      "game": 7,
-      "python": 17,
-      "other": 2,
-      "iot": 4
+      "game": 9,
+      "python": 16,
+      "iot": 5,
+      "other": 1
     }
   },
   "showcase_url": "https://chartmann1590.github.io/showcase",
@@ -33,7 +33,14 @@
       "language": "Kotlin",
       "stars": 38,
       "forks": 9,
-      "topics": [],
+      "topics": [
+        "android",
+        "maps",
+        "navigation",
+        "rokid",
+        "smart-glasses",
+        "wearable"
+      ],
       "category": "android",
       "pushed_at": "2026-07-21",
       "created_at": "2026-02-28"
@@ -70,9 +77,18 @@
       "url": "https://github.com/chartmann1590/LiveTranscribe-Android",
       "homepage": "https://chartmann1590.github.io/LiveTranscribe-Android/",
       "language": "Kotlin",
-      "stars": 12,
+      "stars": 13,
       "forks": 3,
-      "topics": [],
+      "topics": [
+        "accessibility",
+        "android",
+        "kotlin",
+        "offline",
+        "on-device-ai",
+        "speech-to-text",
+        "transcription",
+        "whisper"
+      ],
       "category": "android",
       "pushed_at": "2026-10-14",
       "created_at": "2026-04-10"
@@ -85,9 +101,17 @@
       "language": "Kotlin",
       "stars": 4,
       "forks": 2,
-      "topics": [],
+      "topics": [
+        "android",
+        "camera",
+        "dashcam",
+        "gps",
+        "jetpack-compose",
+        "kotlin",
+        "privacy"
+      ],
       "category": "android",
-      "pushed_at": "2026-10-08",
+      "pushed_at": "2026-10-15",
       "created_at": "2026-06-08"
     },
     {
@@ -100,7 +124,7 @@
       "forks": 0,
       "topics": [],
       "category": "ai",
-      "pushed_at": "2026-10-13",
+      "pushed_at": "2026-10-15",
       "created_at": "2026-01-06"
     },
     {
@@ -111,9 +135,17 @@
       "language": "Kotlin",
       "stars": 2,
       "forks": 1,
-      "topics": [],
+      "topics": [
+        "ai-companion",
+        "android",
+        "chatbot",
+        "gemma",
+        "kotlin",
+        "offline-ai",
+        "on-device-ai"
+      ],
       "category": "android",
-      "pushed_at": "2026-10-08",
+      "pushed_at": "2026-10-15",
       "created_at": "2026-05-27"
     },
     {
@@ -124,7 +156,13 @@
       "language": "Kotlin",
       "stars": 2,
       "forks": 0,
-      "topics": [],
+      "topics": [
+        "android",
+        "camera",
+        "jetpack-compose",
+        "kotlin",
+        "photobooth"
+      ],
       "category": "android",
       "pushed_at": "2026-10-12",
       "created_at": "2026-03-02"
@@ -150,7 +188,14 @@
       "language": "Kotlin",
       "stars": 2,
       "forks": 0,
-      "topics": [],
+      "topics": [
+        "android",
+        "aquarium",
+        "cozy-game",
+        "game",
+        "kotlin",
+        "virtual-pet"
+      ],
       "category": "game",
       "pushed_at": "2026-10-08",
       "created_at": "2026-01-02"
@@ -163,9 +208,17 @@
       "language": "Kotlin",
       "stars": 2,
       "forks": 0,
-      "topics": [],
+      "topics": [
+        "android",
+        "image-generation",
+        "kotlin",
+        "offline-ai",
+        "on-device-ai",
+        "privacy",
+        "stable-diffusion"
+      ],
       "category": "android",
-      "pushed_at": "2026-10-12",
+      "pushed_at": "2026-10-15",
       "created_at": "2026-07-19"
     },
     {
@@ -176,7 +229,17 @@
       "language": "Kotlin",
       "stars": 2,
       "forks": 0,
-      "topics": [],
+      "topics": [
+        "android",
+        "jetpack-compose",
+        "kotlin",
+        "llm",
+        "local-first",
+        "ocr",
+        "offline-ai",
+        "on-device-ai",
+        "privacy"
+      ],
       "category": "android",
       "pushed_at": "2026-10-08",
       "created_at": "2026-03-23"
@@ -188,8 +251,17 @@
       "homepage": "https://chartmann1590.github.io/aria-assistant",
       "language": "Kotlin",
       "stars": 1,
-      "forks": 0,
-      "topics": [],
+      "forks": 1,
+      "topics": [
+        "android",
+        "gemma",
+        "kotlin",
+        "offline-ai",
+        "on-device-ai",
+        "privacy",
+        "voice-assistant",
+        "whisper"
+      ],
       "category": "android",
       "pushed_at": "2026-10-08",
       "created_at": "2026-06-26"
@@ -202,7 +274,16 @@
       "language": "Kotlin",
       "stars": 1,
       "forks": 0,
-      "topics": [],
+      "topics": [
+        "android",
+        "captions",
+        "ffmpeg",
+        "offline",
+        "on-device-ai",
+        "subtitles",
+        "video",
+        "whisper"
+      ],
       "category": "android",
       "pushed_at": "2026-10-12",
       "created_at": "2026-05-07"
@@ -239,7 +320,13 @@
       "language": "Kotlin",
       "stars": 1,
       "forks": 0,
-      "topics": [],
+      "topics": [
+        "android",
+        "game",
+        "kotlin",
+        "on-device-ai",
+        "simulation"
+      ],
       "category": "game",
       "pushed_at": "2026-08-13",
       "created_at": "2026-05-07"
@@ -294,7 +381,14 @@
       "language": "HTML",
       "stars": 1,
       "forks": 0,
-      "topics": [],
+      "topics": [
+        "adsb",
+        "aircraft-tracker",
+        "android",
+        "flight-tracker",
+        "jetpack-compose",
+        "kotlin"
+      ],
       "category": "web",
       "pushed_at": "2026-10-14",
       "created_at": "2026-06-02"
@@ -335,7 +429,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-08",
+      "pushed_at": "2026-10-15",
       "created_at": "2026-09-18"
     },
     {
@@ -384,7 +478,7 @@
         "rpg"
       ],
       "category": "game",
-      "pushed_at": "2026-10-11",
+      "pushed_at": "2026-10-15",
       "created_at": "2026-08-30"
     },
     {
@@ -395,9 +489,15 @@
       "language": "Kotlin",
       "stars": 0,
       "forks": 0,
-      "topics": [],
+      "topics": [
+        "android",
+        "jetpack-compose",
+        "kotlin",
+        "on-device-ai",
+        "weather"
+      ],
       "category": "android",
-      "pushed_at": "2026-10-07",
+      "pushed_at": "2026-10-15",
       "created_at": "2026-08-27"
     },
     {
@@ -423,7 +523,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-07",
+      "pushed_at": "2026-10-15",
       "created_at": "2026-07-05"
     },
     {
@@ -436,7 +536,7 @@
       "forks": 0,
       "topics": [],
       "category": "game",
-      "pushed_at": "2026-10-07",
+      "pushed_at": "2026-10-15",
       "created_at": "2025-11-16"
     },
     {
@@ -462,7 +562,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-10-14",
+      "pushed_at": "2026-10-15",
       "created_at": "2026-04-15"
     },
     {
@@ -473,9 +573,15 @@
       "language": "Python",
       "stars": 0,
       "forks": 0,
-      "topics": [],
+      "topics": [
+        "church",
+        "docker",
+        "self-hosted",
+        "slides",
+        "web-app"
+      ],
       "category": "python",
-      "pushed_at": "2026-10-07",
+      "pushed_at": "2026-10-15",
       "created_at": "2026-01-07"
     },
     {
@@ -499,9 +605,16 @@
       "language": "Kotlin",
       "stars": 0,
       "forks": 0,
-      "topics": [],
+      "topics": [
+        "android",
+        "crowdsourcing",
+        "jetpack-compose",
+        "kotlin",
+        "open-source",
+        "public-transit"
+      ],
       "category": "android",
-      "pushed_at": "2026-10-08",
+      "pushed_at": "2026-10-15",
       "created_at": "2026-06-30"
     },
     {
@@ -536,7 +649,13 @@
       "language": "Kotlin",
       "stars": 0,
       "forks": 0,
-      "topics": [],
+      "topics": [
+        "android",
+        "cruise",
+        "jetpack-compose",
+        "kotlin",
+        "price-tracker"
+      ],
       "category": "android",
       "pushed_at": "2026-10-07",
       "created_at": "2026-09-08"
@@ -562,8 +681,15 @@
       "language": "Python",
       "stars": 0,
       "forks": 0,
-      "topics": [],
-      "category": "python",
+      "topics": [
+        "camera",
+        "doorbell",
+        "homelab",
+        "privacy",
+        "raspberry-pi",
+        "self-hosted"
+      ],
+      "category": "iot",
       "pushed_at": "2026-10-07",
       "created_at": "2026-10-07"
     },
@@ -575,7 +701,15 @@
       "language": "Kotlin",
       "stars": 0,
       "forks": 0,
-      "topics": [],
+      "topics": [
+        "android",
+        "dream-journal",
+        "journal",
+        "kotlin",
+        "offline-ai",
+        "on-device-ai",
+        "privacy"
+      ],
       "category": "android",
       "pushed_at": "2026-10-12",
       "created_at": "2026-04-27"
@@ -588,7 +722,14 @@
       "language": "JavaScript",
       "stars": 0,
       "forks": 1,
-      "topics": [],
+      "topics": [
+        "docker",
+        "family-safety",
+        "homelab",
+        "location-tracking",
+        "privacy",
+        "self-hosted"
+      ],
       "category": "web",
       "pushed_at": "2026-10-08",
       "created_at": "2026-05-18"
@@ -601,9 +742,16 @@
       "language": "TypeScript",
       "stars": 0,
       "forks": 0,
-      "topics": [],
+      "topics": [
+        "docker",
+        "family",
+        "homelab",
+        "life360-alternative",
+        "location-tracking",
+        "self-hosted"
+      ],
       "category": "web",
-      "pushed_at": "2026-10-07",
+      "pushed_at": "2026-10-15",
       "created_at": "2025-11-30"
     },
     {
@@ -614,10 +762,29 @@
       "language": "",
       "stars": 0,
       "forks": 0,
-      "topics": [],
+      "topics": [
+        "docker",
+        "fantasy-football",
+        "homelab",
+        "nfl",
+        "self-hosted"
+      ],
       "category": "other",
       "pushed_at": "2025-09-01",
       "created_at": "2025-09-01"
+    },
+    {
+      "name": "fieldkey-site",
+      "description": "Website, privacy policy, terms and data deletion page for Fieldkey: Plant Rock Coin ID (Android).",
+      "url": "https://github.com/chartmann1590/fieldkey-site",
+      "homepage": "https://chartmann1590.github.io/fieldkey-site/",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "category": "web",
+      "pushed_at": "2026-10-15",
+      "created_at": "2026-10-15"
     },
     {
       "name": "Flashlight",
@@ -646,7 +813,13 @@
       "language": "Kotlin",
       "stars": 0,
       "forks": 0,
-      "topics": [],
+      "topics": [
+        "android",
+        "kotlin",
+        "pomodoro",
+        "productivity",
+        "task-manager"
+      ],
       "category": "android",
       "pushed_at": "2026-10-07",
       "created_at": "2026-04-19"
@@ -661,8 +834,21 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-10-14",
+      "pushed_at": "2026-10-15",
       "created_at": "2026-04-18"
+    },
+    {
+      "name": "gizmo-gunners-site",
+      "description": "Website for Gizmo Gunners: Toon Bot Shooter, an offline cartoon shooter for Android by Hartmann Studios",
+      "url": "https://github.com/chartmann1590/gizmo-gunners-site",
+      "homepage": "https://chartmann1590.github.io/gizmo-gunners-site/",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "category": "web",
+      "pushed_at": "2026-10-15",
+      "created_at": "2026-10-15"
     },
     {
       "name": "GrocyFridgeScanner",
@@ -672,7 +858,15 @@
       "language": "Kotlin",
       "stars": 0,
       "forks": 0,
-      "topics": [],
+      "topics": [
+        "android",
+        "barcode-scanner",
+        "grocy",
+        "inventory",
+        "kotlin",
+        "on-device-ai",
+        "self-hosted"
+      ],
       "category": "android",
       "pushed_at": "2026-10-07",
       "created_at": "2026-05-27"
@@ -685,9 +879,23 @@
       "language": "HTML",
       "stars": 0,
       "forks": 0,
-      "topics": [],
-      "category": "web",
-      "pushed_at": "2026-10-14",
+      "topics": [
+        "android",
+        "backup",
+        "blog",
+        "ebook",
+        "esp32",
+        "github-pages",
+        "home-assistant",
+        "home-network",
+        "homelab",
+        "opnsense",
+        "proxmox",
+        "self-hosted",
+        "selfhosted"
+      ],
+      "category": "iot",
+      "pushed_at": "2026-10-15",
       "created_at": "2026-10-10"
     },
     {
@@ -700,7 +908,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-10-08",
+      "pushed_at": "2026-10-15",
       "created_at": "2025-10-29"
     },
     {
@@ -724,8 +932,15 @@
       "language": "Kotlin",
       "stars": 0,
       "forks": 0,
-      "topics": [],
-      "category": "android",
+      "topics": [
+        "android",
+        "chess",
+        "game",
+        "jetpack-compose",
+        "kotlin",
+        "stockfish"
+      ],
+      "category": "game",
       "pushed_at": "2026-10-07",
       "created_at": "2026-06-10"
     },
@@ -739,7 +954,7 @@
       "forks": 0,
       "topics": [],
       "category": "iot",
-      "pushed_at": "2026-10-08",
+      "pushed_at": "2026-10-15",
       "created_at": "2026-01-13"
     },
     {
@@ -802,7 +1017,15 @@
       "language": "Python",
       "stars": 0,
       "forks": 0,
-      "topics": [],
+      "topics": [
+        "docker",
+        "homelab",
+        "llm",
+        "mumble",
+        "ollama",
+        "self-hosted",
+        "voice-bot"
+      ],
       "category": "python",
       "pushed_at": "2026-10-08",
       "created_at": "2025-10-01"
@@ -817,7 +1040,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-08",
+      "pushed_at": "2026-10-15",
       "created_at": "2026-09-17"
     },
     {
@@ -828,7 +1051,14 @@
       "language": "HTML",
       "stars": 0,
       "forks": 0,
-      "topics": [],
+      "topics": [
+        "android",
+        "android-app",
+        "github-pages",
+        "on-device-ai",
+        "sleep",
+        "snoring"
+      ],
       "category": "web",
       "pushed_at": "2026-10-14",
       "created_at": "2026-10-14"
@@ -841,7 +1071,14 @@
       "language": "Python",
       "stars": 0,
       "forks": 0,
-      "topics": [],
+      "topics": [
+        "ai",
+        "docker",
+        "homelab",
+        "nutrition",
+        "ollama",
+        "self-hosted"
+      ],
       "category": "python",
       "pushed_at": "2026-10-07",
       "created_at": "2025-08-30"
@@ -854,9 +1091,17 @@
       "language": "Kotlin",
       "stars": 0,
       "forks": 0,
-      "topics": [],
+      "topics": [
+        "android",
+        "calorie-tracker",
+        "kotlin",
+        "nutrition",
+        "offline-ai",
+        "on-device-ai",
+        "privacy"
+      ],
       "category": "android",
-      "pushed_at": "2026-10-07",
+      "pushed_at": "2026-10-15",
       "created_at": "2026-06-27"
     },
     {
@@ -867,7 +1112,15 @@
       "language": "TypeScript",
       "stars": 0,
       "forks": 0,
-      "topics": [],
+      "topics": [
+        "3d-printing",
+        "android",
+        "companion-app",
+        "jetpack-compose",
+        "kotlin",
+        "octoprint",
+        "self-hosted"
+      ],
       "category": "web",
       "pushed_at": "2026-10-08",
       "created_at": "2026-08-31"
@@ -926,7 +1179,14 @@
       "language": "HTML",
       "stars": 0,
       "forks": 0,
-      "topics": [],
+      "topics": [
+        "android",
+        "android-app",
+        "github-pages",
+        "on-device-ai",
+        "pets",
+        "privacy-policy"
+      ],
       "category": "web",
       "pushed_at": "2026-10-15",
       "created_at": "2026-10-15"
@@ -952,9 +1212,16 @@
       "language": "GDScript",
       "stars": 0,
       "forks": 0,
-      "topics": [],
-      "category": "other",
-      "pushed_at": "2026-10-07",
+      "topics": [
+        "android",
+        "cozy-game",
+        "game",
+        "jetpack-compose",
+        "kotlin",
+        "virtual-pet"
+      ],
+      "category": "game",
+      "pushed_at": "2026-10-15",
       "created_at": "2026-09-15"
     },
     {
@@ -967,7 +1234,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-15",
+      "pushed_at": "2026-10-16",
       "created_at": "2026-09-23"
     },
     {
@@ -978,7 +1245,14 @@
       "language": "Kotlin",
       "stars": 0,
       "forks": 0,
-      "topics": [],
+      "topics": [
+        "android",
+        "barcode-scanner",
+        "jetpack-compose",
+        "kotlin",
+        "open-source",
+        "qrcode"
+      ],
       "category": "android",
       "pushed_at": "2026-10-08",
       "created_at": "2026-06-03"
@@ -991,23 +1265,17 @@
       "language": "Python",
       "stars": 0,
       "forks": 0,
-      "topics": [],
+      "topics": [
+        "cable-tv",
+        "homelab",
+        "media-server",
+        "python",
+        "raspberry-pi",
+        "self-hosted"
+      ],
       "category": "iot",
       "pushed_at": "2026-10-08",
       "created_at": "2026-09-09"
-    },
-    {
-      "name": "RPI-Dashboard",
-      "description": "My raspberry pi dashbaord written in python flask",
-      "url": "https://github.com/chartmann1590/RPI-Dashboard",
-      "homepage": "",
-      "language": "HTML",
-      "stars": 0,
-      "forks": 0,
-      "topics": [],
-      "category": "iot",
-      "pushed_at": "2026-10-07",
-      "created_at": "2025-12-02"
     },
     {
       "name": "ScamRadar",
@@ -1017,7 +1285,15 @@
       "language": "Kotlin",
       "stars": 0,
       "forks": 0,
-      "topics": [],
+      "topics": [
+        "android",
+        "kotlin",
+        "on-device-ai",
+        "phishing",
+        "privacy",
+        "scam-detection",
+        "security"
+      ],
       "category": "android",
       "pushed_at": "2026-10-13",
       "created_at": "2026-05-28"
@@ -1032,7 +1308,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-08",
+      "pushed_at": "2026-10-15",
       "created_at": "2026-08-12"
     },
     {
@@ -1043,7 +1319,13 @@
       "language": "HTML",
       "stars": 0,
       "forks": 0,
-      "topics": [],
+      "topics": [
+        "android",
+        "android-app",
+        "face-shape",
+        "github-pages",
+        "on-device-ai"
+      ],
       "category": "web",
       "pushed_at": "2026-10-14",
       "created_at": "2026-10-14"
@@ -1058,7 +1340,7 @@
       "forks": 0,
       "topics": [],
       "category": "game",
-      "pushed_at": "2026-05-25",
+      "pushed_at": "2026-10-15",
       "created_at": "2026-05-25"
     },
     {
@@ -1082,9 +1364,17 @@
       "language": "Python",
       "stars": 0,
       "forks": 0,
-      "topics": [],
+      "topics": [
+        "android",
+        "android-apps",
+        "github-pages",
+        "jetpack-compose",
+        "kotlin",
+        "on-device-ai",
+        "portfolio"
+      ],
       "category": "python",
-      "pushed_at": "2026-10-14",
+      "pushed_at": "2026-10-15",
       "created_at": "2026-06-10"
     },
     {
@@ -1108,7 +1398,13 @@
       "language": "Java",
       "stars": 0,
       "forks": 0,
-      "topics": [],
+      "topics": [
+        "android",
+        "arcade",
+        "game",
+        "kotlin",
+        "space-shooter"
+      ],
       "category": "game",
       "pushed_at": "2026-07-21",
       "created_at": "2026-04-20"
@@ -1155,7 +1451,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-06-25",
+      "pushed_at": "2026-10-15",
       "created_at": "2026-05-10"
     },
     {
@@ -1168,7 +1464,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-11",
+      "pushed_at": "2026-10-15",
       "created_at": "2026-09-20"
     },
     {
@@ -1192,7 +1488,16 @@
       "language": "HTML",
       "stars": 0,
       "forks": 0,
-      "topics": [],
+      "topics": [
+        "android",
+        "audio-guide",
+        "gps",
+        "kotlin",
+        "offline-first",
+        "on-device-ai",
+        "road-trip",
+        "travel"
+      ],
       "category": "web",
       "pushed_at": "2026-10-12",
       "created_at": "2026-06-02"
@@ -1207,7 +1512,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-08",
+      "pushed_at": "2026-10-15",
       "created_at": "2026-08-19"
     },
     {
@@ -1231,7 +1536,15 @@
       "language": "Kotlin",
       "stars": 0,
       "forks": 0,
-      "topics": [],
+      "topics": [
+        "android",
+        "journal",
+        "kotlin",
+        "mental-health",
+        "offline-ai",
+        "on-device-ai",
+        "privacy"
+      ],
       "category": "android",
       "pushed_at": "2026-08-20",
       "created_at": "2026-08-16"

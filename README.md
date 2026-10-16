@@ -6,8 +6,8 @@
 
 **Android apps · AI tools · Web platforms · Python scripts — all open source**
 
-[![Apps](https://img.shields.io/badge/Apps-93-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
-[![Stars](https://img.shields.io/badge/Total_Stars-123-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
+[![Apps](https://img.shields.io/badge/Apps-94-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
+[![Stars](https://img.shields.io/badge/Total_Stars-124-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-☕-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/charleshartmann)
 [![Google Play](https://img.shields.io/badge/Google_Play-Hartmann_Studios-01875f?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Hartmann+Studios)
 
@@ -29,18 +29,18 @@
 | [Rokid-Maps](https://github.com/chartmann1590/Rokid-Maps) | a standalone app for rokid ai glasses that is used for displaying map and directions on the glasses · [Live](https://chartmann1590.github.io/Rokid-Maps/) | ⭐ 38 |
 | [VowVault](https://github.com/chartmann1590/VowVault) | A beautiful, modern wedding photo gallery and guestbook with SSO authentication, PWA support, and comprehensive admin tools. · [Live](https://chartmann1590.github.io/VowVault/) | ⭐ 28 |
 | [bee-ai-web](https://github.com/chartmann1590/bee-ai-web) | A web interface for the Bee AI that uses your api key | ⭐ 20 |
-| [LiveTranscribe-Android](https://github.com/chartmann1590/LiveTranscribe-Android) | Live android transcription app · [Live](https://chartmann1590.github.io/LiveTranscribe-Android/) | ⭐ 12 |
+| [LiveTranscribe-Android](https://github.com/chartmann1590/LiveTranscribe-Android) | Live android transcription app · [Live](https://chartmann1590.github.io/LiveTranscribe-Android/) | ⭐ 13 |
 | [DriveVault](https://github.com/chartmann1590/DriveVault) | Privacy-first dashcam app for Android. Record drives with GPS overlays, dual-camera support, and full control over your data. · [Live](https://chartmann1590.github.io/DriveVault/) | ⭐ 4 |
 | [AI-Social](https://github.com/chartmann1590/AI-Social) | A React Native + Expo app that simulates a social media experience powered by a local Ollama model. · [Live](https://chartmann1590.github.io/AI-Social/) | ⭐ 2 |
 
 ---
 
-## 📱 Android Apps (35)
+## 📱 Android Apps (34)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
 | [Rokid-Maps](https://github.com/chartmann1590/Rokid-Maps) | a standalone app for rokid ai glasses that is used for displaying map and directions on the glasses · [Demo](https://chartmann1590.github.io/Rokid-Maps/) | Kotlin | ⭐ 38 |
-| [LiveTranscribe-Android](https://github.com/chartmann1590/LiveTranscribe-Android) | Live android transcription app · [Demo](https://chartmann1590.github.io/LiveTranscribe-Android/) | Kotlin | ⭐ 12 |
+| [LiveTranscribe-Android](https://github.com/chartmann1590/LiveTranscribe-Android) | Live android transcription app · [Demo](https://chartmann1590.github.io/LiveTranscribe-Android/) | Kotlin | ⭐ 13 |
 | [DriveVault](https://github.com/chartmann1590/DriveVault) | Privacy-first dashcam app for Android. Record drives with GPS overlays, dual-camera support, and full control over your data. · [Demo](https://chartmann1590.github.io/DriveVault/) | Kotlin | ⭐ 4 |
 | [airgf](https://github.com/chartmann1590/airgf) | AirGF - AI Virtual Companion. On-device AI girlfriend with Gemma 4 LLM, 3D avatars, image sharing, and image generation. · [Demo](https://chartmann1590.github.io/airgf/) | Kotlin | ⭐ 2 |
 | [android-photobooth](https://github.com/chartmann1590/android-photobooth) | Modern Android photobooth app built with Kotlin and Jetpack Compose. Fullscreen photobooth experience with event-specific templates, countdown timer, local saving, optional cloud upload (Immich), SMS/email sharing, gallery, and wireless printing. · [Demo](https://chartmann1590.github.io/android-photobooth/) | Kotlin | ⭐ 2 |
@@ -60,7 +60,6 @@
 | [Flashlight](https://github.com/chartmann1590/Flashlight) | Modern Android flashlight app with real-device screenshots, signed release CI, and ads-enabled release guard. · [Demo](https://chartmann1590.github.io/Flashlight/) | Kotlin |  |
 | [FocusFlow](https://github.com/chartmann1590/FocusFlow) | FocusFlow - Pomodoro Timer and Task Manager for Android. Boost productivity with focus tracking, stats and daily goals. Website: https://chartmann1590.github.io/FocusFlow | Kotlin |  |
 | [GrocyFridgeScanner](https://github.com/chartmann1590/GrocyFridgeScanner) | AI-powered fridge & cupboard inventory scanner for Grocy — uses on-device Gemma 4 E2B to detect food items and sync inventory changes · [Demo](https://chartmann1590.github.io/GrocyFridgeScanner/) | Kotlin |  |
-| [knightfall](https://github.com/chartmann1590/knightfall) | Beautiful chess for Android - play a grandmaster-strength AI with an on-device coach, battle friends online, climb the leaderboard · [Demo](https://chartmann1590.github.io/knightfall/) | Kotlin |  |
 | [neighborhood-safe-street](https://github.com/chartmann1590/neighborhood-safe-street) | Worldwide Local Public Safety & Incident Awareness App with Wear OS Companion | Kotlin |  |
 | [nutrisnap](https://github.com/chartmann1590/nutrisnap) | NutriSnap - On-device AI calorie tracker for Android. Private, offline, and free. · [Demo](https://chartmann1590.github.io/nutrisnap/) | Kotlin |  |
 | [owefolk](https://github.com/chartmann1590/owefolk) | Beautiful Firebase-backed Android shared-expense tracking with honest external payment handoff. · [Demo](https://chartmann1590.github.io/owefolk/) | Kotlin |  |
@@ -75,7 +74,7 @@
 | [verselight-android](https://github.com/chartmann1590/verselight-android) | — · [Demo](https://verselight-daily-2026.web.app/) | Kotlin |  |
 | [warmword](https://github.com/chartmann1590/warmword) | WarmWord — an on-device AI mental health companion (Android, Compose, Gemma) | Kotlin |  |
 
-## 🌐 Web Applications (26)
+## 🌐 Web Applications (27)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
@@ -87,7 +86,8 @@
 | [cognizant](https://github.com/chartmann1590/cognizant) | Peer-powered understanding engine - a unique PWA where you learn by teaching AI students | JavaScript |  |
 | [family-guardian](https://github.com/chartmann1590/family-guardian) | Self-hosted family safety platform | JavaScript |  |
 | [Family-Tracker](https://github.com/chartmann1590/Family-Tracker) | A self hosted family tracking app similar to life360 | TypeScript |  |
-| [homelab-the-right-way](https://github.com/chartmann1590/homelab-the-right-way) | Homelab the Right Way — practical Proxmox, OPNsense, Home Assistant and backup guides. Blog + link tree. · [Demo](https://chartmann1590.github.io/homelab-the-right-way/) | HTML |  |
+| [fieldkey-site](https://github.com/chartmann1590/fieldkey-site) | Website, privacy policy, terms and data deletion page for Fieldkey: Plant Rock Coin ID (Android). · [Demo](https://chartmann1590.github.io/fieldkey-site/) | HTML |  |
+| [gizmo-gunners-site](https://github.com/chartmann1590/gizmo-gunners-site) | Website for Gizmo Gunners: Toon Bot Shooter, an offline cartoon shooter for Android by Hartmann Studios · [Demo](https://chartmann1590.github.io/gizmo-gunners-site/) | HTML |  |
 | [journal-ai](https://github.com/chartmann1590/journal-ai) | An online Journaling Platform that Leverages AI | JavaScript |  |
 | [kitchen-heritage](https://github.com/chartmann1590/kitchen-heritage) | 🍳 Voice-powered family recipe recorder - Preserve your family flavors, one recipe at a time | JavaScript |  |
 | [Local-News-AI](https://github.com/chartmann1590/Local-News-AI) | A simple local news and weather ai for home use. | HTML |  |
@@ -113,7 +113,7 @@
 | [AI-Social](https://github.com/chartmann1590/AI-Social) | A React Native + Expo app that simulates a social media experience powered by a local Ollama model. · [Demo](https://chartmann1590.github.io/AI-Social/) | TypeScript | ⭐ 2 |
 | [AI-Character-Chat](https://github.com/chartmann1590/AI-Character-Chat) | A Python Flask-based web application that mimics the functionality of Character.AI, enabling engaging, interactive conversations with AI-driven characters. This project leverages local AI models powered by Ollama for generating dynamic and context-aware interactions. | HTML |  |
 
-## 🐍 Python Tools (17)
+## 🐍 Python Tools (16)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
@@ -124,7 +124,6 @@
 | [chartmann1590.github.io](https://github.com/chartmann1590/chartmann1590.github.io) | Root GitHub Pages site for app-ads.txt | Python |  |
 | [Church-Slides-Studio](https://github.com/chartmann1590/Church-Slides-Studio) | Self-hosted web app that converts bulletin text or documents into 1920x1080 JPG slides. Upload title/content backgrounds, generate slides, and optionally verify them with a remote Ollama vision model. | Python |  |
 | [discord-summarizer](https://github.com/chartmann1590/discord-summarizer) | Flask app that monitors Discord channels and generates AI summaries using Ollama | Python |  |
-| [doorbell-cam](https://github.com/chartmann1590/doorbell-cam) | Know who's at your door — instantly, privately, with no monthly fees. Self-hosted smart doorbell with live view, person and face alerts, and a companion phone app. | Python |  |
 | [freshdesk-email-kb-automation](https://github.com/chartmann1590/freshdesk-email-kb-automation) | Hosted Freshdesk email KB auto-reply workflow for SoulShine support | Python |  |
 | [mls-home-portal](https://github.com/chartmann1590/mls-home-portal) | AI-assisted MLS-style home search portal with Ollama, Scrapling, and saved searches · [Demo](https://chartmann1590.github.io/mls-home-portal/) | Python |  |
 | [Mumble-AI](https://github.com/chartmann1590/Mumble-AI) | A Docker Stack for a mumble speak bot that utilizes ollama, piper and faster-whisper aloing with a web based contol panel. | Python |  |
@@ -135,7 +134,7 @@
 | [Wedding-Outreach](https://github.com/chartmann1590/Wedding-Outreach) | A simple script to automate the process of reaching out to your wedding guests for their address using a CSV upload and Facebook Messenger | Python |  |
 | [YT-Bulk-Downloader](https://github.com/chartmann1590/YT-Bulk-Downloader) | Python based Bulk YT Video donwloader | Python |  |
 
-## 🎮 Games (7)
+## 🎮 Games (9)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
@@ -144,24 +143,26 @@
 | [AI-Chess](https://github.com/chartmann1590/AI-Chess) | A simple python based chess game that uses ollama models to play an opponent  | Python |  |
 | [arcane-dark](https://github.com/chartmann1590/arcane-dark) | Your AI Dungeon Master lives on your phone — solo offline & private, or with up to 5 friends. Coming soon to Google Play for Android. · [Demo](https://chartmann1590.github.io/arcane-dark/) | Dart |  |
 | [Business-Simulator](https://github.com/chartmann1590/Business-Simulator) | A fun Business Simulator game that uses ai to run a business | HTML |  |
+| [knightfall](https://github.com/chartmann1590/knightfall) | Beautiful chess for Android - play a grandmaster-strength AI with an on-device coach, battle friends online, climb the leaderboard · [Demo](https://chartmann1590.github.io/knightfall/) | Kotlin |  |
+| [pocket-kin](https://github.com/chartmann1590/pocket-kin) | Pocket Kin — A cozy storybook virtual-pet game for Android with Wear OS companion, health tracking, and home screen widget · [Demo](https://chartmann1590.github.io/pocket-kin/) | GDScript |  |
 | [shards-of-eldoria](https://github.com/chartmann1590/shards-of-eldoria) | Shards of Eldoria - A fantasy turn-based RPG built with React Native + Expo | TypeScript |  |
 | [SpaceShooter](https://github.com/chartmann1590/SpaceShooter) | A feature-rich space shooter game for Android with boss battles, power-ups, achievements, and multiple game modes. · [Demo](https://chartmann1590.github.io/SpaceShooter) | Java |  |
 
-## 🔧 IoT & Hardware (4)
+## 🔧 IoT & Hardware (5)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
+| [doorbell-cam](https://github.com/chartmann1590/doorbell-cam) | Know who's at your door — instantly, privately, with no monthly fees. Self-hosted smart doorbell with live view, person and face alerts, and a companion phone app. | Python |  |
+| [homelab-the-right-way](https://github.com/chartmann1590/homelab-the-right-way) | Homelab the Right Way — practical Proxmox, OPNsense, Home Assistant and backup guides. Blog + link tree. · [Demo](https://chartmann1590.github.io/homelab-the-right-way/) | HTML |  |
 | [LifeCaptureOS](https://github.com/chartmann1590/LifeCaptureOS) | A production-minded MVP wearable camera system built with ESP32-CAM, Android, and a self-hostable backend with AI analysis. | C |  |
 | [Photobooth](https://github.com/chartmann1590/Photobooth) | A simple web based photobooth designed for a raspberry pi 3b with cups and tts | HTML |  |
 | [retro-tv](https://github.com/chartmann1590/retro-tv) | Raspberry Pi cable-TV simulator for a personal media library · [Demo](https://chartmann1590.github.io/retro-tv/) | Python |  |
-| [RPI-Dashboard](https://github.com/chartmann1590/RPI-Dashboard) | My raspberry pi dashbaord written in python flask | HTML |  |
 
-## ⚙️ Other Projects (2)
+## ⚙️ Other Projects (1)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
 | [FantasyFootball](https://github.com/chartmann1590/FantasyFootball) | A self hosted Fantasy Football (NFL) League Platform |  |  |
-| [pocket-kin](https://github.com/chartmann1590/pocket-kin) | Pocket Kin — A cozy storybook virtual-pet game for Android with Wear OS companion, health tracking, and home screen widget · [Demo](https://chartmann1590.github.io/pocket-kin/) | GDScript |  |
 
 ---
 
@@ -179,6 +180,6 @@ If you find my projects useful, consider buying me a coffee!
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
 </a>
 
-*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-10-15*
+*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-10-16*
 
 </div>
