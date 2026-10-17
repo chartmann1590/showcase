@@ -6,7 +6,7 @@
 
 **Android apps · AI tools · Web platforms · Python scripts — all open source**
 
-[![Apps](https://img.shields.io/badge/Apps-94-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
+[![Apps](https://img.shields.io/badge/Apps-95-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
 [![Stars](https://img.shields.io/badge/Total_Stars-124-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-☕-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/charleshartmann)
 [![Google Play](https://img.shields.io/badge/Google_Play-Hartmann_Studios-01875f?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Hartmann+Studios)
@@ -74,7 +74,7 @@
 | [verselight-android](https://github.com/chartmann1590/verselight-android) | — · [Demo](https://verselight-daily-2026.web.app/) | Kotlin |  |
 | [warmword](https://github.com/chartmann1590/warmword) | WarmWord — an on-device AI mental health companion (Android, Compose, Gemma) | Kotlin |  |
 
-## 🌐 Web Applications (27)
+## 🌐 Web Applications (28)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
@@ -84,6 +84,7 @@
 | [skypulse-android](https://github.com/chartmann1590/skypulse-android) | SkyPulse — native Android live aircraft tracker (Kotlin/Compose) using free open ADS-B data (ADSB.lol + OpenSky) and OpenFlights. No API key, no login. · [Demo](https://chartmann1590.github.io/skypulse-android/) | HTML | ⭐ 1 |
 | [carthing-apps](https://github.com/chartmann1590/carthing-apps) | DeskThing apps for the Spotify CarThing — gas prices, calendar, bus arrivals, traffic, and local news | TypeScript |  |
 | [cognizant](https://github.com/chartmann1590/cognizant) | Peer-powered understanding engine - a unique PWA where you learn by teaching AI students | JavaScript |  |
+| [eventcrew-site](https://github.com/chartmann1590/eventcrew-site) | EventCrew website, privacy policy and support. Keep your group together at concerts and festivals. · [Demo](https://eventcrew.sites.tab.bot/) | HTML |  |
 | [family-guardian](https://github.com/chartmann1590/family-guardian) | Self-hosted family safety platform | JavaScript |  |
 | [Family-Tracker](https://github.com/chartmann1590/Family-Tracker) | A self hosted family tracking app similar to life360 | TypeScript |  |
 | [fieldkey-site](https://github.com/chartmann1590/fieldkey-site) | Website, privacy policy, terms and data deletion page for Fieldkey: Plant Rock Coin ID (Android). · [Demo](https://chartmann1590.github.io/fieldkey-site/) | HTML |  |
@@ -180,6 +181,6 @@ If you find my projects useful, consider buying me a coffee!
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
 </a>
 
-*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-10-16*
+*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-10-17*
 
 </div>

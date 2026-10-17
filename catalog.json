@@ -1,20 +1,20 @@
 {
-  "updated": "2026-10-16",
+  "updated": "2026-10-17",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
     "bio": "👋 Hi, I'm Charles! A versatile programmer specializing in Python, Flask, and automation. I enjoy crafting web applications, smart home integrations, and innova",
     "avatar_url": "https://avatars.githubusercontent.com/u/73352603?v=4",
     "html_url": "https://github.com/chartmann1590",
-    "public_repos": 126,
+    "public_repos": 127,
     "followers": 8
   },
   "stats": {
-    "total": 94,
+    "total": 95,
     "total_stars": 124,
     "by_category": {
       "android": 34,
-      "web": 27,
+      "web": 28,
       "ai": 2,
       "game": 9,
       "python": 16,
@@ -78,7 +78,7 @@
       "homepage": "https://chartmann1590.github.io/LiveTranscribe-Android/",
       "language": "Kotlin",
       "stars": 13,
-      "forks": 3,
+      "forks": 5,
       "topics": [
         "accessibility",
         "android",
@@ -309,7 +309,7 @@
         "weight-tracking"
       ],
       "category": "android",
-      "pushed_at": "2026-10-13",
+      "pushed_at": "2026-10-16",
       "created_at": "2026-09-29"
     },
     {
@@ -562,7 +562,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-10-15",
+      "pushed_at": "2026-10-16",
       "created_at": "2026-04-15"
     },
     {
@@ -715,6 +715,19 @@
       "created_at": "2026-04-27"
     },
     {
+      "name": "eventcrew-site",
+      "description": "EventCrew website, privacy policy and support. Keep your group together at concerts and festivals.",
+      "url": "https://github.com/chartmann1590/eventcrew-site",
+      "homepage": "https://eventcrew.sites.tab.bot/",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "category": "web",
+      "pushed_at": "2026-10-16",
+      "created_at": "2026-10-16"
+    },
+    {
       "name": "family-guardian",
       "description": "Self-hosted family safety platform",
       "url": "https://github.com/chartmann1590/family-guardian",
@@ -834,7 +847,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-10-15",
+      "pushed_at": "2026-10-17",
       "created_at": "2026-04-18"
     },
     {
@@ -895,7 +908,7 @@
         "selfhosted"
       ],
       "category": "iot",
-      "pushed_at": "2026-10-15",
+      "pushed_at": "2026-10-16",
       "created_at": "2026-10-10"
     },
     {
@@ -1234,7 +1247,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-16",
+      "pushed_at": "2026-10-17",
       "created_at": "2026-09-23"
     },
     {
@@ -1374,7 +1387,7 @@
         "portfolio"
       ],
       "category": "python",
-      "pushed_at": "2026-10-15",
+      "pushed_at": "2026-10-16",
       "created_at": "2026-06-10"
     },
     {
@@ -1585,7 +1598,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-10-07",
+      "pushed_at": "2026-10-16",
       "created_at": "2025-11-12"
     },
     {
