@@ -1,20 +1,20 @@
 {
-  "updated": "2026-10-18",
+  "updated": "2026-10-19",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
     "bio": "👋 Hi, I'm Charles! A versatile programmer specializing in Python, Flask, and automation. I enjoy crafting web applications, smart home integrations, and innova",
     "avatar_url": "https://avatars.githubusercontent.com/u/73352603?v=4",
     "html_url": "https://github.com/chartmann1590",
-    "public_repos": 127,
+    "public_repos": 128,
     "followers": 8
   },
   "stats": {
-    "total": 95,
-    "total_stars": 125,
+    "total": 96,
+    "total_stars": 126,
     "by_category": {
       "android": 34,
-      "web": 28,
+      "web": 29,
       "ai": 2,
       "game": 9,
       "python": 16,
@@ -77,7 +77,7 @@
       "url": "https://github.com/chartmann1590/LiveTranscribe-Android",
       "homepage": "https://chartmann1590.github.io/LiveTranscribe-Android/",
       "language": "Kotlin",
-      "stars": 13,
+      "stars": 14,
       "forks": 6,
       "topics": [
         "accessibility",
@@ -661,6 +661,19 @@
       "created_at": "2026-09-08"
     },
     {
+      "name": "daycare-dons-site",
+      "description": "Website, privacy policy and support for Daycare Dons: Diaper Empire, a cartoon 3D caper for Android by Hartmann Studios.",
+      "url": "https://github.com/chartmann1590/daycare-dons-site",
+      "homepage": "https://chartmann1590.github.io/daycare-dons-site/",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "category": "web",
+      "pushed_at": "2026-10-19",
+      "created_at": "2026-10-18"
+    },
+    {
       "name": "discord-summarizer",
       "description": "Flask app that monitors Discord channels and generates AI summaries using Ollama",
       "url": "https://github.com/chartmann1590/discord-summarizer",
@@ -847,7 +860,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-10-17",
+      "pushed_at": "2026-10-18",
       "created_at": "2026-04-18"
     },
     {
@@ -908,7 +921,7 @@
         "selfhosted"
       ],
       "category": "iot",
-      "pushed_at": "2026-10-17",
+      "pushed_at": "2026-10-19",
       "created_at": "2026-10-10"
     },
     {
@@ -1247,7 +1260,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-18",
+      "pushed_at": "2026-10-19",
       "created_at": "2026-09-23"
     },
     {
@@ -1340,7 +1353,7 @@
         "on-device-ai"
       ],
       "category": "web",
-      "pushed_at": "2026-10-14",
+      "pushed_at": "2026-10-18",
       "created_at": "2026-10-14"
     },
     {
@@ -1387,7 +1400,7 @@
         "portfolio"
       ],
       "category": "python",
-      "pushed_at": "2026-10-17",
+      "pushed_at": "2026-10-18",
       "created_at": "2026-06-10"
     },
     {
