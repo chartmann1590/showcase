@@ -1,20 +1,20 @@
 {
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
     "bio": "👋 Hi, I'm Charles! A versatile programmer specializing in Python, Flask, and automation. I enjoy crafting web applications, smart home integrations, and innova",
     "avatar_url": "https://avatars.githubusercontent.com/u/73352603?v=4",
     "html_url": "https://github.com/chartmann1590",
-    "public_repos": 128,
-    "followers": 8
+    "public_repos": 129,
+    "followers": 9
   },
   "stats": {
-    "total": 96,
-    "total_stars": 126,
+    "total": 97,
+    "total_stars": 128,
     "by_category": {
       "android": 34,
-      "web": 29,
+      "web": 30,
       "ai": 2,
       "game": 9,
       "python": 16,
@@ -31,7 +31,7 @@
       "url": "https://github.com/chartmann1590/Rokid-Maps",
       "homepage": "https://chartmann1590.github.io/Rokid-Maps/",
       "language": "Kotlin",
-      "stars": 39,
+      "stars": 40,
       "forks": 9,
       "topics": [
         "android",
@@ -77,7 +77,7 @@
       "url": "https://github.com/chartmann1590/LiveTranscribe-Android",
       "homepage": "https://chartmann1590.github.io/LiveTranscribe-Android/",
       "language": "Kotlin",
-      "stars": 14,
+      "stars": 15,
       "forks": 6,
       "topics": [
         "accessibility",
@@ -562,7 +562,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-10-17",
+      "pushed_at": "2026-10-19",
       "created_at": "2026-04-15"
     },
     {
@@ -724,7 +724,7 @@
         "privacy"
       ],
       "category": "android",
-      "pushed_at": "2026-10-12",
+      "pushed_at": "2026-10-19",
       "created_at": "2026-04-27"
     },
     {
@@ -860,7 +860,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-10-18",
+      "pushed_at": "2026-10-20",
       "created_at": "2026-04-18"
     },
     {
@@ -1181,7 +1181,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-10-12",
+      "pushed_at": "2026-10-19",
       "created_at": "2026-06-13"
     },
     {
@@ -1214,7 +1214,7 @@
         "privacy-policy"
       ],
       "category": "web",
-      "pushed_at": "2026-10-15",
+      "pushed_at": "2026-10-19",
       "created_at": "2026-10-15"
     },
     {
@@ -1260,7 +1260,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-19",
+      "pushed_at": "2026-10-20",
       "created_at": "2026-09-23"
     },
     {
@@ -1321,7 +1321,7 @@
         "security"
       ],
       "category": "android",
-      "pushed_at": "2026-10-13",
+      "pushed_at": "2026-10-19",
       "created_at": "2026-05-28"
     },
     {
@@ -1400,7 +1400,7 @@
         "portfolio"
       ],
       "category": "python",
-      "pushed_at": "2026-10-18",
+      "pushed_at": "2026-10-19",
       "created_at": "2026-06-10"
     },
     {
@@ -1613,6 +1613,19 @@
       "category": "web",
       "pushed_at": "2026-10-16",
       "created_at": "2025-11-12"
+    },
+    {
+      "name": "wild-lens-site",
+      "description": "Wild Lens: Jungle Rescue, a photoreal jungle adventure for Android. Website, privacy policy and support.",
+      "url": "https://github.com/chartmann1590/wild-lens-site",
+      "homepage": "https://chartmann1590.github.io/wild-lens-site/",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "category": "web",
+      "pushed_at": "2026-10-19",
+      "created_at": "2026-10-19"
     },
     {
       "name": "YT-Bulk-Downloader",
