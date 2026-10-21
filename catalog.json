@@ -1,20 +1,20 @@
 {
-  "updated": "2026-10-20",
+  "updated": "2026-10-21",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
     "bio": "👋 Hi, I'm Charles! A versatile programmer specializing in Python, Flask, and automation. I enjoy crafting web applications, smart home integrations, and innova",
     "avatar_url": "https://avatars.githubusercontent.com/u/73352603?v=4",
     "html_url": "https://github.com/chartmann1590",
-    "public_repos": 129,
+    "public_repos": 134,
     "followers": 9
   },
   "stats": {
-    "total": 97,
-    "total_stars": 128,
+    "total": 102,
+    "total_stars": 129,
     "by_category": {
       "android": 34,
-      "web": 30,
+      "web": 35,
       "ai": 2,
       "game": 9,
       "python": 16,
@@ -77,7 +77,7 @@
       "url": "https://github.com/chartmann1590/LiveTranscribe-Android",
       "homepage": "https://chartmann1590.github.io/LiveTranscribe-Android/",
       "language": "Kotlin",
-      "stars": 15,
+      "stars": 16,
       "forks": 6,
       "topics": [
         "accessibility",
@@ -218,7 +218,7 @@
         "stable-diffusion"
       ],
       "category": "android",
-      "pushed_at": "2026-10-15",
+      "pushed_at": "2026-10-20",
       "created_at": "2026-07-19"
     },
     {
@@ -394,6 +394,19 @@
       "created_at": "2026-06-02"
     },
     {
+      "name": "adhd-focus-companion-site",
+      "description": "ADHD Focus Companion — website, privacy policy, terms and support",
+      "url": "https://github.com/chartmann1590/adhd-focus-companion-site",
+      "homepage": "https://chartmann1590.github.io/adhd-focus-companion-site/",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "category": "web",
+      "pushed_at": "2026-10-20",
+      "created_at": "2026-10-20"
+    },
+    {
       "name": "AI-Call-Bot",
       "description": "Simple python flask ai call bot. Users can call an extension on your voip and interact with your bot via talk to text service and ollama",
       "url": "https://github.com/chartmann1590/AI-Call-Bot",
@@ -562,7 +575,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-10-19",
+      "pushed_at": "2026-10-20",
       "created_at": "2026-04-15"
     },
     {
@@ -728,6 +741,19 @@
       "created_at": "2026-04-27"
     },
     {
+      "name": "ev-charge-tracker-site",
+      "description": "EV Charge Tracker — website, privacy policy, terms and support",
+      "url": "https://github.com/chartmann1590/ev-charge-tracker-site",
+      "homepage": "https://chartmann1590.github.io/ev-charge-tracker-site/",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "category": "web",
+      "pushed_at": "2026-10-20",
+      "created_at": "2026-10-20"
+    },
+    {
       "name": "eventcrew-site",
       "description": "EventCrew website, privacy policy and support. Keep your group together at concerts and festivals.",
       "url": "https://github.com/chartmann1590/eventcrew-site",
@@ -860,8 +886,21 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-10-20",
+      "pushed_at": "2026-10-21",
       "created_at": "2026-04-18"
+    },
+    {
+      "name": "gig-mileage-tracker-site",
+      "description": "Gig Mileage Tracker — website, privacy policy, terms and support",
+      "url": "https://github.com/chartmann1590/gig-mileage-tracker-site",
+      "homepage": "https://chartmann1590.github.io/gig-mileage-tracker-site/",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "category": "web",
+      "pushed_at": "2026-10-20",
+      "created_at": "2026-10-20"
     },
     {
       "name": "gizmo-gunners-site",
@@ -921,7 +960,7 @@
         "selfhosted"
       ],
       "category": "iot",
-      "pushed_at": "2026-10-19",
+      "pushed_at": "2026-10-20",
       "created_at": "2026-10-10"
     },
     {
@@ -1006,7 +1045,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-10-08",
+      "pushed_at": "2026-10-20",
       "created_at": "2025-09-17"
     },
     {
@@ -1172,6 +1211,19 @@
       "created_at": "2026-08-01"
     },
     {
+      "name": "pantry-tracker-site",
+      "description": "Pantry Tracker — website, privacy policy, terms and support",
+      "url": "https://github.com/chartmann1590/pantry-tracker-site",
+      "homepage": "https://chartmann1590.github.io/pantry-tracker-site/",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "category": "web",
+      "pushed_at": "2026-10-20",
+      "created_at": "2026-10-20"
+    },
+    {
       "name": "party-quips",
       "description": "A Jackbox-style party game platform — play together on TV and phones",
       "url": "https://github.com/chartmann1590/party-quips",
@@ -1260,7 +1312,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-20",
+      "pushed_at": "2026-10-21",
       "created_at": "2026-09-23"
     },
     {
@@ -1321,7 +1373,7 @@
         "security"
       ],
       "category": "android",
-      "pushed_at": "2026-10-19",
+      "pushed_at": "2026-10-21",
       "created_at": "2026-05-28"
     },
     {
@@ -1400,7 +1452,7 @@
         "portfolio"
       ],
       "category": "python",
-      "pushed_at": "2026-10-19",
+      "pushed_at": "2026-10-20",
       "created_at": "2026-06-10"
     },
     {
@@ -1413,7 +1465,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-10-08",
+      "pushed_at": "2026-10-20",
       "created_at": "2025-12-09"
     },
     {
@@ -1445,7 +1497,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-10-07",
+      "pushed_at": "2026-10-20",
       "created_at": "2026-09-20"
     },
     {
@@ -1466,6 +1518,19 @@
       "category": "android",
       "pushed_at": "2026-10-08",
       "created_at": "2026-05-01"
+    },
+    {
+      "name": "symptom-diary-site",
+      "description": "Symptom Diary — website, privacy policy, terms and support",
+      "url": "https://github.com/chartmann1590/symptom-diary-site",
+      "homepage": "https://chartmann1590.github.io/symptom-diary-site/",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "category": "web",
+      "pushed_at": "2026-10-20",
+      "created_at": "2026-10-20"
     },
     {
       "name": "tiktok-live-gift-tracker",
@@ -1538,7 +1603,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-15",
+      "pushed_at": "2026-10-21",
       "created_at": "2026-08-19"
     },
     {
@@ -1624,7 +1689,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-10-19",
+      "pushed_at": "2026-10-20",
       "created_at": "2026-10-19"
     },
     {
