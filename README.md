@@ -6,7 +6,7 @@
 
 **Android apps · AI tools · Web platforms · Python scripts — all open source**
 
-[![Apps](https://img.shields.io/badge/Apps-102-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
+[![Apps](https://img.shields.io/badge/Apps-104-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
 [![Stars](https://img.shields.io/badge/Total_Stars-135-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-☕-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/charleshartmann)
 [![Google Play](https://img.shields.io/badge/Google_Play-Hartmann_Studios-01875f?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Hartmann+Studios)
@@ -74,7 +74,7 @@
 | [verselight-android](https://github.com/chartmann1590/verselight-android) | — · [Demo](https://verselight-daily-2026.web.app/) | Kotlin |  |
 | [warmword](https://github.com/chartmann1590/warmword) | WarmWord — an on-device AI mental health companion (Android, Compose, Gemma) | Kotlin |  |
 
-## 🌐 Web Applications (35)
+## 🌐 Web Applications (37)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
@@ -86,6 +86,7 @@
 | [carthing-apps](https://github.com/chartmann1590/carthing-apps) | DeskThing apps for the Spotify CarThing — gas prices, calendar, bus arrivals, traffic, and local news | TypeScript |  |
 | [cognizant](https://github.com/chartmann1590/cognizant) | Peer-powered understanding engine - a unique PWA where you learn by teaching AI students | JavaScript |  |
 | [daycare-dons-site](https://github.com/chartmann1590/daycare-dons-site) | Website, privacy policy and support for Daycare Dons: Diaper Empire, a cartoon 3D caper for Android by Hartmann Studios. · [Demo](https://chartmann1590.github.io/daycare-dons-site/) | HTML |  |
+| [dead-tide-site](https://github.com/chartmann1590/dead-tide-site) | Dead Tide — website, privacy policy, terms and support · [Demo](https://chartmann1590.github.io/dead-tide-site/) | HTML |  |
 | [ev-charge-tracker-site](https://github.com/chartmann1590/ev-charge-tracker-site) | EV Charge Tracker — website, privacy policy, terms and support · [Demo](https://chartmann1590.github.io/ev-charge-tracker-site/) | HTML |  |
 | [eventcrew-site](https://github.com/chartmann1590/eventcrew-site) | EventCrew website, privacy policy and support. Keep your group together at concerts and festivals. · [Demo](https://eventcrew.sites.tab.bot/) | HTML |  |
 | [family-guardian](https://github.com/chartmann1590/family-guardian) | Self-hosted family safety platform | JavaScript |  |
@@ -103,6 +104,7 @@
 | [pantry-tracker-site](https://github.com/chartmann1590/pantry-tracker-site) | Pantry Tracker — website, privacy policy, terms and support · [Demo](https://chartmann1590.github.io/pantry-tracker-site/) | HTML |  |
 | [party-quips](https://github.com/chartmann1590/party-quips) | A Jackbox-style party game platform — play together on TV and phones · [Demo](https://chartmann1590.github.io/party-quips/) | TypeScript |  |
 | [pawdub-site](https://github.com/chartmann1590/pawdub-site) | Website, privacy policy and support for Pawdub, the Android app that gives your pet subtitles. · [Demo](https://chartmann1590.github.io/pawdub-site/) | HTML |  |
+| [psalmwell-android](https://github.com/chartmann1590/psalmwell-android) | Psalmwell: Daily Bible Verse for Android | HTML |  |
 | [shapeshade-site](https://github.com/chartmann1590/shapeshade-site) | Website, privacy policy and terms for Shape & Shade: Face Shape (Android) · [Demo](https://chartmann1590.github.io/shapeshade-site/) | HTML |  |
 | [shipmate-cruise-social](https://github.com/chartmann1590/shipmate-cruise-social) | — | JavaScript |  |
 | [sports-dashboard](https://github.com/chartmann1590/sports-dashboard) | — | JavaScript |  |
@@ -188,6 +190,6 @@ If you find my projects useful, consider buying me a coffee!
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
 </a>
 
-*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-10-29*
+*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-10-30*
 
 </div>

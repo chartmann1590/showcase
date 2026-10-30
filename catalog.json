@@ -1,20 +1,20 @@
 {
-  "updated": "2026-10-29",
+  "updated": "2026-10-30",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
     "bio": "👋 Hi, I'm Charles! A versatile programmer specializing in Python, Flask, and automation. I enjoy crafting web applications, smart home integrations, and innova",
     "avatar_url": "https://avatars.githubusercontent.com/u/73352603?v=4",
     "html_url": "https://github.com/chartmann1590",
-    "public_repos": 134,
+    "public_repos": 136,
     "followers": 9
   },
   "stats": {
-    "total": 102,
+    "total": 104,
     "total_stars": 135,
     "by_category": {
       "android": 34,
-      "web": 35,
+      "web": 37,
       "ai": 2,
       "game": 9,
       "python": 16,
@@ -124,7 +124,7 @@
       "forks": 0,
       "topics": [],
       "category": "ai",
-      "pushed_at": "2026-10-28",
+      "pushed_at": "2026-10-30",
       "created_at": "2026-01-06"
     },
     {
@@ -269,7 +269,7 @@
         "stable-diffusion"
       ],
       "category": "android",
-      "pushed_at": "2026-10-22",
+      "pushed_at": "2026-10-29",
       "created_at": "2026-07-19"
     },
     {
@@ -536,7 +536,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-22",
+      "pushed_at": "2026-10-29",
       "created_at": "2026-07-05"
     },
     {
@@ -575,7 +575,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-10-28",
+      "pushed_at": "2026-10-29",
       "created_at": "2026-04-15"
     },
     {
@@ -627,7 +627,7 @@
         "public-transit"
       ],
       "category": "android",
-      "pushed_at": "2026-10-22",
+      "pushed_at": "2026-10-29",
       "created_at": "2026-06-30"
     },
     {
@@ -685,6 +685,19 @@
       "category": "web",
       "pushed_at": "2026-10-24",
       "created_at": "2026-10-18"
+    },
+    {
+      "name": "dead-tide-site",
+      "description": "Dead Tide — website, privacy policy, terms and support",
+      "url": "https://github.com/chartmann1590/dead-tide-site",
+      "homepage": "https://chartmann1590.github.io/dead-tide-site/",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "category": "web",
+      "pushed_at": "2026-10-30",
+      "created_at": "2026-10-30"
     },
     {
       "name": "discord-summarizer",
@@ -835,7 +848,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-10-22",
+      "pushed_at": "2026-10-29",
       "created_at": "2026-10-15"
     },
     {
@@ -886,7 +899,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-10-28",
+      "pushed_at": "2026-10-30",
       "created_at": "2026-04-18"
     },
     {
@@ -960,7 +973,7 @@
         "selfhosted"
       ],
       "category": "iot",
-      "pushed_at": "2026-10-26",
+      "pushed_at": "2026-10-30",
       "created_at": "2026-10-10"
     },
     {
@@ -1058,7 +1071,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-10-25",
+      "pushed_at": "2026-10-30",
       "created_at": "2025-09-24"
     },
     {
@@ -1312,8 +1325,21 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-29",
+      "pushed_at": "2026-10-30",
       "created_at": "2026-09-23"
+    },
+    {
+      "name": "psalmwell-android",
+      "description": "Psalmwell: Daily Bible Verse for Android",
+      "url": "https://github.com/chartmann1590/psalmwell-android",
+      "homepage": "",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "category": "web",
+      "pushed_at": "2026-10-30",
+      "created_at": "2026-10-30"
     },
     {
       "name": "qrcode-scanner-android",
@@ -1452,7 +1478,7 @@
         "portfolio"
       ],
       "category": "python",
-      "pushed_at": "2026-10-28",
+      "pushed_at": "2026-10-29",
       "created_at": "2026-06-10"
     },
     {
@@ -1603,7 +1629,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-22",
+      "pushed_at": "2026-10-29",
       "created_at": "2026-08-19"
     },
     {
@@ -1715,7 +1741,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-10-07",
+      "pushed_at": "2026-10-30",
       "created_at": "2025-09-25"
     }
   ]
