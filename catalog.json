@@ -1,20 +1,20 @@
 {
-  "updated": "2026-10-31",
+  "updated": "2026-11-01",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
     "bio": "👋 Hi, I'm Charles! A versatile programmer specializing in Python, Flask, and automation. I enjoy crafting web applications, smart home integrations, and innova",
     "avatar_url": "https://avatars.githubusercontent.com/u/73352603?v=4",
     "html_url": "https://github.com/chartmann1590",
-    "public_repos": 136,
+    "public_repos": 137,
     "followers": 9
   },
   "stats": {
-    "total": 104,
-    "total_stars": 135,
+    "total": 105,
+    "total_stars": 137,
     "by_category": {
       "android": 34,
-      "web": 37,
+      "web": 38,
       "ai": 2,
       "game": 9,
       "python": 16,
@@ -31,7 +31,7 @@
       "url": "https://github.com/chartmann1590/Rokid-Maps",
       "homepage": "https://chartmann1590.github.io/Rokid-Maps/",
       "language": "Kotlin",
-      "stars": 40,
+      "stars": 41,
       "forks": 11,
       "topics": [
         "android",
@@ -111,8 +111,29 @@
         "privacy"
       ],
       "category": "android",
-      "pushed_at": "2026-10-25",
+      "pushed_at": "2026-10-31",
       "created_at": "2026-06-08"
+    },
+    {
+      "name": "pixeldream",
+      "description": "PixelDream — on-device AI image generation Android app",
+      "url": "https://github.com/chartmann1590/pixeldream",
+      "homepage": "https://chartmann1590.github.io/pixeldream/",
+      "language": "Kotlin",
+      "stars": 3,
+      "forks": 0,
+      "topics": [
+        "android",
+        "image-generation",
+        "kotlin",
+        "offline-ai",
+        "on-device-ai",
+        "privacy",
+        "stable-diffusion"
+      ],
+      "category": "android",
+      "pushed_at": "2026-10-29",
+      "created_at": "2026-07-19"
     },
     {
       "name": "AI-Social",
@@ -124,7 +145,7 @@
       "forks": 0,
       "topics": [],
       "category": "ai",
-      "pushed_at": "2026-10-30",
+      "pushed_at": "2026-11-01",
       "created_at": "2026-01-06"
     },
     {
@@ -252,27 +273,6 @@
       "created_at": "2026-01-02"
     },
     {
-      "name": "pixeldream",
-      "description": "PixelDream — on-device AI image generation Android app",
-      "url": "https://github.com/chartmann1590/pixeldream",
-      "homepage": "https://chartmann1590.github.io/pixeldream/",
-      "language": "Kotlin",
-      "stars": 2,
-      "forks": 0,
-      "topics": [
-        "android",
-        "image-generation",
-        "kotlin",
-        "offline-ai",
-        "on-device-ai",
-        "privacy",
-        "stable-diffusion"
-      ],
-      "category": "android",
-      "pushed_at": "2026-10-29",
-      "created_at": "2026-07-19"
-    },
-    {
       "name": "Pocket-Assistant",
       "description": "Local-first Android AI assistant — OCR, on-device LLM, semantic search, tasks & reminders",
       "url": "https://github.com/chartmann1590/Pocket-Assistant",
@@ -312,7 +312,7 @@
         "kotlin"
       ],
       "category": "web",
-      "pushed_at": "2026-10-28",
+      "pushed_at": "2026-10-31",
       "created_at": "2026-06-02"
     },
     {
@@ -334,7 +334,7 @@
         "whisper"
       ],
       "category": "android",
-      "pushed_at": "2026-10-22",
+      "pushed_at": "2026-10-31",
       "created_at": "2026-05-07"
     },
     {
@@ -358,7 +358,7 @@
         "weight-tracking"
       ],
       "category": "android",
-      "pushed_at": "2026-10-22",
+      "pushed_at": "2026-11-01",
       "created_at": "2026-09-29"
     },
     {
@@ -553,6 +553,19 @@
       "created_at": "2025-11-16"
     },
     {
+      "name": "capital-rush-site",
+      "description": "CAPITAL RUSH — the official site for the open-world game set in Albany, Troy, Schenectady and Saratoga.",
+      "url": "https://github.com/chartmann1590/capital-rush-site",
+      "homepage": "https://chartmann1590.github.io/capital-rush-site/",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "category": "web",
+      "pushed_at": "2026-11-01",
+      "created_at": "2026-10-31"
+    },
+    {
       "name": "carthing-apps",
       "description": "DeskThing apps for the Spotify CarThing — gas prices, calendar, bus arrivals, traffic, and local news",
       "url": "https://github.com/chartmann1590/carthing-apps",
@@ -575,7 +588,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-10-30",
+      "pushed_at": "2026-10-31",
       "created_at": "2026-04-15"
     },
     {
@@ -627,7 +640,7 @@
         "public-transit"
       ],
       "category": "android",
-      "pushed_at": "2026-10-29",
+      "pushed_at": "2026-10-31",
       "created_at": "2026-06-30"
     },
     {
@@ -670,7 +683,7 @@
         "price-tracker"
       ],
       "category": "android",
-      "pushed_at": "2026-10-25",
+      "pushed_at": "2026-10-31",
       "created_at": "2026-09-08"
     },
     {
@@ -796,7 +809,7 @@
         "self-hosted"
       ],
       "category": "web",
-      "pushed_at": "2026-10-29",
+      "pushed_at": "2026-11-01",
       "created_at": "2026-05-18"
     },
     {
@@ -816,7 +829,7 @@
         "self-hosted"
       ],
       "category": "web",
-      "pushed_at": "2026-10-15",
+      "pushed_at": "2026-10-31",
       "created_at": "2025-11-30"
     },
     {
@@ -973,7 +986,7 @@
         "selfhosted"
       ],
       "category": "iot",
-      "pushed_at": "2026-10-30",
+      "pushed_at": "2026-10-31",
       "created_at": "2026-10-10"
     },
     {
@@ -1071,7 +1084,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-10-30",
+      "pushed_at": "2026-10-31",
       "created_at": "2025-09-24"
     },
     {
@@ -1179,7 +1192,7 @@
         "privacy"
       ],
       "category": "android",
-      "pushed_at": "2026-10-22",
+      "pushed_at": "2026-11-01",
       "created_at": "2026-06-27"
     },
     {
@@ -1259,7 +1272,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-07",
+      "pushed_at": "2026-10-31",
       "created_at": "2025-12-28"
     },
     {
@@ -1312,7 +1325,7 @@
         "virtual-pet"
       ],
       "category": "game",
-      "pushed_at": "2026-10-22",
+      "pushed_at": "2026-10-31",
       "created_at": "2026-09-15"
     },
     {
@@ -1325,7 +1338,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-31",
+      "pushed_at": "2026-11-01",
       "created_at": "2026-09-23"
     },
     {
@@ -1399,7 +1412,7 @@
         "security"
       ],
       "category": "android",
-      "pushed_at": "2026-10-26",
+      "pushed_at": "2026-10-31",
       "created_at": "2026-05-28"
     },
     {
@@ -1478,7 +1491,7 @@
         "portfolio"
       ],
       "category": "python",
-      "pushed_at": "2026-10-30",
+      "pushed_at": "2026-10-31",
       "created_at": "2026-06-10"
     },
     {
@@ -1581,7 +1594,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-22",
+      "pushed_at": "2026-10-31",
       "created_at": "2026-09-20"
     },
     {
@@ -1741,7 +1754,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-10-30",
+      "pushed_at": "2026-10-31",
       "created_at": "2025-09-25"
     }
   ]
