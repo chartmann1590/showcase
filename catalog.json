@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-02",
+  "updated": "2026-11-03",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
     "bio": "👋 Hi, I'm Charles! A versatile programmer specializing in Python, Flask, and automation. I enjoy crafting web applications, smart home integrations, and innova",
     "avatar_url": "https://avatars.githubusercontent.com/u/73352603?v=4",
     "html_url": "https://github.com/chartmann1590",
-    "public_repos": 137,
+    "public_repos": 138,
     "followers": 9
   },
   "stats": {
-    "total": 105,
-    "total_stars": 137,
+    "total": 106,
+    "total_stars": 136,
     "by_category": {
-      "android": 34,
+      "android": 35,
       "web": 38,
       "ai": 2,
       "game": 9,
@@ -51,7 +51,7 @@
       "url": "https://github.com/chartmann1590/VowVault",
       "homepage": "https://chartmann1590.github.io/VowVault/",
       "language": "HTML",
-      "stars": 28,
+      "stars": 27,
       "forks": 1,
       "topics": [],
       "category": "web",
@@ -588,8 +588,28 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-11-01",
+      "pushed_at": "2026-11-02",
       "created_at": "2026-04-15"
+    },
+    {
+      "name": "chronos-revived",
+      "description": "Open-source Android app that brings the discontinued Chronos smart disc back to life",
+      "url": "https://github.com/chartmann1590/chronos-revived",
+      "homepage": "https://chartmann1590.github.io/chronos-revived/",
+      "language": "Kotlin",
+      "stars": 0,
+      "forks": 0,
+      "topics": [
+        "android",
+        "bluetooth-le",
+        "chronos",
+        "jetpack-compose",
+        "reverse-engineering",
+        "smartwatch"
+      ],
+      "category": "android",
+      "pushed_at": "2026-11-03",
+      "created_at": "2026-11-03"
     },
     {
       "name": "Church-Slides-Studio",
@@ -763,7 +783,7 @@
         "privacy"
       ],
       "category": "android",
-      "pushed_at": "2026-10-26",
+      "pushed_at": "2026-11-02",
       "created_at": "2026-04-27"
     },
     {
@@ -809,7 +829,7 @@
         "self-hosted"
       ],
       "category": "web",
-      "pushed_at": "2026-11-01",
+      "pushed_at": "2026-11-03",
       "created_at": "2026-05-18"
     },
     {
@@ -912,7 +932,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-11-02",
+      "pushed_at": "2026-11-03",
       "created_at": "2026-04-18"
     },
     {
@@ -986,7 +1006,7 @@
         "selfhosted"
       ],
       "category": "iot",
-      "pushed_at": "2026-11-01",
+      "pushed_at": "2026-11-03",
       "created_at": "2026-10-10"
     },
     {
@@ -1259,7 +1279,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-10-30",
+      "pushed_at": "2026-11-02",
       "created_at": "2026-06-13"
     },
     {
@@ -1412,7 +1432,7 @@
         "security"
       ],
       "category": "android",
-      "pushed_at": "2026-10-31",
+      "pushed_at": "2026-11-02",
       "created_at": "2026-05-28"
     },
     {
@@ -1491,7 +1511,7 @@
         "portfolio"
       ],
       "category": "python",
-      "pushed_at": "2026-11-01",
+      "pushed_at": "2026-11-02",
       "created_at": "2026-06-10"
     },
     {
@@ -1754,7 +1774,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-11-01",
+      "pushed_at": "2026-11-03",
       "created_at": "2025-09-25"
     }
   ]
