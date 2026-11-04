@@ -6,7 +6,7 @@
 
 **Android apps · AI tools · Web platforms · Python scripts — all open source**
 
-[![Apps](https://img.shields.io/badge/Apps-106-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
+[![Apps](https://img.shields.io/badge/Apps-107-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
 [![Stars](https://img.shields.io/badge/Total_Stars-136-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-☕-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/charleshartmann)
 [![Google Play](https://img.shields.io/badge/Google_Play-Hartmann_Studios-01875f?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Hartmann+Studios)
@@ -75,7 +75,7 @@
 | [verselight-android](https://github.com/chartmann1590/verselight-android) | — · [Demo](https://verselight-daily-2026.web.app/) | Kotlin |  |
 | [warmword](https://github.com/chartmann1590/warmword) | WarmWord — an on-device AI mental health companion (Android, Compose, Gemma) | Kotlin |  |
 
-## 🌐 Web Applications (38)
+## 🌐 Web Applications (39)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
@@ -89,6 +89,7 @@
 | [cognizant](https://github.com/chartmann1590/cognizant) | Peer-powered understanding engine - a unique PWA where you learn by teaching AI students | JavaScript |  |
 | [daycare-dons-site](https://github.com/chartmann1590/daycare-dons-site) | Website, privacy policy and support for Daycare Dons: Diaper Empire, a cartoon 3D caper for Android by Hartmann Studios. · [Demo](https://chartmann1590.github.io/daycare-dons-site/) | HTML |  |
 | [dead-tide-site](https://github.com/chartmann1590/dead-tide-site) | Dead Tide — website, privacy policy, terms and support · [Demo](https://chartmann1590.github.io/dead-tide-site/) | HTML |  |
+| [driftfeed-site](https://github.com/chartmann1590/driftfeed-site) | Website, privacy policy and support pages for the Driftfeed Android app (Hartmann Studios). · [Demo](https://chartmann1590.github.io/driftfeed-site/) | HTML |  |
 | [ev-charge-tracker-site](https://github.com/chartmann1590/ev-charge-tracker-site) | EV Charge Tracker — website, privacy policy, terms and support · [Demo](https://chartmann1590.github.io/ev-charge-tracker-site/) | HTML |  |
 | [eventcrew-site](https://github.com/chartmann1590/eventcrew-site) | EventCrew website, privacy policy and support. Keep your group together at concerts and festivals. · [Demo](https://eventcrew.sites.tab.bot/) | HTML |  |
 | [family-guardian](https://github.com/chartmann1590/family-guardian) | Self-hosted family safety platform | JavaScript |  |
@@ -192,6 +193,6 @@ If you find my projects useful, consider buying me a coffee!
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
 </a>
 
-*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-11-03*
+*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-11-04*
 
 </div>

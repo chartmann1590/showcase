@@ -1,20 +1,20 @@
 {
-  "updated": "2026-11-03",
+  "updated": "2026-11-04",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
     "bio": "👋 Hi, I'm Charles! A versatile programmer specializing in Python, Flask, and automation. I enjoy crafting web applications, smart home integrations, and innova",
     "avatar_url": "https://avatars.githubusercontent.com/u/73352603?v=4",
     "html_url": "https://github.com/chartmann1590",
-    "public_repos": 138,
+    "public_repos": 139,
     "followers": 9
   },
   "stats": {
-    "total": 106,
+    "total": 107,
     "total_stars": 136,
     "by_category": {
       "android": 35,
-      "web": 38,
+      "web": 39,
       "ai": 2,
       "game": 9,
       "python": 16,
@@ -145,7 +145,7 @@
       "forks": 0,
       "topics": [],
       "category": "ai",
-      "pushed_at": "2026-11-01",
+      "pushed_at": "2026-11-03",
       "created_at": "2026-01-06"
     },
     {
@@ -588,7 +588,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-11-02",
+      "pushed_at": "2026-11-03",
       "created_at": "2026-04-15"
     },
     {
@@ -660,7 +660,7 @@
         "public-transit"
       ],
       "category": "android",
-      "pushed_at": "2026-10-31",
+      "pushed_at": "2026-11-04",
       "created_at": "2026-06-30"
     },
     {
@@ -785,6 +785,19 @@
       "category": "android",
       "pushed_at": "2026-11-02",
       "created_at": "2026-04-27"
+    },
+    {
+      "name": "driftfeed-site",
+      "description": "Website, privacy policy and support pages for the Driftfeed Android app (Hartmann Studios).",
+      "url": "https://github.com/chartmann1590/driftfeed-site",
+      "homepage": "https://chartmann1590.github.io/driftfeed-site/",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "category": "web",
+      "pushed_at": "2026-11-03",
+      "created_at": "2026-11-03"
     },
     {
       "name": "ev-charge-tracker-site",
@@ -1279,7 +1292,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-11-02",
+      "pushed_at": "2026-11-03",
       "created_at": "2026-06-13"
     },
     {
@@ -1358,7 +1371,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-11-02",
+      "pushed_at": "2026-11-04",
       "created_at": "2026-09-23"
     },
     {
@@ -1490,7 +1503,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-10-07",
+      "pushed_at": "2026-11-03",
       "created_at": "2026-08-10"
     },
     {
@@ -1511,7 +1524,7 @@
         "portfolio"
       ],
       "category": "python",
-      "pushed_at": "2026-11-02",
+      "pushed_at": "2026-11-03",
       "created_at": "2026-06-10"
     },
     {
@@ -1614,7 +1627,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-31",
+      "pushed_at": "2026-11-03",
       "created_at": "2026-09-20"
     },
     {
@@ -1735,7 +1748,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-10-16",
+      "pushed_at": "2026-11-03",
       "created_at": "2025-11-12"
     },
     {
@@ -1748,7 +1761,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-10-22",
+      "pushed_at": "2026-11-03",
       "created_at": "2026-10-19"
     },
     {
