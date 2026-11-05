@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
@@ -11,7 +11,7 @@
   },
   "stats": {
     "total": 107,
-    "total_stars": 136,
+    "total_stars": 138,
     "by_category": {
       "android": 35,
       "web": 39,
@@ -77,7 +77,7 @@
       "url": "https://github.com/chartmann1590/LiveTranscribe-Android",
       "homepage": "https://chartmann1590.github.io/LiveTranscribe-Android/",
       "language": "Kotlin",
-      "stars": 18,
+      "stars": 19,
       "forks": 7,
       "topics": [
         "accessibility",
@@ -90,7 +90,7 @@
         "whisper"
       ],
       "category": "android",
-      "pushed_at": "2026-11-01",
+      "pushed_at": "2026-11-04",
       "created_at": "2026-04-10"
     },
     {
@@ -312,8 +312,27 @@
         "kotlin"
       ],
       "category": "web",
-      "pushed_at": "2026-10-31",
+      "pushed_at": "2026-11-04",
       "created_at": "2026-06-02"
+    },
+    {
+      "name": "auracast-weather",
+      "description": "AuraCast Weather — AI-narrated, on-device weather app for Android (Kotlin/Compose). Live radar, Gemma 4 weather podcast, no account needed.",
+      "url": "https://github.com/chartmann1590/auracast-weather",
+      "homepage": "https://auracast-weather.web.app",
+      "language": "Kotlin",
+      "stars": 1,
+      "forks": 0,
+      "topics": [
+        "android",
+        "jetpack-compose",
+        "kotlin",
+        "on-device-ai",
+        "weather"
+      ],
+      "category": "android",
+      "pushed_at": "2026-10-15",
+      "created_at": "2026-08-27"
     },
     {
       "name": "captionburn",
@@ -358,7 +377,7 @@
         "weight-tracking"
       ],
       "category": "android",
-      "pushed_at": "2026-11-01",
+      "pushed_at": "2026-11-04",
       "created_at": "2026-09-29"
     },
     {
@@ -495,25 +514,6 @@
       "created_at": "2026-08-30"
     },
     {
-      "name": "auracast-weather",
-      "description": "AuraCast Weather — AI-narrated, on-device weather app for Android (Kotlin/Compose). Live radar, Gemma 4 weather podcast, no account needed.",
-      "url": "https://github.com/chartmann1590/auracast-weather",
-      "homepage": "https://auracast-weather.web.app",
-      "language": "Kotlin",
-      "stars": 0,
-      "forks": 0,
-      "topics": [
-        "android",
-        "jetpack-compose",
-        "kotlin",
-        "on-device-ai",
-        "weather"
-      ],
-      "category": "android",
-      "pushed_at": "2026-10-15",
-      "created_at": "2026-08-27"
-    },
-    {
       "name": "Best-Friend",
       "description": "This is your new best friend!",
       "url": "https://github.com/chartmann1590/Best-Friend",
@@ -575,7 +575,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-10-08",
+      "pushed_at": "2026-11-04",
       "created_at": "2026-06-21"
     },
     {
@@ -588,7 +588,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-11-03",
+      "pushed_at": "2026-11-04",
       "created_at": "2026-04-15"
     },
     {
@@ -945,7 +945,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-11-03",
+      "pushed_at": "2026-11-04",
       "created_at": "2026-04-18"
     },
     {
@@ -1019,7 +1019,7 @@
         "selfhosted"
       ],
       "category": "iot",
-      "pushed_at": "2026-11-03",
+      "pushed_at": "2026-11-04",
       "created_at": "2026-10-10"
     },
     {
@@ -1371,7 +1371,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-11-04",
+      "pushed_at": "2026-11-05",
       "created_at": "2026-09-23"
     },
     {
@@ -1524,7 +1524,7 @@
         "portfolio"
       ],
       "category": "python",
-      "pushed_at": "2026-11-03",
+      "pushed_at": "2026-11-04",
       "created_at": "2026-06-10"
     },
     {
@@ -1611,7 +1611,7 @@
       "homepage": "https://chartmann1590.github.io/tiktok-live-gift-tracker/",
       "language": "Python",
       "stars": 0,
-      "forks": 0,
+      "forks": 1,
       "topics": [],
       "category": "python",
       "pushed_at": "2026-10-22",

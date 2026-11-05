@@ -7,7 +7,7 @@
 **Android apps · AI tools · Web platforms · Python scripts — all open source**
 
 [![Apps](https://img.shields.io/badge/Apps-107-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
-[![Stars](https://img.shields.io/badge/Total_Stars-136-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
+[![Stars](https://img.shields.io/badge/Total_Stars-138-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-☕-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/charleshartmann)
 [![Google Play](https://img.shields.io/badge/Google_Play-Hartmann_Studios-01875f?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Hartmann+Studios)
 
@@ -29,7 +29,7 @@
 | [Rokid-Maps](https://github.com/chartmann1590/Rokid-Maps) | a standalone app for rokid ai glasses that is used for displaying map and directions on the glasses · [Live](https://chartmann1590.github.io/Rokid-Maps/) | ⭐ 41 |
 | [VowVault](https://github.com/chartmann1590/VowVault) | A beautiful, modern wedding photo gallery and guestbook with SSO authentication, PWA support, and comprehensive admin tools. · [Live](https://chartmann1590.github.io/VowVault/) | ⭐ 27 |
 | [bee-ai-web](https://github.com/chartmann1590/bee-ai-web) | A web interface for the Bee AI that uses your api key | ⭐ 20 |
-| [LiveTranscribe-Android](https://github.com/chartmann1590/LiveTranscribe-Android) | Live android transcription app · [Live](https://chartmann1590.github.io/LiveTranscribe-Android/) | ⭐ 18 |
+| [LiveTranscribe-Android](https://github.com/chartmann1590/LiveTranscribe-Android) | Live android transcription app · [Live](https://chartmann1590.github.io/LiveTranscribe-Android/) | ⭐ 19 |
 | [DriveVault](https://github.com/chartmann1590/DriveVault) | Privacy-first dashcam app for Android. Record drives with GPS overlays, dual-camera support, and full control over your data. · [Live](https://chartmann1590.github.io/DriveVault/) | ⭐ 5 |
 | [pixeldream](https://github.com/chartmann1590/pixeldream) | PixelDream — on-device AI image generation Android app · [Live](https://chartmann1590.github.io/pixeldream/) | ⭐ 3 |
 
@@ -40,7 +40,7 @@
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
 | [Rokid-Maps](https://github.com/chartmann1590/Rokid-Maps) | a standalone app for rokid ai glasses that is used for displaying map and directions on the glasses · [Demo](https://chartmann1590.github.io/Rokid-Maps/) | Kotlin | ⭐ 41 |
-| [LiveTranscribe-Android](https://github.com/chartmann1590/LiveTranscribe-Android) | Live android transcription app · [Demo](https://chartmann1590.github.io/LiveTranscribe-Android/) | Kotlin | ⭐ 18 |
+| [LiveTranscribe-Android](https://github.com/chartmann1590/LiveTranscribe-Android) | Live android transcription app · [Demo](https://chartmann1590.github.io/LiveTranscribe-Android/) | Kotlin | ⭐ 19 |
 | [DriveVault](https://github.com/chartmann1590/DriveVault) | Privacy-first dashcam app for Android. Record drives with GPS overlays, dual-camera support, and full control over your data. · [Demo](https://chartmann1590.github.io/DriveVault/) | Kotlin | ⭐ 5 |
 | [pixeldream](https://github.com/chartmann1590/pixeldream) | PixelDream — on-device AI image generation Android app · [Demo](https://chartmann1590.github.io/pixeldream/) | Kotlin | ⭐ 3 |
 | [airgf](https://github.com/chartmann1590/airgf) | AirGF - AI Virtual Companion. On-device AI girlfriend with Gemma 4 LLM, 3D avatars, image sharing, and image generation. · [Demo](https://chartmann1590.github.io/airgf/) | Kotlin | ⭐ 2 |
@@ -48,10 +48,10 @@
 | [aria-assistant](https://github.com/chartmann1590/aria-assistant) | Fully on-device AI voice assistant for Android — Gemma 4, Whisper STT, Piper TTS. No cloud. No tracking. · [Demo](https://chartmann1590.github.io/aria-assistant) | Kotlin | ⭐ 2 |
 | [ollama-android-client](https://github.com/chartmann1590/ollama-android-client) | Chat with Ollama or run LLMs fully on-device (Gemma, Qwen, DeepSeek, Phi) on Android. Private, open-source, no server required. · [Demo](https://chartmann1590.github.io/ollama-android-client/) | Kotlin | ⭐ 2 |
 | [Pocket-Assistant](https://github.com/chartmann1590/Pocket-Assistant) | Local-first Android AI assistant — OCR, on-device LLM, semantic search, tasks & reminders · [Demo](https://chartmann1590.github.io/Pocket-Assistant/) | Kotlin | ⭐ 2 |
+| [auracast-weather](https://github.com/chartmann1590/auracast-weather) | AuraCast Weather — AI-narrated, on-device weather app for Android (Kotlin/Compose). Live radar, Gemma 4 weather podcast, no account needed. · [Demo](https://auracast-weather.web.app) | Kotlin | ⭐ 1 |
 | [captionburn](https://github.com/chartmann1590/captionburn) | Auto-caption and burn subtitles into videos on-device. Whisper transcription, ML Kit translation, full caption styling. · [Demo](https://chartmann1590.github.io/captionburn) | Kotlin | ⭐ 1 |
 | [dosely](https://github.com/chartmann1590/dosely) | 💉 Private, on-device GLP-1 injection, pen-stock & weight tracker for Android — with an offline AI coach. Now on Google Play. · [Demo](https://chartmann1590.github.io/dosely/) | Kotlin | ⭐ 1 |
 | [ai-caller](https://github.com/chartmann1590/ai-caller) | Privacy-First Autonomous On-Device AI Phone-Calling Android Agent | Kotlin |  |
-| [auracast-weather](https://github.com/chartmann1590/auracast-weather) | AuraCast Weather — AI-narrated, on-device weather app for Android (Kotlin/Compose). Live radar, Gemma 4 weather podcast, no account needed. · [Demo](https://auracast-weather.web.app) | Kotlin |  |
 | [bluetooth-chat](https://github.com/chartmann1590/bluetooth-chat) | — · [Demo](https://chartmann1590.github.io/bluetooth-chat/) | Kotlin |  |
 | [chronos-revived](https://github.com/chartmann1590/chronos-revived) | Open-source Android app that brings the discontinued Chronos smart disc back to life · [Demo](https://chartmann1590.github.io/chronos-revived/) | Kotlin |  |
 | [crowdsource-transit](https://github.com/chartmann1590/crowdsource-transit) | Community-powered crowdsourced public transit locator — Android + Web · [Demo](https://chartmann1590.github.io/crowdsource-transit/) | Kotlin |  |
@@ -193,6 +193,6 @@ If you find my projects useful, consider buying me a coffee!
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
 </a>
 
-*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-11-04*
+*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-11-05*
 
 </div>
