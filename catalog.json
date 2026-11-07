@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
@@ -78,7 +78,7 @@
       "homepage": "https://chartmann1590.github.io/LiveTranscribe-Android/",
       "language": "Kotlin",
       "stars": 19,
-      "forks": 8,
+      "forks": 10,
       "topics": [
         "accessibility",
         "android",
@@ -90,7 +90,7 @@
         "whisper"
       ],
       "category": "android",
-      "pushed_at": "2026-11-04",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-04-10"
     },
     {
@@ -111,7 +111,7 @@
         "privacy"
       ],
       "category": "android",
-      "pushed_at": "2026-10-31",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-06-08"
     },
     {
@@ -132,7 +132,7 @@
         "stable-diffusion"
       ],
       "category": "android",
-      "pushed_at": "2026-10-29",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-07-19"
     },
     {
@@ -145,7 +145,7 @@
       "forks": 0,
       "topics": [],
       "category": "ai",
-      "pushed_at": "2026-11-03",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-01-06"
     },
     {
@@ -185,7 +185,7 @@
         "photobooth"
       ],
       "category": "android",
-      "pushed_at": "2026-10-31",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-03-02"
     },
     {
@@ -207,7 +207,7 @@
         "whisper"
       ],
       "category": "android",
-      "pushed_at": "2026-10-25",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-06-26"
     },
     {
@@ -249,7 +249,7 @@
         "self-hosted"
       ],
       "category": "android",
-      "pushed_at": "2026-11-01",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-01-01"
     },
     {
@@ -269,7 +269,7 @@
         "virtual-pet"
       ],
       "category": "game",
-      "pushed_at": "2026-10-08",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-01-02"
     },
     {
@@ -292,7 +292,7 @@
         "privacy"
       ],
       "category": "android",
-      "pushed_at": "2026-10-22",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-03-23"
     },
     {
@@ -312,7 +312,7 @@
         "kotlin"
       ],
       "category": "web",
-      "pushed_at": "2026-11-04",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-06-02"
     },
     {
@@ -331,7 +331,7 @@
         "weather"
       ],
       "category": "android",
-      "pushed_at": "2026-10-15",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-08-27"
     },
     {
@@ -353,7 +353,7 @@
         "whisper"
       ],
       "category": "android",
-      "pushed_at": "2026-10-31",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-05-07"
     },
     {
@@ -377,7 +377,7 @@
         "weight-tracking"
       ],
       "category": "android",
-      "pushed_at": "2026-11-04",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-09-29"
     },
     {
@@ -396,7 +396,7 @@
         "simulation"
       ],
       "category": "game",
-      "pushed_at": "2026-10-22",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-05-07"
     },
     {
@@ -510,7 +510,7 @@
         "rpg"
       ],
       "category": "game",
-      "pushed_at": "2026-10-22",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-08-30"
     },
     {
@@ -536,7 +536,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-11-05",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-07-05"
     },
     {
@@ -588,7 +588,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-11-04",
+      "pushed_at": "2026-11-06",
       "created_at": "2026-04-15"
     },
     {
@@ -660,7 +660,7 @@
         "public-transit"
       ],
       "category": "android",
-      "pushed_at": "2026-11-05",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-06-30"
     },
     {
@@ -684,7 +684,7 @@
         "room"
       ],
       "category": "android",
-      "pushed_at": "2026-10-22",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-08-27"
     },
     {
@@ -703,7 +703,7 @@
         "price-tracker"
       ],
       "category": "android",
-      "pushed_at": "2026-10-31",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-09-08"
     },
     {
@@ -783,7 +783,7 @@
         "privacy"
       ],
       "category": "android",
-      "pushed_at": "2026-11-02",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-04-27"
     },
     {
@@ -913,7 +913,7 @@
         "jetpack-compose"
       ],
       "category": "android",
-      "pushed_at": "2026-10-31",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-04-30"
     },
     {
@@ -945,7 +945,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-11-05",
+      "pushed_at": "2026-11-06",
       "created_at": "2026-04-18"
     },
     {
@@ -992,7 +992,7 @@
         "self-hosted"
       ],
       "category": "android",
-      "pushed_at": "2026-10-25",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-05-27"
     },
     {
@@ -1065,7 +1065,7 @@
         "stockfish"
       ],
       "category": "game",
-      "pushed_at": "2026-11-01",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-06-10"
     },
     {
@@ -1225,7 +1225,7 @@
         "privacy"
       ],
       "category": "android",
-      "pushed_at": "2026-11-01",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-06-27"
     },
     {
@@ -1246,7 +1246,7 @@
         "self-hosted"
       ],
       "category": "web",
-      "pushed_at": "2026-10-25",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-08-31"
     },
     {
@@ -1266,7 +1266,7 @@
         "kotlin"
       ],
       "category": "android",
-      "pushed_at": "2026-10-26",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-08-01"
     },
     {
@@ -1305,7 +1305,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-31",
+      "pushed_at": "2026-11-07",
       "created_at": "2025-12-28"
     },
     {
@@ -1358,7 +1358,7 @@
         "virtual-pet"
       ],
       "category": "game",
-      "pushed_at": "2026-10-31",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-09-15"
     },
     {
@@ -1371,7 +1371,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-11-06",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-09-23"
     },
     {
@@ -1384,7 +1384,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-10-30",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-10-30"
     },
     {
@@ -1404,7 +1404,7 @@
         "qrcode"
       ],
       "category": "android",
-      "pushed_at": "2026-10-25",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-06-03"
     },
     {
@@ -1445,7 +1445,7 @@
         "security"
       ],
       "category": "android",
-      "pushed_at": "2026-11-02",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-05-28"
     },
     {
@@ -1458,7 +1458,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-10-25",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-08-12"
     },
     {
@@ -1524,7 +1524,7 @@
         "portfolio"
       ],
       "category": "python",
-      "pushed_at": "2026-11-05",
+      "pushed_at": "2026-11-06",
       "created_at": "2026-06-10"
     },
     {
@@ -1588,7 +1588,7 @@
         "widget"
       ],
       "category": "android",
-      "pushed_at": "2026-10-25",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-05-01"
     },
     {
@@ -1627,7 +1627,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-11-03",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-09-20"
     },
     {
@@ -1662,7 +1662,7 @@
         "travel"
       ],
       "category": "web",
-      "pushed_at": "2026-11-01",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-06-02"
     },
     {
@@ -1675,7 +1675,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-11-05",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-08-19"
     },
     {
@@ -1709,7 +1709,7 @@
         "privacy"
       ],
       "category": "android",
-      "pushed_at": "2026-08-20",
+      "pushed_at": "2026-11-07",
       "created_at": "2026-08-16"
     },
     {
