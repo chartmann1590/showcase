@@ -1,23 +1,23 @@
 {
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
     "bio": "👋 Hi, I'm Charles! A versatile programmer specializing in Python, Flask, and automation. I enjoy crafting web applications, smart home integrations, and innova",
     "avatar_url": "https://avatars.githubusercontent.com/u/73352603?v=4",
     "html_url": "https://github.com/chartmann1590",
-    "public_repos": 140,
+    "public_repos": 141,
     "followers": 10
   },
   "stats": {
-    "total": 108,
-    "total_stars": 141,
+    "total": 109,
+    "total_stars": 142,
     "by_category": {
       "android": 35,
       "web": 39,
       "ai": 2,
       "game": 9,
-      "python": 16,
+      "python": 17,
       "iot": 5,
       "other": 2
     }
@@ -59,25 +59,12 @@
       "created_at": "2025-07-26"
     },
     {
-      "name": "bee-ai-web",
-      "description": "A web interface for the Bee AI that uses your api key",
-      "url": "https://github.com/chartmann1590/bee-ai-web",
-      "homepage": "",
-      "language": "HTML",
-      "stars": 20,
-      "forks": 0,
-      "topics": [],
-      "category": "web",
-      "pushed_at": "2025-07-25",
-      "created_at": "2025-04-20"
-    },
-    {
       "name": "LiveTranscribe-Android",
       "description": "Live android transcription app",
       "url": "https://github.com/chartmann1590/LiveTranscribe-Android",
       "homepage": "https://chartmann1590.github.io/LiveTranscribe-Android/",
       "language": "Kotlin",
-      "stars": 20,
+      "stars": 21,
       "forks": 10,
       "topics": [
         "accessibility",
@@ -90,8 +77,21 @@
         "whisper"
       ],
       "category": "android",
-      "pushed_at": "2026-11-11",
+      "pushed_at": "2026-11-12",
       "created_at": "2026-04-10"
+    },
+    {
+      "name": "bee-ai-web",
+      "description": "A web interface for the Bee AI that uses your api key",
+      "url": "https://github.com/chartmann1590/bee-ai-web",
+      "homepage": "",
+      "language": "HTML",
+      "stars": 20,
+      "forks": 0,
+      "topics": [],
+      "category": "web",
+      "pushed_at": "2025-07-25",
+      "created_at": "2025-04-20"
     },
     {
       "name": "DriveVault",
@@ -111,7 +111,7 @@
         "privacy"
       ],
       "category": "android",
-      "pushed_at": "2026-11-09",
+      "pushed_at": "2026-11-11",
       "created_at": "2026-06-08"
     },
     {
@@ -121,7 +121,7 @@
       "homepage": "https://chartmann1590.github.io/android-photobooth/",
       "language": "Kotlin",
       "stars": 3,
-      "forks": 0,
+      "forks": 1,
       "topics": [
         "android",
         "camera",
@@ -151,7 +151,7 @@
         "stable-diffusion"
       ],
       "category": "android",
-      "pushed_at": "2026-11-11",
+      "pushed_at": "2026-11-12",
       "created_at": "2026-07-19"
     },
     {
@@ -249,7 +249,7 @@
         "self-hosted"
       ],
       "category": "android",
-      "pushed_at": "2026-11-09",
+      "pushed_at": "2026-11-11",
       "created_at": "2026-01-01"
     },
     {
@@ -312,7 +312,7 @@
         "kotlin"
       ],
       "category": "web",
-      "pushed_at": "2026-11-09",
+      "pushed_at": "2026-11-11",
       "created_at": "2026-06-02"
     },
     {
@@ -575,7 +575,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-11-04",
+      "pushed_at": "2026-11-12",
       "created_at": "2026-06-21"
     },
     {
@@ -588,7 +588,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-11-10",
+      "pushed_at": "2026-11-11",
       "created_at": "2026-04-15"
     },
     {
@@ -660,7 +660,7 @@
         "public-transit"
       ],
       "category": "android",
-      "pushed_at": "2026-11-11",
+      "pushed_at": "2026-11-12",
       "created_at": "2026-06-30"
     },
     {
@@ -703,7 +703,7 @@
         "price-tracker"
       ],
       "category": "android",
-      "pushed_at": "2026-11-11",
+      "pushed_at": "2026-11-12",
       "created_at": "2026-09-08"
     },
     {
@@ -842,7 +842,7 @@
         "self-hosted"
       ],
       "category": "web",
-      "pushed_at": "2026-11-03",
+      "pushed_at": "2026-11-12",
       "created_at": "2026-05-18"
     },
     {
@@ -913,7 +913,7 @@
         "jetpack-compose"
       ],
       "category": "android",
-      "pushed_at": "2026-11-07",
+      "pushed_at": "2026-11-11",
       "created_at": "2026-04-30"
     },
     {
@@ -945,7 +945,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-11-10",
+      "pushed_at": "2026-11-12",
       "created_at": "2026-04-18"
     },
     {
@@ -1005,8 +1005,21 @@
       "forks": 0,
       "topics": [],
       "category": "other",
-      "pushed_at": "2026-11-11",
+      "pushed_at": "2026-11-12",
       "created_at": "2026-11-07"
+    },
+    {
+      "name": "hartmann-studios-fdroid",
+      "description": "Hartmann Studios self-hosted F-Droid repository (direct builds with Stripe Pro + AdMob). Repo: https://charleshartmann.com/fdroid/repo",
+      "url": "https://github.com/chartmann1590/hartmann-studios-fdroid",
+      "homepage": "https://charleshartmann.com/fdroid/",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "category": "python",
+      "pushed_at": "2026-11-12",
+      "created_at": "2026-11-12"
     },
     {
       "name": "homelab-the-right-way",
@@ -1032,7 +1045,7 @@
         "selfhosted"
       ],
       "category": "iot",
-      "pushed_at": "2026-11-10",
+      "pushed_at": "2026-11-11",
       "created_at": "2026-10-10"
     },
     {
@@ -1259,7 +1272,7 @@
         "self-hosted"
       ],
       "category": "web",
-      "pushed_at": "2026-11-08",
+      "pushed_at": "2026-11-12",
       "created_at": "2026-08-31"
     },
     {
@@ -1305,7 +1318,7 @@
       "forks": 0,
       "topics": [],
       "category": "web",
-      "pushed_at": "2026-11-09",
+      "pushed_at": "2026-11-12",
       "created_at": "2026-06-13"
     },
     {
@@ -1371,7 +1384,7 @@
         "virtual-pet"
       ],
       "category": "game",
-      "pushed_at": "2026-11-11",
+      "pushed_at": "2026-11-12",
       "created_at": "2026-09-15"
     },
     {
@@ -1458,7 +1471,7 @@
         "security"
       ],
       "category": "android",
-      "pushed_at": "2026-11-11",
+      "pushed_at": "2026-11-12",
       "created_at": "2026-05-28"
     },
     {
@@ -1537,7 +1550,7 @@
         "portfolio"
       ],
       "category": "python",
-      "pushed_at": "2026-11-10",
+      "pushed_at": "2026-11-11",
       "created_at": "2026-06-10"
     },
     {
