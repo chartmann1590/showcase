@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
@@ -11,7 +11,7 @@
   },
   "stats": {
     "total": 109,
-    "total_stars": 142,
+    "total_stars": 143,
     "by_category": {
       "android": 35,
       "web": 39,
@@ -64,7 +64,7 @@
       "url": "https://github.com/chartmann1590/LiveTranscribe-Android",
       "homepage": "https://chartmann1590.github.io/LiveTranscribe-Android/",
       "language": "Kotlin",
-      "stars": 21,
+      "stars": 22,
       "forks": 10,
       "topics": [
         "accessibility",
@@ -588,7 +588,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-11-11",
+      "pushed_at": "2026-11-12",
       "created_at": "2026-04-15"
     },
     {
@@ -1045,7 +1045,7 @@
         "selfhosted"
       ],
       "category": "iot",
-      "pushed_at": "2026-11-11",
+      "pushed_at": "2026-11-12",
       "created_at": "2026-10-10"
     },
     {
@@ -1397,7 +1397,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-11-11",
+      "pushed_at": "2026-11-13",
       "created_at": "2026-09-23"
     },
     {
@@ -1550,7 +1550,7 @@
         "portfolio"
       ],
       "category": "python",
-      "pushed_at": "2026-11-11",
+      "pushed_at": "2026-11-12",
       "created_at": "2026-06-10"
     },
     {
@@ -1701,7 +1701,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-11-07",
+      "pushed_at": "2026-11-12",
       "created_at": "2026-08-19"
     },
     {
