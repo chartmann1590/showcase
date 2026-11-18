@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
@@ -11,7 +11,7 @@
   },
   "stats": {
     "total": 109,
-    "total_stars": 145,
+    "total_stars": 147,
     "by_category": {
       "android": 35,
       "web": 39,
@@ -31,7 +31,7 @@
       "url": "https://github.com/chartmann1590/Rokid-Maps",
       "homepage": "https://chartmann1590.github.io/Rokid-Maps/",
       "language": "Kotlin",
-      "stars": 42,
+      "stars": 43,
       "forks": 12,
       "topics": [
         "android",
@@ -99,7 +99,7 @@
       "url": "https://github.com/chartmann1590/DriveVault",
       "homepage": "https://chartmann1590.github.io/DriveVault/",
       "language": "Kotlin",
-      "stars": 6,
+      "stars": 7,
       "forks": 2,
       "topics": [
         "android",
@@ -608,7 +608,7 @@
         "smartwatch"
       ],
       "category": "android",
-      "pushed_at": "2026-11-10",
+      "pushed_at": "2026-11-17",
       "created_at": "2026-11-03"
     },
     {
@@ -945,7 +945,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-11-17",
+      "pushed_at": "2026-11-18",
       "created_at": "2026-04-18"
     },
     {
@@ -1045,7 +1045,7 @@
         "selfhosted"
       ],
       "category": "iot",
-      "pushed_at": "2026-11-16",
+      "pushed_at": "2026-11-17",
       "created_at": "2026-10-10"
     },
     {
@@ -1550,7 +1550,7 @@
         "portfolio"
       ],
       "category": "python",
-      "pushed_at": "2026-11-16",
+      "pushed_at": "2026-11-17",
       "created_at": "2026-06-10"
     },
     {
