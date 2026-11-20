@@ -6,7 +6,7 @@
 
 **Android apps · AI tools · Web platforms · Python scripts — all open source**
 
-[![Apps](https://img.shields.io/badge/Apps-109-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
+[![Apps](https://img.shields.io/badge/Apps-113-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
 [![Stars](https://img.shields.io/badge/Total_Stars-149-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-☕-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/charleshartmann)
 [![Google Play](https://img.shields.io/badge/Google_Play-Hartmann_Studios-01875f?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Hartmann+Studios)
@@ -126,7 +126,7 @@
 | [AI-Social](https://github.com/chartmann1590/AI-Social) | A React Native + Expo app that simulates a social media experience powered by a local Ollama model. · [Demo](https://chartmann1590.github.io/AI-Social/) | TypeScript | ⭐ 2 |
 | [AI-Character-Chat](https://github.com/chartmann1590/AI-Character-Chat) | A Python Flask-based web application that mimics the functionality of Character.AI, enabling engaging, interactive conversations with AI-driven characters. This project leverages local AI models powered by Ollama for generating dynamic and context-aware interactions. | HTML |  |
 
-## 🐍 Python Tools (17)
+## 🐍 Python Tools (20)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
@@ -137,18 +137,21 @@
 | [chartmann1590.github.io](https://github.com/chartmann1590/chartmann1590.github.io) | Root GitHub Pages site for app-ads.txt | Python |  |
 | [Church-Slides-Studio](https://github.com/chartmann1590/Church-Slides-Studio) | Self-hosted web app that converts bulletin text or documents into 1920x1080 JPG slides. Upload title/content backgrounds, generate slides, and optionally verify them with a remote Ollama vision model. | Python |  |
 | [discord-summarizer](https://github.com/chartmann1590/discord-summarizer) | Flask app that monitors Discord channels and generates AI summaries using Ollama | Python |  |
+| [earshot](https://github.com/chartmann1590/earshot) | Find, follow and listen to podcasts: a podcast app made for Luma · [Demo](https://simplyluma.com) | Python |  |
 | [freshdesk-email-kb-automation](https://github.com/chartmann1590/freshdesk-email-kb-automation) | Hosted Freshdesk email KB auto-reply workflow for SoulShine support | Python |  |
+| [hartmann-office](https://github.com/chartmann1590/hartmann-office) | Documents, spreadsheets and presentations in one app, made for Luma · [Demo](https://simplyluma.com) | Python |  |
 | [hartmann-studios-fdroid](https://github.com/chartmann1590/hartmann-studios-fdroid) | Hartmann Studios self-hosted F-Droid repository (direct builds with Stripe Pro + AdMob). Repo: https://charleshartmann.com/fdroid/repo · [Demo](https://charleshartmann.com/fdroid/) | Python |  |
 | [mls-home-portal](https://github.com/chartmann1590/mls-home-portal) | AI-assisted MLS-style home search portal with Ollama, Scrapling, and saved searches · [Demo](https://chartmann1590.github.io/mls-home-portal/) | Python |  |
 | [Mumble-AI](https://github.com/chartmann1590/Mumble-AI) | A Docker Stack for a mumble speak bot that utilizes ollama, piper and faster-whisper aloing with a web based contol panel. | Python |  |
 | [NutriCoach-AI](https://github.com/chartmann1590/NutriCoach-AI) | A simple self hosted ai powered nutrition tracker and coach | Python |  |
 | [showcase](https://github.com/chartmann1590/showcase) | My complete portfolio — Android apps, AI tools, web apps, and more · [Demo](https://chartmann1590.github.io/showcase) | Python |  |
+| [simmer](https://github.com/chartmann1590/simmer) | Recipes and cooking for Luma: import any recipe, a hands-free cook mode with step timers, a shopping list, and a safe community. GTK4/LumaUI Flatpak. · [Demo](https://simplyluma.com) | Python |  |
 | [Sip-Bridge](https://github.com/chartmann1590/Sip-Bridge) | A sip bright that accepts calls at a pre configured extension and uses groq for whisper3, local ollama gpt, and openai-egde-tts for tts playback on the sip bridge with a nice user interface | Python |  |
 | [tiktok-live-gift-tracker](https://github.com/chartmann1590/tiktok-live-gift-tracker) | Real-time TikTok live stream gift tracking dashboard. Persistent SQLite storage, auto-reconnect, multi-streamer support, stream history, and top gifters leaderboard. · [Demo](https://chartmann1590.github.io/tiktok-live-gift-tracker/) | Python |  |
 | [Wedding-Outreach](https://github.com/chartmann1590/Wedding-Outreach) | A simple script to automate the process of reaching out to your wedding guests for their address using a CSV upload and Facebook Messenger | Python |  |
 | [YT-Bulk-Downloader](https://github.com/chartmann1590/YT-Bulk-Downloader) | Python based Bulk YT Video donwloader | Python |  |
 
-## 🎮 Games (9)
+## 🎮 Games (10)
 
 | App | Description | Language | Stars |
 |-----|-------------|----------|-------|
@@ -159,6 +162,7 @@
 | [Business-Simulator](https://github.com/chartmann1590/Business-Simulator) | A fun Business Simulator game that uses ai to run a business | HTML |  |
 | [knightfall](https://github.com/chartmann1590/knightfall) | Beautiful chess for Android - play a grandmaster-strength AI with an on-device coach, battle friends online, climb the leaderboard · [Demo](https://chartmann1590.github.io/knightfall/) | Kotlin |  |
 | [pocket-kin](https://github.com/chartmann1590/pocket-kin) | Pocket Kin — A cozy storybook virtual-pet game for Android with Wear OS companion, health tracking, and home screen widget · [Demo](https://chartmann1590.github.io/pocket-kin/) | GDScript |  |
+| [rotline](https://github.com/chartmann1590/rotline) | Top-down zombie survival for Luma, made with Godot 4: real-time lights, 12 levels, Endless, keyboard, touch, remote or gamepad · [Demo](https://simplyluma.com) | Python |  |
 | [shards-of-eldoria](https://github.com/chartmann1590/shards-of-eldoria) | Shards of Eldoria - A fantasy turn-based RPG built with React Native + Expo | TypeScript |  |
 | [SpaceShooter](https://github.com/chartmann1590/SpaceShooter) | A feature-rich space shooter game for Android with boss battles, power-ups, achievements, and multiple game modes. · [Demo](https://chartmann1590.github.io/SpaceShooter) | Java |  |
 
@@ -195,6 +199,6 @@ If you find my projects useful, consider buying me a coffee!
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
 </a>
 
-*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-11-19*
+*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-11-20*
 
 </div>
