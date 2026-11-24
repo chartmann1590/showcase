@@ -161,7 +161,7 @@
 | [arcane-dark](https://github.com/chartmann1590/arcane-dark) | Your AI Dungeon Master lives on your phone — solo offline & private, or with up to 5 friends. Coming soon to Google Play for Android. · [Demo](https://chartmann1590.github.io/arcane-dark/) | Dart |  |
 | [Business-Simulator](https://github.com/chartmann1590/Business-Simulator) | A fun Business Simulator game that uses ai to run a business | HTML |  |
 | [knightfall](https://github.com/chartmann1590/knightfall) | Beautiful chess for Android - play a grandmaster-strength AI with an on-device coach, battle friends online, climb the leaderboard · [Demo](https://chartmann1590.github.io/knightfall/) | Kotlin |  |
-| [pocket-kin](https://github.com/chartmann1590/pocket-kin) | Pocket Kin — A cozy storybook virtual-pet game for Android with Wear OS companion, health tracking, and home screen widget · [Demo](https://chartmann1590.github.io/pocket-kin/) | GDScript |  |
+| [pocket-kin](https://github.com/chartmann1590/pocket-kin) | Pocket Kin — a cozy storybook virtual-pet game for Android with a Wear OS companion, walking-powered game rewards, and a home-screen widget · [Demo](https://chartmann1590.github.io/pocket-kin/) | GDScript |  |
 | [rotline](https://github.com/chartmann1590/rotline) | Top-down zombie survival for Luma, made with Godot 4: real-time lights, 12 levels, Endless, keyboard, touch, remote or gamepad · [Demo](https://simplyluma.com) | GDScript |  |
 | [shards-of-eldoria](https://github.com/chartmann1590/shards-of-eldoria) | Shards of Eldoria - A fantasy turn-based RPG built with React Native + Expo | TypeScript |  |
 | [SpaceShooter](https://github.com/chartmann1590/SpaceShooter) | A feature-rich space shooter game for Android with boss battles, power-ups, achievements, and multiple game modes. · [Demo](https://chartmann1590.github.io/SpaceShooter) | Java |  |
@@ -199,6 +199,6 @@ If you find my projects useful, consider buying me a coffee!
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
 </a>
 
-*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-11-23*
+*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-11-24*
 
 </div>
