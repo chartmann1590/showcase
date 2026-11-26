@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "profile": {
     "login": "chartmann1590",
     "name": "Charles Hartmann",
@@ -11,7 +11,7 @@
   },
   "stats": {
     "total": 113,
-    "total_stars": 152,
+    "total_stars": 153,
     "by_category": {
       "android": 35,
       "web": 39,
@@ -31,7 +31,7 @@
       "url": "https://github.com/chartmann1590/Rokid-Maps",
       "homepage": "https://chartmann1590.github.io/Rokid-Maps/",
       "language": "Kotlin",
-      "stars": 44,
+      "stars": 45,
       "forks": 13,
       "topics": [
         "android",
@@ -140,7 +140,7 @@
       "homepage": "https://chartmann1590.github.io/pixeldream/",
       "language": "Kotlin",
       "stars": 3,
-      "forks": 1,
+      "forks": 2,
       "topics": [
         "android",
         "image-generation",
@@ -301,7 +301,7 @@
       "homepage": "https://chartmann1590.github.io/Pocket-Assistant/",
       "language": "Kotlin",
       "stars": 2,
-      "forks": 0,
+      "forks": 1,
       "topics": [
         "android",
         "jetpack-compose",
@@ -334,7 +334,7 @@
         "kotlin"
       ],
       "category": "web",
-      "pushed_at": "2026-11-23",
+      "pushed_at": "2026-11-25",
       "created_at": "2026-06-02"
     },
     {
@@ -588,7 +588,7 @@
       "forks": 0,
       "topics": [],
       "category": "python",
-      "pushed_at": "2026-11-24",
+      "pushed_at": "2026-11-25",
       "created_at": "2026-04-15"
     },
     {
@@ -772,7 +772,7 @@
       "homepage": "https://chartmann1590.github.io/dreamloom/",
       "language": "Kotlin",
       "stars": 0,
-      "forks": 0,
+      "forks": 1,
       "topics": [
         "android",
         "dream-journal",
@@ -937,7 +937,7 @@
         "jetpack-compose"
       ],
       "category": "android",
-      "pushed_at": "2026-11-11",
+      "pushed_at": "2026-11-26",
       "created_at": "2026-04-30"
     },
     {
@@ -1445,7 +1445,7 @@
       "forks": 0,
       "topics": [],
       "category": "android",
-      "pushed_at": "2026-11-25",
+      "pushed_at": "2026-11-26",
       "created_at": "2026-09-23"
     },
     {
@@ -1622,7 +1622,7 @@
         "portfolio"
       ],
       "category": "python",
-      "pushed_at": "2026-11-24",
+      "pushed_at": "2026-11-25",
       "created_at": "2026-06-10"
     },
     {
