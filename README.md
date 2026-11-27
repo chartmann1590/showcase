@@ -7,7 +7,7 @@
 **Android apps · AI tools · Web platforms · Python scripts — all open source**
 
 [![Apps](https://img.shields.io/badge/Apps-113-4f6fff?style=for-the-badge&logo=github&logoColor=white)](https://chartmann1590.github.io/showcase)
-[![Stars](https://img.shields.io/badge/Total_Stars-153-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
+[![Stars](https://img.shields.io/badge/Total_Stars-154-gold?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chartmann1590)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-☕-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/charleshartmann)
 [![Google Play](https://img.shields.io/badge/Google_Play-Hartmann_Studios-01875f?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Hartmann+Studios)
 
@@ -51,6 +51,7 @@
 | [Pocket-Assistant](https://github.com/chartmann1590/Pocket-Assistant) | Local-first Android AI assistant — OCR, on-device LLM, semantic search, tasks & reminders · [Demo](https://chartmann1590.github.io/Pocket-Assistant/) | Kotlin | ⭐ 2 |
 | [auracast-weather](https://github.com/chartmann1590/auracast-weather) | AuraCast Weather — AI-narrated, on-device weather app for Android (Kotlin/Compose). Live radar, Gemma 4 weather podcast, no account needed. · [Demo](https://auracast-weather.web.app) | Kotlin | ⭐ 1 |
 | [dosely](https://github.com/chartmann1590/dosely) | 💉 Private, on-device GLP-1 injection, pen-stock & weight tracker for Android — with an offline AI coach. Now on Google Play. · [Demo](https://chartmann1590.github.io/dosely/) | Kotlin | ⭐ 1 |
+| [qrcode-scanner-android](https://github.com/chartmann1590/qrcode-scanner-android) | Modern Android QR & Barcode Reader · [Demo](https://chartmann1590.github.io/qrcode-scanner-android/) | Kotlin | ⭐ 1 |
 | [ai-caller](https://github.com/chartmann1590/ai-caller) | Privacy-First Autonomous On-Device AI Phone-Calling Android Agent | Kotlin |  |
 | [bluetooth-chat](https://github.com/chartmann1590/bluetooth-chat) | — · [Demo](https://chartmann1590.github.io/bluetooth-chat/) | Kotlin |  |
 | [chronos-revived](https://github.com/chartmann1590/chronos-revived) | Open-source Android app that brings the discontinued Chronos smart disc back to life · [Demo](https://chartmann1590.github.io/chronos-revived/) | Kotlin |  |
@@ -66,7 +67,6 @@
 | [owefolk](https://github.com/chartmann1590/owefolk) | Beautiful Firebase-backed Android shared-expense tracking with honest external payment handoff. · [Demo](https://chartmann1590.github.io/owefolk/) | Kotlin |  |
 | [path](https://github.com/chartmann1590/path) | A bible study app for android with (self hosted) AI summaries · [Demo](https://path-bible-study.web.app/) | Kotlin |  |
 | [porchlight-press](https://github.com/chartmann1590/porchlight-press) | Porchlight Press: a free, privacy-first personalized local newspaper for Android. AI-assisted briefs with full source attribution. Zero operating cost. | Kotlin |  |
-| [qrcode-scanner-android](https://github.com/chartmann1590/qrcode-scanner-android) | Modern Android QR & Barcode Reader · [Demo](https://chartmann1590.github.io/qrcode-scanner-android/) | Kotlin |  |
 | [ScamRadar](https://github.com/chartmann1590/ScamRadar) | ScamRadar: AI Scam & Phishing Detector — Free, on-device AI that tells you in 3 seconds whether that text, email, or voicemail is a scam. · [Demo](https://chartmann1590.github.io/ScamRadar/) | Kotlin |  |
 | [scripturesearch](https://github.com/chartmann1590/scripturesearch) | — · [Demo](https://chartmann1590.github.io/scripturesearch/) | Java |  |
 | [StickyNotes](https://github.com/chartmann1590/StickyNotes) | Modern Android sticky notes app with multiple notes and linked home screen widgets. · [Demo](https://chartmann1590.github.io/StickyNotes/) | Java |  |
@@ -199,6 +199,6 @@ If you find my projects useful, consider buying me a coffee!
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="50">
 </a>
 
-*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-11-26*
+*🤖 This README is auto-updated daily via [GitHub Actions](https://github.com/chartmann1590/showcase/actions) · Last updated: 2026-11-27*
 
 </div>
